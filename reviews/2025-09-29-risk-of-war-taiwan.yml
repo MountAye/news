@@ -1,0 +1,181 @@
+title: 明日浪潮·东海
+tags: [明日浪潮,中国,台湾,日本,美国]
+excerpt: "我们一定要解放台湾——毛泽东"
+data:
+- title: 日本2022年防卫白皮书中文版
+  author: 日本防卫省
+  tags: [report,日本,防卫白皮书]
+  visuals:
+  - alt: 中文PDF文档
+    url: https://www.mod.go.jp/en/publ/w_paper/wp2022/DOJ2022_Digest_CH.pdf
+#
+- title: 新闻报道
+  author: RFI
+  tags: [report,日本,防卫白皮书]
+  date: 2022-12-18
+  url: https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20221218-%E6%97%A5%E5%AA%92%E8%81%9A%E7%84%A6%E6%97%A5%E6%9C%AC%E5%8F%8D%E5%87%BB%E8%83%BD%E5%8A%9B%E7%AA%81%E7%A0%B4-%E4%B8%93%E5%AE%88%E9%98%B2%E5%8D%AB
+  details:
+  - text: 日本政府16日以新的《国家安全保障战略》等3份安保相关文件宣告将拥有反击能力。
+  - text: 日本将拥有以自卫为目的摧毁他国疆域内导弹基地等的反击能力（对敌基地攻击能力）。
+  - text: 据共同社，日本政府在2015年制定了允许行使集体自卫权的安全保障相关法。但日本能够拥有的防卫力范围依旧模糊不清，而且还在继续一点点地扩大。
+#
+- author: Twitter@Inty
+  title: 中国军用无人机飞过冲绳本岛和宫古岛之间空域
+  tags: [report,中国,无人武器,冲绳,日常摩擦]
+  url: "https://twitter.com/__Inty__/status/1609751543129210880"
+#
+- title: 中国军用无人机飞过冲绳本岛和宫古岛之间空域
+  author: NHK
+  tags: [deleted,中国,无人武器,冲绳,日常摩擦]
+  date: 2023-01-01
+  url: "https://www3.nhk.or.jp/nhkworld/zh/news/404379/"
+  backup: "https://www.facebook.com/NHKWORLDChinese/posts/8593740274032200/"
+  details:
+  - text: 中方无人机没有侵犯日本领空。
+  - text: 日本航空自卫队战斗机进行了紧急升空拦截。
+  - text: 首次在日本周边确认到该机型。截至目前，共确认到中国军方4种型号的无人机。
+  - text: 该新闻报道已在 NHK 网站被删除，原因未知。
+#
+- date: 2021-03-14
+  tags: [民间推演,中国]
+  author: YouTube@说真话的徐某人
+  title: 【视频合集】怎样打台湾
+  url: "https://www.youtube.com/playlist?list=PL6aTnkbuMFlU0OXriBH36NhYOb216-PMk"
+#
+- date: 2022-01-12
+  tags: [民间推演,中国]
+  author: YouTube@CRAZY262
+  title: 【大国角斗】攻岛战略 海陆空全方位对抗！料敌从宽的兵棋推演
+  url: "https://www.youtube.com/watch?v=e3yLDhCIRu0"
+#
+- date: 2024-01-05
+  tags: [民间推演,中国]
+  author: BiliBili@左手君-千伏工作室
+  title: 目标台湾高雄！抢滩登陆！明日浪潮-东海01
+  url: "https://www.bilibili.com/video/BV1st4y1Z7Ah"
+#
+- date: 2025-08-02
+  tags: [民间推演,台湾]
+  author: 电视剧
+  title: 零日攻击
+  url: "https://zh.wikipedia.org/wiki/%E9%9B%B6%E6%97%A5%E6%94%BB%E6%93%8A_(%E9%9B%BB%E8%A6%96%E5%8A%87)"
+#
+- date: 2025-09-12
+  tags: [民间推演,中国]
+  author: BiliBili@电子伏龙芝
+  title: 手把手教你制定一份登陆台湾的作战计划
+  url: "https://www.bilibili.com/video/BV1MJHrzTEGH"
+#
+- title: 台湾总统蔡英文到澎湖慰问军队
+  author: VOA
+  date: 2022-12-30
+  tags: [台湾,战争准备]
+  url: https://www.voachinese.com/a/6897738.html
+  details:
+  - text: 蔡英文：“台湾位于民主防线的最前线，唯有备战才能够避战，能战才能止战”
+#
+- title: 中华民国义务役役期将从2024年起，从现有的四个月延长至一年
+  author: 联合早报@韩咏红
+  tags: [台湾,战争准备]
+  date: 2022-12-30
+  url: https://www.zaobao.com.sg/news/china/story20221230-1348274
+  details:
+  - text: 俄乌战争造成的危机感，加上美国的持续性施压，都迫使这个“地球上最危险的地方”不得不面对兵役改革以加强防卫的问题。
+  - text: 维护台海和平，需要大陆与台湾改善关系，也需要台湾意识到“保台”不能单边依靠美国。但愿大家不要在开战前一天才醒来
+#
+- author: RFI
+  title: 2022年圣诞节中国军机在台海周边的活动
+  tags: [中国,日常摩擦]
+  url: https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20221226-%E5%8F%B0%E6%B9%BE-71%E6%9E%B6%E4%B8%AD%E5%9B%BD%E5%86%9B%E6%9C%BA%E5%9C%A8%E5%8F%B0%E6%B5%B7%E5%91%A8%E8%BE%B9%E6%B4%BB%E5%8A%A8-47%E6%9E%B6%E6%AC%A1%E9%80%BE%E8%B6%8A%E6%B5%B7%E5%B3%BD%E4%B8%AD%E7%BA%BF
+#
+- author: Twitter@BBC News 中文
+  title: 2022年圣诞节中国军机在台海周边的活动
+  url: https://twitter.com/bbcchinese/status/1607262532103798784
+#
+- title: 2022年圣诞节中国军机在台海周边的活动
+  date: 2022-12-26
+  tags: [中国,日常摩擦]
+  details:
+  - text: 中国越来越多地使用的施压手段之一是让战机飞越台湾的防空区。自今年年初以来，已经记录了1700多起此类入侵事件，相比之下，2021年为969起，2020年为146起。
+#
+#
+- date: 2025-09-29
+  tags: [中国,战争准备]
+  author: RFI 法广
+  title: 美情報報告：中國正迅速擴充商業渡輪船隊 為侵台做準備
+  url: "https://www.rfi.fr/tw/%E5%9C%8B%E9%9A%9B/20250929-%E7%BE%8E%E6%83%85%E5%A0%B1%E5%A0%B1%E5%91%8A-%E4%B8%AD%E5%9C%8B%E6%AD%A3%E8%BF%85%E9%80%9F%E6%93%B4%E5%85%85%E5%95%86%E6%A5%AD%E6%B8%A1%E8%BC%AA%E8%88%B9%E9%9A%8A-%E7%82%BA%E4%BE%B5%E5%8F%B0%E5%81%9A%E6%BA%96%E5%82%99"
+#
+- date: 2025-10-01
+  tags: [中国,战争准备]
+  author: 產經新聞
+  title: ＜独自＞中国軍が台湾総統府模した施設隣に「模擬司法院」と地下道「斬首作戦」訓練か
+  url: "https://www.sankei.com/article/20251001-J6TMERNIBRMKRGH5562GRAO7BM/"
+  details:
+  - date: 2025-10-01
+    author: X@矢板明夫
+    text: 汉语介绍
+    url: "https://x.com/Yaita_Akio/status/1973408418246565947"
+- date: 2025-11-07
+  tags: [中国,战争准备]
+  author: CNN
+  title: "‘A new arms race’: Satellite images, maps and records reveal huge surge in China’s missile production sites"
+  url: "https://www.cnn.com/2025/11/07/world/china-missile-production-expansion-revealed-satellite-images-intl-invs"
+  details:
+  - author: X@极光
+    text: 汉语介绍
+    url: "https://x.com/Aurora107E/status/1986955699105227161"
+#
+- date: 2025-10-29
+  tags: [台湾,战争准备]
+  author: Routers
+  title: Citing Biblical story, Taiwan president says Israel is a model for island's defence
+  url: "https://www.reuters.com/business/aerospace-defense/citing-biblical-story-taiwan-president-says-israel-is-model-islands-defence-2025-10-28/"
+#
+- date: 2025-10-13
+  tags: [美国,战争准备]
+  author: RAND 兰德公司
+  title: Stabilizing the U.S.-China Rivalry
+  url: "https://www.rand.org/pubs/research_reports/RRA4107-1.html"
+  details:
+  - text: 已撤回，等待进一步审阅。This document has been withdrawn for further review.
+#
+- tags: [台湾有事就是日本有事]
+  author: 维基百科
+  title: [台湾有事就是日本有事]
+  url: "https://zh.wikipedia.org/zh-hans/%E5%8F%B0%E6%B9%BE%E6%9C%89%E4%BA%8B%E5%B0%B1%E6%98%AF%E6%97%A5%E6%9C%AC%E6%9C%89%E4%BA%8B"
+#
+- date: 2021-12-02
+  tags: [台湾有事就是日本有事]
+  author: DW 德国之声
+  title: 安倍稱「台灣有事就是日本有事」 北京約見大使表抗議
+  url: "https://www.dw.com/zh-hant/%E5%AE%89%E5%80%8D%E7%A8%B1%E5%8F%B0%E7%81%A3%E6%9C%89%E4%BA%8B%E5%B0%B1%E6%98%AF%E6%97%A5%E6%9C%AC%E6%9C%89%E4%BA%8B-%E5%8C%97%E4%BA%AC%E7%B4%84%E8%A6%8B%E5%A4%A7%E4%BD%BF%E8%A1%A8%E6%8A%97%E8%AD%B0/a-59995111"
+#
+- date: 2025-11-14
+  tags: [台湾有事就是日本有事]
+  author: BBC
+  title: “台湾有事，就是日本有事”？高市早苗发言引发中日外交风波，北京将如何反制
+  url: "https://www.bbc.com/zhongwen/articles/cp85eg85zzgo/simp"
+  details:
+  - date: 2025-11-17
+    author: 文昭
+    title: 高市早苗最具威力的「殺手鐧」是這個，中日終究有一戰？
+    text: 日本可能修改“无核三原则”，允许美军在日本部署核武器。
+    url: "https://www.youtube.com/watch?v=A1NqhF69h2g"
+  - date: 2025-11-19
+    author: 文昭
+    text: 又鬧崩，「插兜訓斥日本外交官」刷新歷史；「一中底線」硬不過它
+    url: "https://www.youtube.com/watch?v=FFCWmI19YTI"
+#
+- date: 2025-11-23
+  tags: [台湾有事就是日本有事,日本,战争准备]
+  author: DW
+  title: 日本防长推进与那国岛飞弹部署　中国回应：危险动向
+  url: "https://www.dw.com/zh/%E6%97%A5%E6%9C%AC%E9%98%B2%E9%95%BF%E6%8E%A8%E8%BF%9B%E4%B8%8E%E9%82%A3%E5%9B%BD%E5%B2%9B%E9%A3%9E%E5%BC%B9%E9%83%A8%E7%BD%B2%E4%B8%AD%E5%9B%BD%E5%9B%9E%E5%BA%94%E5%8D%B1%E9%99%A9%E5%8A%A8%E5%90%91/a-74860059"
+  details: 
+  - text: 日本防卫大臣小泉进次郎23日造访日本南部的与那国岛，透露日本计画在当地部署飞弹部队的计画并未改变。中国外交部则批评日方此举是“挑动军事对立”。 
+#
+- date: 2025-11-26
+  tags: [台湾,战争准备]
+  author: RFI
+  title: 赖清德总统提台湾史上最高国防预算案表防御决心 国民党批将债留子孙
+  url: "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251127-%E8%B5%96%E6%B8%85%E5%BE%B7%E6%80%BB%E7%BB%9F%E6%8F%90%E5%8F%B0%E6%B9%BE%E5%8F%B2%E4%B8%8A%E6%9C%80%E9%AB%98%E5%9B%BD%E9%98%B2%E9%A2%84%E7%AE%97%E6%A1%88%E8%A1%A8%E9%98%B2%E5%BE%A1%E5%86%B3%E5%BF%83-%E5%9B%BD%E6%B0%91%E5%85%9A%E6%89%B9%E5%B0%86%E5%80%BA%E7%95%99%E5%AD%90%E5%AD%99"

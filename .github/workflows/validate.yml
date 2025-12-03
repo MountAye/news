@@ -1,0 +1,19 @@
+name: Validate YAML Format
+on: 
+  push:
+    branches: [main]
+    paths: ['reviews/**/*.yml']
+  pull_request:
+    types: [opened, reopened]
+    branches: [main]
+    paths: ['reviews/**/*.yml']
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Main Branch
+        uses: actions/checkout@v6
+        with: 
+          ref: main
+      - name: Validate Data
+        run: python scripts/validate_data.py
