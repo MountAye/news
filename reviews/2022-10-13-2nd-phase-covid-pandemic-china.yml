@@ -2,7 +2,7 @@ title: 大国抗疫第二季
 tags: [中国,内政]
 excerpt: "中国结束 COVID 疫情相关管制措施的过程。本项目开始时间较早，采用的数据结构和现在的版本不同，转译过程可能造成信息损失。"
 data:
-- tags: [前情提要,opinions]
+- tags: [前情提要,opinion]
   author: Twitter@小径残雪
   title: 宣传机器强调清零政策的重要性和必要性
   date: 2022-12-11
@@ -268,7 +268,7 @@ data:
 #
 - date: 2022-12-07
   title: Twitter@李老师不是你老师 崛起为网民消息汇总与广播节点
-  tag: [白纸运动,opinions]
+  tag: [白纸运动,opinion]
   author: Twitter@方舟子
   url: https://x.com/fangshimin/status/1600578888777596929
   details:
@@ -426,7 +426,7 @@ data:
     url: https://www.voanews.com/a/china-s-covid-spike-not-due-to-lifting-of-restrictions---who-director/6876253.html
 #
 - title: 出大問題了，將在本輪疫情達峰後！習近平也陽了？危機大中共不怕、怕的是...
-  tags: [民间对政策变化的反应,民间对政策变化的反应，对于政策转向原因的推测,opinions]
+  tags: [民间对政策变化的反应,民间对政策变化的反应，对于政策转向原因的推测,opinion]
   author: YouTube@文昭谈古论今
   date: 2022-12-15
   url: https://www.youtube.com/watch?v=5d1sTqXcbCk&t=1189s
@@ -444,7 +444,7 @@ data:
   - text: 进入2022年底，中国却开始了三年来全球范围最后一波的新冠病毒传播。且不论这一波疫情将在何种混乱中结束，人们更好奇的似乎是中国与世界的脱节。而历史上，这种总是赶着世界潮流末端的景象，也就是中国社会的落后，大概算是常态，却总是被美化为中国特色。
 #
 - title: 对于政策转向原因的推测
-  tags: [民间对政策变化的反应,opinions]
+  tags: [民间对政策变化的反应,opinion]
   author: 卢昌海
   date: 2022-12-31
   url: https://www.changhai.org/articles/miscellaneous/blog/202212.php#d1231
@@ -570,7 +570,7 @@ data:
   - text: 网易新闻今天下午发布了“这是网易新闻的2022年度盘点，和那些妖艳贱货不一样”视频，盘点了唐山打人，东方航空坠机，乌鲁木齐火灾，丰县八孩母亲，上海疫情期间求助电话等事件
 #
 - title: 新闻评论
-  tags: [真理部统治下的舆论,opinions]
+  tags: [真理部统治下的舆论,opinion]
   author: Twitter@卢昌海
   url: https://twitter.com/lu_changhai/status/1608106782878040064
   details:
@@ -720,7 +720,7 @@ data:
   - text: 12月26日-27日，中央政治局召开一年一度的民主生活会，新华网视频中，3名政治局委员未出席（发改委主任何立峰、原辽宁省委书记张国清、中央书记处书记李书磊）
 #
 - title: 新闻评论
-  tags: [感染人数飙升,opinions]
+  tags: [感染人数飙升,opinion]
   author: YouTube@文昭谈古论今
   date: 2022-12-28
   url: https://www.youtube.com/watch?v=VFV9eKNRUuI
@@ -853,7 +853,7 @@ data:
 #
 - title: 新闻评论
   author: Twitter@李老师不是你老师
-  tags: [病死率仍不为零,opinions]
+  tags: [病死率仍不为零,opinion]
   url: https://twitter.com/whyyoutouzhele/status/1603459603609825280
   details:
   - text: 有人称死者是独自留在寝室备战考研的学生，因为感染新冠高烧不退导致休克，宿管发现时已经死亡。
@@ -928,7 +928,7 @@ data:
   url: https://twitter.com/whyyoutouzhele/status/1608779100847767553
 #
 - title: 新闻评论
-  tags: [药品短缺,opinions]
+  tags: [药品短缺,opinion]
   author: YouTube@文昭谈古论今
   date: 2022-12-21
   details:
@@ -961,7 +961,7 @@ data:
 #
 - title: 新闻评论
   author: 微信公众号@饶毅科学
-  tags: [饶毅批斗张文宏,opinions]
+  tags: [饶毅批斗张文宏,opinion]
   date: 2022-12-20
   url: https://mp.weixin.qq.com/s/wV7rZu-4a_9sew2nTNfLOA
   backup: https://web.archive.org/web/20221222021319/https://mp.weixin.qq.com/s/wV7rZu-4a_9sew2nTNfLOA
@@ -970,7 +970,7 @@ data:
 #
 - title: 新闻评论
   author: 微信公众号@海边的西塞罗
-  tags: [饶毅批斗张文宏,opinions]
+  tags: [饶毅批斗张文宏,opinion]
   date: 2022-12-21
   url: https://mp.weixin.qq.com/s/s601cGNEOjaaqmpgkAoS-Q
   details:
@@ -981,7 +981,7 @@ data:
 #
 - title: 新闻评论
   author: 微信公众号@维舟
-  tags: [饶毅批斗张文宏,opinions]
+  tags: [饶毅批斗张文宏,opinion]
   date: 2022-12-27
   details:
   - text: 有人和我说，他有个问题死活都想不明白：“像张文宏那样一个人，明明有那么多错误和问题，为什么你们还是把他看作是神？”他想不清楚是正常的，因为这个问题本来就不存在，也就不可能有合理的答案。
@@ -1097,7 +1097,7 @@ data:
 #
 - title: 新闻评论
   author: DW-德国之声
-  tags: [对病毒新变种的担忧,opinions]
+  tags: [对病毒新变种的担忧,opinion]
   date: 2022-12-24
   url: https://www.dw.com/zh/%E5%BE%B7%E8%AF%AD%E5%AA%92%E4%BD%93%E5%BE%B7%E5%9B%BD%E5%BA%94%E5%AF%B9%E4%B8%AD%E5%9B%BD%E7%96%AB%E6%83%85%E4%BF%9D%E6%8C%81%E8%AD%A6%E6%83%95/a-64206420
   details:
@@ -1106,7 +1106,7 @@ data:
 #
 - title: 新闻评论
   author: DW-德国之声
-  tags: [对病毒新变种的担忧,opinions]
+  tags: [对病毒新变种的担忧,opinion]
   url: https://www.dw.com/zh/%E5%A2%99%E5%A4%96%E6%96%87%E6%91%98%E4%B8%AD%E5%9B%BD%E7%96%AB%E6%83%85%E5%8D%B1%E6%9C%BA%E6%98%AF%E5%90%A6%E4%BC%9A%E5%86%8D%E6%AC%A1%E6%AE%83%E5%8F%8A%E5%85%A8%E7%90%83/a-64210457
   details:
   - text: 最近几年防疫乱象、近两周疫情大爆发下各方束手无策的状态，以及资讯高度不透明、拒绝和国际社会共用完整资料问题的“加持”，中国出现新的“来者不善”的变异毒株的可能性很高。
@@ -1158,7 +1158,7 @@ data:
 #
 - title: 现阶段死亡人数极高，和已经康复的患者回归正常生活，两种现象互相不构成对对方的证伪。
   author: YouTube@文昭谈古论今
-  tags: [解除封控之后,opinions]
+  tags: [解除封控之后,opinion]
   date: 2022-12-26
   url: https://www.youtube.com/watch?v=Gn52spBwseg
 #
@@ -1181,7 +1181,7 @@ data:
   url: "https://twitter.com/whyyoutouzhele/status/1654461978704740352"
 #
 - title: 五月中旬疫情反撲廣東、核酸檢測復活？
-  tags: [疫情反复,opinions]
+  tags: [疫情反复,opinion]
   author: YouTube@文昭谈古论今
   date: 2023-05-10
   url: "https://www.youtube.com/watch?v=YgygrKzrjnM"
