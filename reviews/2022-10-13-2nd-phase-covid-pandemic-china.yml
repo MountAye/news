@@ -18,12 +18,12 @@ data:
     text: 腾讯新闻@火星方阵：动态清零的困难不是躺平的借口，谭德塞应尊重中国。
 #
 - author: Twitter@Hao Chen
-  tags: [前情提要,reports]
+  tags: [前情提要,report]
   title: 各地限制购买药品，防止冠状病毒感染者自行治疗，瞒报新冠病例
   url: https://twitter.com/haoel/status/1603693778711113729
 #
 - title: 新闻报道，各地限制购买药品，防止冠状病毒感染者自行治疗，瞒报新冠病例
-  tags: [前情提要,reports]
+  tags: [前情提要,report]
   author: Twitter@Hao Chen
   date: 2022-12-16
   details:
@@ -210,13 +210,13 @@ data:
   - text: 4. 部分居民自防自救能力弱，对居住建筑中通往楼顶的第二安全出口位置不熟悉，火灾发生时未进行有效的扑救及及时的逃生自救。
 #
 - author: 中国数字时代
-  tags: [乌鲁木齐火灾,reports]
+  tags: [乌鲁木齐火灾,report]
   title: 新闻报道
   url: https://chinadigitaltimes.net/chinese/690102.html
 #
 - title: 新闻报道
   author: 微信公众号@桃花潭李白
-  tags: [乌鲁木齐火灾,reports]
+  tags: [乌鲁木齐火灾,report]
   date: 2022-11-25
   url: https://chinadigitaltimes.net/chinese/690102.html
   details:
@@ -227,7 +227,7 @@ data:
   - text: 这场火,扑灭花了三个小时。1.小区不知道什么原因，设了地桩和铁栅栏，导致消防车无法及时进入。2.说因为长期封控（封了100多天，从夏天到冬天），一些私家车违规停车，堵塞了消防通道。消防车来了，这些车也没能及时开走，因为有些车主在方舱。
 #
 - author: Twitter@李老师不是你老师
-  tags: [乌鲁木齐火灾,reports]
+  tags: [乌鲁木齐火灾,report]
   title: 后续，2022年11月25日，乌鲁木齐群体事件
   url: https://twitter.com/whyyoutouzhele/status/1607327245894574080
   visuals:
@@ -236,49 +236,53 @@ data:
   - alt: 视频·居民与警察发生冲突
     url: https://twitter.com/i/status/1596146083914055682
 #
-- title: 上海，乌鲁木齐中路，“习近平下台，共产党下台”
+- date: 2022-11-26
+  title: 上海，乌鲁木齐中路，“习近平下台，共产党下台”
   tag: [白纸运动]
   visuals:
   - alt: 图片·工人拆下“乌鲁木齐中路”路牌后搬运
-    url: https://pbs.twimg.com/media/FilOlp0VEAACLPI
+    url: https://pbs.twimg.com/media/FilOlp0VEAACLPI?format=jpg&name=large
   - alt: 图片·男子夜间独行向封路警察，黑白
-    url: https://pbs.twimg.com/media/FilOlp2UYAIJ4yC
+    url: https://pbs.twimg.com/media/FilOlp2UYAIJ4yC?format=jpg&name=large
   - alt: 图片·路灯下一男一女站立在人行横道上，面对横队结阵之警察
-    url: https://pbs.twimg.com/media/FilOlp0VEAMsa-8
+    url: https://pbs.twimg.com/media/FilOlp0VEAMsa-8?format=jpg&name=large
 #
-- title: 国内其他地方响应
+- date: 2022-11-26
+  title: 国内其他地方响应
   tags: [白纸运动]
   visuals:
   - alt: 图片·人群中一女士手举白纸，一手露中指，表情凝重
     url: https://pbs.twimg.com/media/FijR3SlVQAAhqry?format=jpg&name=900x900
   - alt: 图片·一名父亲背着年幼的女儿参与集会
-    url: https://pbs.twimg.com/media/FixFu_iXwAAI5Gr
+    url: https://pbs.twimg.com/media/FixFu_iXwAAI5Gr?format=jpg&name=large
   - alt: 图片·女儿担心父亲因言获罪，捂住父亲嘴巴
-    url: https://pbs.twimg.com/media/FixFu_UX0AAu84_
+    url: https://pbs.twimg.com/media/FixFu_UX0AAu84_?format=jpg&name=large
   - alt: 图片·父亲面对警察，强忍泪水的同时面有怒容
-    url: https://pbs.twimg.com/media/FixFu_UX0AEiV_O
+    url: https://pbs.twimg.com/media/FixFu_UX0AEiV_O?format=jpg&name=large
   - alt: 图片·父亲被多名警察制伏于地
-    url: https://pbs.twimg.com/media/FixFu_WX0AA-mwI
+    url: https://pbs.twimg.com/media/FixFu_WX0AA-mwI?format=jpg&name=large
   - alt: 视频·民众要求解封
     url: https://twitter.com/i/status/1598309352590528513
   - alt: 视频·经过协调，现已解封
     url: https://twitter.com/i/status/1598309556844634120
 #
-- title: Twitter@李老师不是你老师 崛起为网民消息汇总与广播节点
+- date: 2022-12-07
+  title: Twitter@李老师不是你老师 崛起为网民消息汇总与广播节点
   tag: [白纸运动,opinions]
   author: Twitter@方舟子
+  url: https://x.com/fangshimin/status/1600578888777596929
   details:
   - text: 在中国近期抗议活动中，一个叫“李老师不是你老师”的推特号因转发众多视频暴得大名。“李老师”究竟是谁？它背后有什么势力？是不是在钓鱼？方舟子揭假：破案了，“李老师不是你老师”是谁？
   - text: 这个是出镜的“李老师”在国内时的资料。还有别的资料，先不发。他的照片我也有，不用等他“自杀”了再由CNN制片人熊勇公布“遗照”。不过我对出镜的“李老师”不感兴趣。我感兴趣的是背后的“李老师”。被我顺口问了一句，就如临大敌，敢来威胁、围攻我，自找的。下一步大概就该找人接盘了。
 #
-- title: 对白纸运动的反对和攻击
-  tag: [白纸运动,reports]
-  visuals:
-  - alt: 英文·FBI Boston
-    url: https://twitter.com/FBIBoston/status/1603109547891122179
+- date: 2022-12-14
+  author: Twitter@FBIBoston
+  title: 对白纸运动的反对和攻击
+  url: https://twitter.com/FBIBoston/status/1603109547891122179
+  tag: [白纸运动,report]
 #
 - title: 新闻报道
-  tag: [白纸运动,reports]
+  tag: [白纸运动,report]
   author: DW-德国之声
   date: 2022-12-15
   url: https://www.dw.com/zh/%E6%81%90%E5%9A%87%E6%B0%91%E4%B8%BB%E6%94%AF%E6%8C%81%E8%80%85-%E4%B8%AD%E5%9C%8B%E7%95%99%E5%AD%B8%E7%94%9F%E5%9C%A8%E7%BE%8E%E9%81%AD%E6%8D%95/a-64099432
@@ -289,22 +293,27 @@ data:
   - text: 检方指，遭指控犯下的跟踪骚扰，最高可判处5年监禁、3年监督释放和最高25万美元的罚款。
   - text: 目前此案仍在起诉中，判决将交由联邦地区法院法官裁定。
 #
-- author: Twitter@中国文字狱事件盘点
-  tag: [白纸运动,reports]
+- date: 2022-12-26
+  author: Twitter@中国文字狱事件盘点
+  tag: [白纸运动,report]
   title: 新闻报道
   url: https://twitter.com/SpeechFreedomCN/status/1607591609440534530
 #
-- author: 微博@健康中国
+- date: 2022-12-07
+  author: 微博@健康中国
   tags: [官方政策转向]
   title: “防疫新二十条”
   url: https://weibo.com/2834480301/Mitv16rZx
 #
-- title: 石家庄解封试点，失败告终
+- date: 2022-11-15
+  title: 石家庄解封试点，失败告终
+  author: 自由亚洲电台
   tags: [官方政策转向]
-  url: https://mountaye.github.io/news
+  url: https://www.rfa.org/cantonese/news/test-11152022050059.html
 #
-- title: “新十条”发布，防疫进一步松绑
-  tags: [官方政策转向]
+- 
+  title: “新十条”发布，防疫进一步松绑
+  tags: [官方政策转向,deleted]
   author: 微信公众号@秦小明
   url: https://mp.weixin.qq.com/s/tRgDTRHdBYWM_mw8rvknAw
   details:
@@ -316,7 +325,7 @@ data:
 #
 - title: 新闻评论
   author: BiliBili@马督工
-  tags: [官方政策转向,opinions]
+  tags: [官方政策转向,opinions,deleted]
   backup: https://t.co/ddXhf2lV5O
   details:
   - text: 现在的情况是，政策不仅不对不未来负责，甚至也不对过去负责，不对现有的政策做解释，这只有在人民丧失记忆的前提下，才有其合理性
@@ -330,7 +339,8 @@ data:
   - text: 有网友投稿称，自己到山东走访亲戚，本来因为核酸异常在亲戚家自我隔离，但是13号晚上自己还是被带到了方舱。
   - text: 央广新闻12月14号称，山东还出现了封路的情况。
 #
-- author: Twitter@梁家河大耳朵亲自指挥猫妹掀锅盖
+- date: 2022-12-25
+  author: Twitter@梁家河大耳朵亲自指挥猫妹掀锅盖
   tags: [官方政策转向]
   title: 政策惯性，解封执行不力的例子
   url: https://twitter.com/big_ear_cat/status/1607120963652444160
@@ -346,46 +356,52 @@ data:
   - alt: 补充视频3·家属与警察协商
     url: https://twitter.com/i/status/1605596762021908481
 #
-- author: Twitter@李老师不是你老师
+- date: 2022-12-29
+  author: Twitter@李老师不是你老师
   tags: [官方政策转向]
-  title: 政策惯性，解封执行不力的例子
+  title: 今晚广州白云机场，在国内已经明确会在8号完全放开的情况下广州的政策依然还是5+3，因此今天海外入境回来的学生旅客与警察发生了冲突
   url: https://twitter.com/whyyoutouzhele/status/1608560922548920320
 #
-- author: Twitter@外汇交易员
-  title: 政策转向，解封执行得力的例子
-  tags: [官方政策转向,reports]
+- date: 2022-12-20
+  author: Twitter@外汇交易员
+  title: 中国将于2023年1月3日起不再采取境外入境前往隔离设施隔离的措施。优化为0+3的政策，这也意味着中国在新的一年2023年起将全面开放。
+  tags: [官方政策转向,report]
   url: https://twitter.com/myfxtrader/status/1605405328043954176
 #
 - author: Twitter@陈少举
-  title: 政策转向，解封执行得力的例子
-  tags: [官方政策转向,reports]
+  date: 2022-12-21
+  title: 刚看了一下12306，从今天到1月3日都查不到北京到九龙的车次，但是1月4日显示有一辆G79，不过是暂停发售的状态。感觉这事应该八九不离十。 🤔
+  tags: [官方政策转向,report]
   url: https://twitter.com/chenshaoju/status/1605471289946214400
 #
-- author: 喷嚏图卦20221225
+- date: 2022-12-25
+  author: 喷嚏图卦20221225
   title: 政策转向，解封执行得力的例子
-  tags: [官方政策转向,reports]
+  tags: [官方政策转向,report]
   url: https://www.dapenti.com/blog/more.asp?name=xilei&id=168754
   backup: https://web.archive.org/web/20221227042636/https://www.dapenti.com/blog/more.asp?name=xilei&id=168754
 #
-- author: Twitter@李老师不是你老师
-  title: 新冠感染“乙类乙管”，不再按照甲种传染病管理
-  tags: [官方政策转向,reports]
+- date: 2022-12-26
+  author: Twitter@李老师不是你老师
+  title: 取消入境后的全员核酸检测和集中隔离 将有序恢复中国公民出境旅游
+  tags: [官方政策转向,report]
   url: https://twitter.com/whyyoutouzhele/status/1607404537890983936
 #
-- author: Twitter@李老师不是你老师
-  title: 新冠感染“乙类乙管”，不再按照甲种传染病管理
-  tags: [官方政策转向,reports]
+- date: 
+  author: Twitter@李老师不是你老师
+  title: 网传12月25日全国新冠疫情防控工作电视电话会议主要内容
+  tags: [官方政策转向,report]
   url: https://twitter.com/whyyoutouzhele/status/1607366007022129152
 #
 - title: 新冠感染“乙类乙管”，不再按照甲种传染病管理
   author: 国家卫生健康委员会
-  tags: [官方政策转向,reports]
+  tags: [官方政策转向,report,deleted]
   url: http://www.nhc.gov.cn/xcs/zhengcwj/202212/6630916374874368b9fea6c2253289e1.shtml
   details:
   - text: 将新型冠状病毒肺炎更名为新型冠状病毒感染。
 #
-- title: 对于政策转向原因的推测
-  tags: [民间对政策变化的反应,reports]
+- title: 事情的诡异在于
+  tags: [民间对政策变化的反应,对于政策转向原因的推测,report]
   author: Twitter@虹太郎！
   date: 2022-12-15
   url: https://twitter.com/evilinside44/status/1603394783984099328
@@ -393,39 +409,24 @@ data:
   - text: omicron有一年了，不是新变种
   - text: 之前人也有流动，还大规模核酸聚集
   - text: 之前就是不阳，现在一阳就上千万
+  - text: 按这个逻辑走，能得出什么结论？封控非常有效，全民核酸非常有效.简直就是水晶之墙雅典娜的叹息
+  - text: 但是，核酸=聚集，核酸=不治病.按这个逻辑它是不可能有效的
   visuals:
   - alt: 相关视频
     url: https://twitter.com/i/status/1604436963838160896
 #
-- author: 路透社
-  tags: [民间对政策变化的反应]
-  title: 对于政策转向原因的推测
+- author: Reuters
+  tags: [民间对政策变化的反应，对于政策转向原因的推测]
+  title: China's COVID spike not due to lifting of restrictions, WHO director says
   url: https://www.reuters.com/world/china/chinas-covid-spike-not-due-lifting-restrictions-who-director-2022-12-14/
-#
-- author: VOA-美国之音
-  tags: [民间对政策变化的反应,reports]
-  title: 对于政策转向原因的推测
-  url: https://www.voanews.com/a/china-s-covid-spike-not-due-to-lifting-of-restrictions---who-director/6876253.html
-#
-- title: 对于政策转向原因的推测
-  tags: [民间对政策变化的反应,reports]
-  author: YouTube@文昭谈古论今
-  date: 2022-12-15
-  url: https://www.youtube.com/watch?v=5d1sTqXcbCk&t=1189s
   details:
-  - text: 本周北京发热门诊就诊人数超2.2万人，120电话呼入量达平常6倍
+  - author: VOA-美国之音
+    tags: [民间对政策变化的反应，对于政策转向原因的推测,report]
+    title: China's COVID Spike Not Due to Lifting of Restrictions - WHO Director 
+    url: https://www.voanews.com/a/china-s-covid-spike-not-due-to-lifting-of-restrictions---who-director/6876253.html
 #
-- title: 对于政策转向原因的推测
-  tags: [民间对政策变化的反应,opinions]
-  author: Twitter@虹太郎！
-  date: 2022-12-15
-  url: https://twitter.com/evilinside44/status/1603394783984099328
-  details:
-  - text: 按这个逻辑走，能得出什么结论？封控非常有效，全民核酸非常有效.简直就是水晶之墙雅典娜的叹息
-  - text: 但是，核酸=聚集，核酸=不治病.按这个逻辑它是不可能有效的
-#
-- title: 对于政策转向原因的推测
-  tags: [民间对政策变化的反应,opinions]
+- title: 出大問題了，將在本輪疫情達峰後！習近平也陽了？危機大中共不怕、怕的是...
+  tags: [民间对政策变化的反应,民间对政策变化的反应，对于政策转向原因的推测,opinions]
   author: YouTube@文昭谈古论今
   date: 2022-12-15
   url: https://www.youtube.com/watch?v=5d1sTqXcbCk&t=1189s
@@ -435,8 +436,8 @@ data:
   - text: 与病毒共存的窗口期在去年夏天 Delta 大流行。
   - text: 如今封控和疫情，叠加世界经济进入加息和衰退期，内外环境都在推动中国进入萧条。
 #
-- title: 对于政策转向原因的推测
-  tags: [民间对政策变化的反应]
+- title: 致命的竞争——动态清零的根源及后果
+  tags: [民间对政策变化的反应,民间对政策变化的反应，对于政策转向原因的推测]
   author: DW@凯波
   url: https://www.dw.com/zh/%E5%AE%A2%E5%BA%A7%E8%AF%84%E8%AE%BA%E8%87%B4%E5%91%BD%E7%9A%84%E7%AB%9E%E4%BA%89%E5%8A%A8%E6%80%81%E6%B8%85%E9%9B%B6%E7%9A%84%E6%A0%B9%E6%BA%90%E5%8F%8A%E5%90%8E%E6%9E%9C/a-64185103
   details:
@@ -454,44 +455,47 @@ data:
   - text: 具体时间点的选择， 则可能跟 “白纸革命” 有关 (可称为社会原因或策略原因)： 利用这一时机躺平， 若没出问题， 可算顺应民意； 若出问题， 则“白纸革命” 会成为不言而喻的甩锅对象。
 #
 - author: Twitter@赛先生的小迷弟
-  tags: [真理部统治下的舆论,reports]
-  title: 新闻报道
+  tags: [真理部统治下的舆论,report]
+  title: 大家都是好演员。
   url: https://twitter.com/TruthOfFinance/status/1592067195156463617
   visuals:
-  - alt: 截图·微信公众号评论
-    url: https://pbs.twimg.com/media/FhgorOiVIAEkbtX?format=jpg
-  - alt: 微博截图
-    url: https://pbs.twimg.com/media/FjXFzMCVIAIpqKS
   - alt: 截图·全国感染数据
     url: https://twitter.com/remonwangxt/status/1606329563159601152/photo/1
   - alt: 截图·青岛感染数据
     url: https://twitter.com/remonwangxt/status/1606329563159601152/photo/2
-  - alt: 截图
-    url: https://twitter.com/evilinside44/status/1607284461024206849/photo/1
-  - alt: 截图·微博@2049年的世界
-    url: https://twitter.com/evilinside44/status/1607284461024206849/photo/2
-  - alt: 视频
-    url: https://www.youtube.com/watch?v=ui2skAmcclM
+- date: 2022-12-26
+  author: X@朱利安大王
+  tags: [真理部统治下的舆论,opinion]
+  title: 我要吐了。你大国蛆说你大国从来没有宣传过国外疫情严重。我没法把这种玩意儿当人看。
+  url: https://x.com/evilinside44/status/1607284461024206849
+- title:  网易新闻2022年度盘点：致敬每一个扛住了生活的平凡人 
+  url: https://www.youtube.com/watch?v=ui2skAmcclM
 #
 - author: Twitter@三日月やよい
-  tags: [真理部统治下的舆论,reports]
+  tags: [真理部统治下的舆论,report,deleted]
   title: 新闻报道
   url: https://twitter.com/Willoug60125499/status/1600402731197378560
+  visuals:
+  - alt: 微博截图
+    url: https://pbs.twimg.com/media/FjXFzMCVIAIpqKS?format=jpg
 #
 - author: Twitter@湘女
-  tags: [真理部统治下的舆论,reports]
-  title: 新闻报道
+  tags: [真理部统治下的舆论,report]
+  title: 无耻到极点！！！
   url: https://twitter.com/bqB9Ml6aFloKS2F/status/1603563077059969026
+  visuals:
+    - alt: 截图·微信公众号评论
+      url: https://pbs.twimg.com/media/FhgorOiVIAEkbtX?format=jpg
 #
 - title: 新闻报道
-  tags: [真理部统治下的舆论,reports]
+  tags: [真理部统治下的舆论,report]
   author: 《人民日报》（2022年12月15日01版）任仲平
   date: 2022-12-15
   details:
   - text: 工厂车间，机器轰鸣；大街小巷，人来人往；公路铁路，车辆穿梭；超市商场，物丰价稳；广袤田野，生机勃勃……壬寅岁末，神州大地正升腾着澎湃活力，展现出万千气象。
 #
 - title: 新闻报道
-  tags: [真理部统治下的舆论,reports]
+  tags: [真理部统治下的舆论,report]
   author: Twitter@冰冷雨天
   date: 2022-12-17
   url: https://twitter.com/icy_rainy_day/status/1604117275468259329
@@ -499,47 +503,53 @@ data:
   - text: 大量微博账号发布雷同信息，指自己的父亲死于新冠肺炎
 #
 - author: Twitter@李老师不是你老师
-  tags: [真理部统治下的舆论,reports]
-  title: 新闻报道
+  tags: [真理部统治下的舆论,report]
+  title: 胡锡进今天的最新文章中，除了日常叼盘之外，也出现了一些暴言.比如他说国家在防疫这件事上最终选择了实事求是，被评论反问那之前选择了什么？博文不到一小时就被删除了。
   url: https://twitter.com/whyyoutouzhele/status/1604898993649356801
 #
 - author: Twitter@我是二姐夫
-  tags: [真理部统治下的舆论,reports]
-  title: 新闻报道
+  tags: [真理部统治下的舆论,report]
+  title: 老胡说了实话，老胡现在已经删帖啦。
   url: https://twitter.com/jefflijun/status/1604956905151012864
 #
-- author: Twitter@变态辣椒
-  tags: [真理部统治下的舆论,reports]
-  title: 新闻报道
+- date: 2022-12-23
+  author: Twitter@变态辣椒
+  tags: [真理部统治下的舆论,report]
+  title: 中國國家衛健委宣佈一天增加3761個病例，山東23例，但是僅青島一天就增加49-53萬人。數據又創造奇跡了
   url: https://twitter.com/remonwangxt/status/1606329563159601152
 #
-- author: 中国数字数代
-  tags: [真理部统治下的舆论,reports]
-  title: 新闻报道
+- date: 2022-12-24
+  author: 中国数字数代
+  tags: [真理部统治下的舆论,report]
+  title: 疫情防控报道提示和有关要求(2022年12月24日)
   url: https://chinadigitaltimes.net/chinese/691232.html
 #
 - author: 国家卫健委
-  tags: [真理部统治下的舆论,reports]
+  tags: [真理部统治下的舆论,report]
   title: 新闻报道
   url: http://www.nhc.gov.cn/xcs/yqtb/202212/7272431ee60c4f4d953b0c16257c230e.shtml
 #
 - author: 中国新闻网
-  tags: [真理部统治下的舆论,reports]
+  tags: [真理部统治下的舆论,report,deleted]
   title: 新闻报道
   url: https://www.chinanews.com.cn/gn/2022/12-25/9921024.shtml
 #
-- author: Twitter@李老师不是你老师
-  tags: [真理部统治下的舆论,reports]
-  title: 新闻报道
+- date: 2024-12-24
+  author: Twitter@李老师不是你老师
+  tags: [真理部统治下的舆论,report]
+  title: 国家卫健委宣布不再发布每日疫情信息
   url: https://twitter.com/whyyoutouzhele/status/1606832924057391105/photo/1
 #
 - author: Twitter@李老师不是你老师
-  tags: [真理部统治下的舆论,reports]
-  title: 新闻报道
+  tags: [真理部统治下的舆论,report]
+  title: ？？？
   url: https://twitter.com/whyyoutouzhele/status/1607486969604341760/photo/1
+  visuals:
+  - alt: 截图·医学之声
+    url: https://x.com/whyyoutouzhele/status/1607486969604341760/photo/1
 #
 - title: 新闻报道
-  tags: [真理部统治下的舆论,reports]
+  tags: [真理部统治下的舆论,report]
   author: rfa-自由亚洲电台
   date: 2022-12-27
   url: https://www.rfa.org/mandarin/Xinwen/6-12272022130639.html
@@ -548,12 +558,12 @@ data:
   - text: 中国国务院应对新型冠状病毒感染疫情联防联控机制外事组27日公布，将“进一步优化复工复产、商务、留学、探亲、团聚等外籍人士来华安排，提供相应的来华签证便利”，但没有提到赴华旅游签证的放行。
 #
 - author: 李老师不是你老师
-  tags: [真理部统治下的舆论,reports]
+  tags: [真理部统治下的舆论,report]
   title: 新闻报道
   url: https://twitter.com/whyyoutouzhele/status/1608164807252787200
 #
 - title: 新闻报道
-  tags: [真理部统治下的舆论,reports]
+  tags: [真理部统治下的舆论,report]
   author: 网易新闻
   date: 2022-12-29
   details:
@@ -599,7 +609,7 @@ data:
   url: https://twitter.com/whyyoutouzhele/status/1608755345136168962
 #
 - title: 医疗系统承压，医学教育体系内的故有矛盾被放大
-  tags: [医疗系统承压,reports]
+  tags: [医疗系统承压,report]
   author: Twitter@李老师不是你老师
   date: 2022-12-19
   url: https://twitter.com/whyyoutouzhele/status/1604868065434411008
@@ -615,7 +625,7 @@ data:
 #
 - author: Twitter@あまの❄️小夏
   title: 民间以感染换免疫，感染人数飙升，症状不似之前宣传严重
-  tags: [感染人数飙升,reports]
+  tags: [感染人数飙升,report]
   url: https://twitter.com/Konatsu_Amano
   visuals:
   - alt: 微博截图1
@@ -629,7 +639,7 @@ data:
 #
 - title: 新闻报道
   author: YouTube@文昭谈古论今
-  tags: [感染人数飙升,reports]
+  tags: [感染人数飙升,report]
   date: 2022-12-15
   url: https://www.youtube.com/watch?v=wBE8ZRs5pEk
   details:
@@ -640,69 +650,69 @@ data:
 #
 - author: 中青在线
   title: 新闻报道
-  tags: [感染人数飙升,reports]
+  tags: [感染人数飙升,report]
   url: http://news.cyol.com/gb/articles/2022-12/19/content_77bnE2Ue3M.html
 #
 - author: 凤凰网新闻
   title: 新闻报道
-  tags: [感染人数飙升,reports]
+  tags: [感染人数飙升,report]
   url: https://i.ifeng.com/c/8Lrru7XTzOV
 #
 - author: 喷嚏网
   title: 新闻报道
-  tags: [感染人数飙升,reports]
+  tags: [感染人数飙升,report]
   url: https://www.dapenti.com/blog/more.asp?name=xilei&id=168654
 #
 - author: Twitter@李老师不是你老师
   title: 新闻报道
-  tags: [感染人数飙升,reports]
+  tags: [感染人数飙升,report]
   url: https://twitter.com/whyyoutouzhele/status/1605207487329800193
 #
 - author: Twitter@四爪
   title: 新闻报道
-  tags: [感染人数飙升,reports]
+  tags: [感染人数飙升,report]
   url: https://twitter.com/sanzhao41/status/1605217066780590082
 #
 - author: Twitter@李老师不是你老师
   title: 新闻报道
-  tags: [感染人数飙升,reports]
+  tags: [感染人数飙升,report]
   url: https://twitter.com/whyyoutouzhele/status/1606984614484054016
 #
 - author: TBS News Dig
   title: 新闻报道
-  tags: [感染人数飙升,reports]
+  tags: [感染人数飙升,report]
   url: https://newsdig.tbs.co.jp/articles/-/251616?display=1
 #
 - author: Twitter@梅森DO
   title: 新闻报道
-  tags: [感染人数飙升,reports]
+  tags: [感染人数飙升,report]
   url: https://twitter.com/MASONDO_TW/status/1606961321207279619
 #
 - author: Twitter@李老师不是你老师
   title: 新闻报道
-  tags: [感染人数飙升,reports]
+  tags: [感染人数飙升,report]
   url: https://twitter.com/whyyoutouzhele/status/1606957718757335041
 #
 - author: 喷嚏网@浮世汇662
   title: 新闻报道
-  tags: [感染人数飙升,reports]
+  tags: [感染人数飙升,report]
   url: https://www.dapenti.com/blog/more.asp?name=xilei&id=168755
   backup: https://web.archive.org/web/20221227034144/https://www.dapenti.com/blog/more.asp?name=xilei&id=168755
 #
 - author: 喷嚏网@浮世汇662
   title: 新闻报道
-  tags: [感染人数飙升,reports]
+  tags: [感染人数飙升,report]
   url: https://www.dapenti.com/blog/more.asp?name=xilei&id=168755
   backup: https://web.archive.org/web/20221227034144/https://www.dapenti.com/blog/more.asp?name=xilei&id=168755
 #
 - author: 喷嚏网@浮世汇662
   title: 新闻报道
-  tags: [感染人数飙升,reports]
+  tags: [感染人数飙升,report]
   url: https://www.dapenti.com/blog/more.asp?name=xilei&id=168755
   backup: https://web.archive.org/web/20221227034144/https://www.dapenti.com/blog/more.asp?name=xilei&id=168755
 #
 - title: 新闻报道
-  tags: [感染人数飙升,reports]
+  tags: [感染人数飙升,report]
   author: YouTube@文昭谈古论今
   date: 2022-12-28
   url: https://www.youtube.com/watch?v=VFV9eKNRUuI
@@ -719,11 +729,11 @@ data:
 #
 - author: 国家卫生健康委员会官方网站
   title: 病毒危害仍在，病死率仍不为零
-  tags: [病死率仍不为零,reports]
+  tags: [病死率仍不为零,report]
   url: http://www.nhc.gov.cn/xcs/yqtb/202212/bd906be651fd4502811db2abf3264890.shtml
   visuals:
   - alt: 图片·一栋建筑前一辆黑色面包车，车头有“武昌殡仪馆”字样
-    url: https://pbs.twimg.com/media/FkBOcXXWQAAjddH
+    url: https://pbs.twimg.com/media/FkBOcXXWQAAjddH?format=jpg&name=large
   - alt: 截图·北京大学校内信息门户
     url: https://pbs.twimg.com/media/Fj7VpKjacAAVHb-?format=jpg
   - alt: 微博截图
@@ -763,36 +773,36 @@ data:
 #
 - title: 新闻报道
   author: 国家卫生健康委员会官方网站
-  tags: [病死率仍不为零,reports]
+  tags: [病死率仍不为零,report]
   url: http://www.nhc.gov.cn/xcs/yqtb/202212/bd906be651fd4502811db2abf3264890.shtml
   details:
   - text: 截至19日24时又有5起死亡病例。
 #
 - author: Twitter@李老师不是你老师
   title: 新闻报道
-  tags: [病死率仍不为零,reports]
+  tags: [病死率仍不为零,report]
   url: https://twitter.com/whyyoutouzhele/status/1605887728029089793
 #
 - author: 微博@南方人物周刊
   title: 新闻报道
-  tags: [病死率仍不为零,reports]
+  tags: [病死率仍不为零,report]
   url: https://weibo.com/1653460650/MkWKczu2y
 #
 - author: Twitter@外汇交易员
   title: 新闻报道
-  tags: [病死率仍不为零,reports]
+  tags: [病死率仍不为零,report]
   url: https://twitter.com/myfxtrader/status/1606482645806088192
 #
 - title: 新闻报道
   author: 微博@广州民政
-  tags: [病死率仍不为零,reports]
+  tags: [病死率仍不为零,report]
   url: https://weibo.com/2604671350/Ml6KpcSqJ
   details:
   - 出殡业务原则上延至2023年1月10日后到我中心申请办理
 #
 - title: 新闻报道
   author: Twitter@谣言财经
-  tags: [病死率仍不为零,reports]
+  tags: [病死率仍不为零,report]
   date: 2022-12-26
   url: https://twitter.com/Rumoreconomy/status/1607371542874267649
   details:
@@ -801,44 +811,44 @@ data:
 #
 - author: Twitter@李老师不是你老师
   title: 新闻报道
-  tags: [病死率仍不为零,reports]
+  tags: [病死率仍不为零,report]
   url: https://twitter.com/whyyoutouzhele/status/1607490645840760832
 #
 - author: Twitter@梁家河大耳朵亲自指挥猫妹掀锅盖
   title: 新闻报道
-  tags: [病死率仍不为零,reports]
+  tags: [病死率仍不为零,report]
   url: https://twitter.com/big_ear_cat/status/1607702656323125248
 #
 - title: 新闻报道
   date: 2022-12-27
-  tags: [病死率仍不为零,reports]
+  tags: [病死率仍不为零,report]
   details:
   - text: 中共邯郸市永年区民政局党组关于表扬火化场的通报
   - text: 中国新闻周刊：官方回应通报表扬火化场：工作人员确实是加班加点，任劳任怨
 #
 - author: Twitter@李老师不是你老师
   title: 新闻报道
-  tags: [病死率仍不为零,reports]
+  tags: [病死率仍不为零,report]
   url: https://twitter.com/whyyoutouzhele/status/1607686000049897482
 #
 - author: Twitter@浦志强
   title: 新闻报道
-  tags: [病死率仍不为零,reports]
+  tags: [病死率仍不为零,report]
   url: https://twitter.com/puzhiqiang/status/1607691182850846723
 #
 - author: Twitter@NiKITa
   title: 新闻报道
-  tags: [病死率仍不为零,reports]
+  tags: [病死率仍不为零,report]
   url: https://twitter.com/NiKiTa_32156/status/1607828326353371138/photo/1
 #
 - author: Twitter@三日月やよい
   title: 新闻报道
-  tags: [病死率仍不为零,reports]
+  tags: [病死率仍不为零,report]
   url: https://twitter.com/Willoug60125499/status/1608380013749108737/photo/1
 #
 - author: Twitter@方舟子
   title: 新闻报道
-  tags: [病死率仍不为零,reports]
+  tags: [病死率仍不为零,report]
   url: https://twitter.com/fangshimin/status/1608691240694067201
 #
 - title: 新闻评论
@@ -851,7 +861,7 @@ data:
 #
 - title: 新闻报道
   author: YouTube@文昭谈古论今
-  tags: [药品短缺,reports]
+  tags: [药品短缺,report]
   date: 2022-12-21
   details:
   - text: 北方疫情的症状比南方症状严重
@@ -868,53 +878,53 @@ data:
 #
 - author: Twitter@李老师不是你老师
   title: 新闻报道
-  tags: [药品短缺,reports]
+  tags: [药品短缺,report]
   url: https://twitter.com/whyyoutouzhele/status/1605969623374999552
 #
 - author: Twitter@川和 咳咳
   title: 新闻报道
-  tags: [药品短缺,reports]
+  tags: [药品短缺,report]
   url: https://twitter.com/OmicronJinPing0/status/1605875618855284738
 #
 - author: Twitter@梁家河大耳朵亲自指挥猫妹掀锅盖
   title: 新闻报道
-  tags: [药品短缺,reports]
+  tags: [药品短缺,report]
   url: https://twitter.com/big_ear_cat/status/1605937650447392771
 #
 - author: Twitter@李老师不是你老师
   title: 新闻报道
-  tags: [药品短缺,reports]
+  tags: [药品短缺,report]
   url: https://twitter.com/whyyoutouzhele/status/1605894461950681088
 #
 - author: Twitter@纵横日本
   title: 新闻报道
-  tags: [药品短缺,reports]
+  tags: [药品短缺,report]
   url: https://twitter.com/zonghengjp/status/1605830307843674112
 #
 - author: Twitter@李老师不是你老师
   title: 新闻报道
-  tags: [药品短缺,reports]
+  tags: [药品短缺,report]
   url: https://twitter.com/whyyoutouzhele/status/1605978119319453696
 #
 - author: Twitter@梁家河大耳朵亲自指挥猫妹掀锅盖
   title: 新闻报道
-  tags: [药品短缺,reports]
+  tags: [药品短缺,report]
   url: https://twitter.com/big_ear_cat/status/1606269444568846337
 #
 - author: 喷嚏图卦20221225
   title: 新闻报道
-  tags: [药品短缺,reports]
+  tags: [药品短缺,report]
   url: https://www.dapenti.com/blog/more.asp?name=xilei&id=168754
   backup: https://web.archive.org/web/20221227042636/https://www.dapenti.com/blog/more.asp?name=xilei&id=168754
 #
 - author: Twitter@李老师不是你老师
   title: 新闻报道
-  tags: [药品短缺,reports]
+  tags: [药品短缺,report]
   url: https://twitter.com/whyyoutouzhele/status/1606960631428554754
 #
 - author: Twitter@李老师不是你老师
   title: 新闻报道
-  tags: [药品短缺,reports]
+  tags: [药品短缺,report]
   url: https://twitter.com/whyyoutouzhele/status/1608779100847767553
 #
 - title: 新闻评论
@@ -927,17 +937,17 @@ data:
 #
 - author: Twitter@外汇交易员
   title: 新闻报道
-  tags: [药品短缺缓解,reports]
+  tags: [药品短缺缓解,report]
   url: https://twitter.com/myfxtrader/status/1606995077947359233
 #
 - author: Twitter@外汇交易员
   title: 新闻报道
-  tags: [药品短缺缓解,reports]
+  tags: [药品短缺缓解,report]
   url: https://twitter.com/myfxtrader/status/1607207475236974594/photo/1
 #
 - title: 新闻报道
   author: 联合早报
-  tags: [药品短缺缓解,reports]
+  tags: [药品短缺缓解,report]
   date: 2022-12-30
   url: https://www.zaobao.com.sg/realtime/china/story20221230-1348537
   details:
@@ -946,7 +956,7 @@ data:
 #
 - author: 中国数字时代
   title: 新闻报道
-  tags: [饶毅批斗张文宏,reports]
+  tags: [饶毅批斗张文宏,report]
   url: https://chinadigitaltimes.net/chinese/691305.html
 #
 - title: 新闻评论
@@ -1103,7 +1113,7 @@ data:
 #
 - author: 微博搜索
   title: 社会和经济的恢复
-  tags: [解除封控之后,reports]
+  tags: [解除封控之后,report]
   url: https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E5%A4%9A%E5%AE%B6%E9%A4%90%E9%A6%86%E5%86%8D%E7%8E%B0%E6%8E%92%E9%98%9F%E7%AD%89%E4%BD%8D%23
   visuals:
   - alt: 视频
@@ -1111,12 +1121,12 @@ data:
 #
 - author: 喷嚏图卦20221225
   title: 新闻报道
-  tags: [解除封控之后,reports]
+  tags: [解除封控之后,report]
   url: https://www.dapenti.com/blog/more.asp?name=xilei&id=168754
   backup: https://web.archive.org/web/20221227042636/https://www.dapenti.com/blog/more.asp?name=xilei&id=168754
 #
 - title: 新闻报道
-  tags: [解除封控之后,reports]
+  tags: [解除封控之后,report]
   author: 微博@数据化管理
   date: 2022-12-26
   url: https://weibo.com/1424710994/Mlq7Jhtd5
@@ -1128,22 +1138,22 @@ data:
 #
 - author: Twitter@中日政经评论
   title: 新闻报道
-  tags: [解除封控之后,reports]
+  tags: [解除封控之后,report]
   url: https://twitter.com/xzzzjpl/status/1607208729979793408
 #
 - author: Twitter@李老师不是你老师
   title: 新闻报道
-  tags: [解除封控之后,reports]
+  tags: [解除封控之后,report]
   url: https://twitter.com/whyyoutouzhele/status/1608040159085305856
 #
 - author: Twitter@李老师不是你老师
   title: 新闻报道
-  tags: [解除封控之后,reports]
+  tags: [解除封控之后,report]
   url: https://twitter.com/whyyoutouzhele/status/1608481088548085760/photo/1
 #
 - author: Twitter@李老师不是你老师
   title: 新闻报道
-  tags: [解除封控之后,reports]
+  tags: [解除封控之后,report]
   url: https://twitter.com/whyyoutouzhele/status/1609246528442454016
 #
 - title: 现阶段死亡人数极高，和已经康复的患者回归正常生活，两种现象互相不构成对对方的证伪。
@@ -1153,19 +1163,19 @@ data:
   url: https://www.youtube.com/watch?v=Gn52spBwseg
 #
 - title: 疫情封控期间社会管制措施，在后封控时代的留存情况
-  tags: [疫情反复,reports]
+  tags: [疫情反复,report]
   visuals:
   - alt: 微博截图
     url: https://twitter.com/big_ear_cat/status/1605704487854919683/photo/1
 #
 - title: 北京某高校，开始自费隔离
-  tags: [疫情反复,reports]
+  tags: [疫情反复,report]
   author: Twitter@李老师不是你老师
   date: 2023-05-04
   url: "https://twitter.com/whyyoutouzhele/status/1654055536474705921"
 #
 - title: 江苏科技大学的学生在校园集市求助，称自己被安排在了双人隔离舱，担心交叉感染
-  tags: [疫情反复,reports]
+  tags: [疫情反复,report]
   author: Twitter@李老师不是你老师
   date: 2023-05-05
   url: "https://twitter.com/whyyoutouzhele/status/1654461978704740352"
