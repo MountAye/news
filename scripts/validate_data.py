@@ -5,36 +5,40 @@ from jsonschema import validate,FormatChecker,ValidationError
 schema_str = """
 type: object
 properties:
-  title:    {'type': 'string'}
-  excerpt: {'type': 'string'}
-  tags: {'type': 'array', 'items': { 'type': 'string' } }
+  title:    {'type': 'string', 'minLength': 1}
+  excerpt:  {'type': 'string', 'minLength': 1}
+  tags:     {'type': 'array', 'items': { 'type': 'string', 'minLength': 1} }
   data:
     type: array
     items:
       type: object
+      minItems: 1
       properties:
-        title:  {'type': 'string'}
-        author: {'type': 'string'}
-        date:   {'type': 'string', 'format': 'date'}
-        tags:   {'type': 'array', 'items': {'type': 'string'} }
+        title:  {'type': 'string', 'minLength': 1}
+        author: {'type': 'string', 'minLength': 1}
+        date:   {'type': 'string', 'minLength': 1, 'format': 'date'}
+        tags:   {'type': 'array', 'items': {'type': 'string', 'minLength': 1} }
         details: 
           type: array
           items:
             type: object
+            minItems: 1
             properties:
-              text:   {'type': 'string'}
-              author: {'type': 'string'}
-              date:   {'type': 'string', 'format': 'date'}
-              url:    {'type': 'string'}
-              backup: {'type': 'string'}
+              text:   {'type': 'string', 'minLength': 1}
+              author: {'type': 'string', 'minLength': 1}
+              date:   {'type': 'string', 'minLength': 1, 'format': 'date'}
+              url:    {'type': 'string', 'minLength': 1}
+              backup: {'type': 'string', 'minLength': 1}
+            required: ['text']
         visuals:
           type: array
+          minItems: 1
           items:
             type: object
             properties:
-              alt: {'type': 'string'}
-              url: {'type': 'string'}
-              backup: {'type': 'string'}
+              alt:    {'type': 'string', 'minLength': 1}
+              url:    {'type': 'string', 'minLength': 1}
+              backup: {'type': 'string', 'minLength': 1}
             required: ['url']
       required: ['title']
 required: ['data']
