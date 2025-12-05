@@ -22,4 +22,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Trigger Cloudflare Page Update Webhook
-        run: python -c 'print("Hello World! About to add trigger.")'
+        run: curl -X POST "https://api.cloudflare.com/client/v4/pages/webhooks/deploy_hooks/$CF_BUILD_TRIGGER"
+        env:
+          CF_BUILD_TRIGGER: ${{ secrets.CF_BUILD_TRIGGER }}
+      - name: Print Message
+        run: echo "Triggered the build." 
