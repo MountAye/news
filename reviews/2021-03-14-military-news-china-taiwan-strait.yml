@@ -179,3 +179,50 @@ data:
   author: RFI
   title: 赖清德总统提台湾史上最高国防预算案表防御决心 国民党批将债留子孙
   url: "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251127-%E8%B5%96%E6%B8%85%E5%BE%B7%E6%80%BB%E7%BB%9F%E6%8F%90%E5%8F%B0%E6%B9%BE%E5%8F%B2%E4%B8%8A%E6%9C%80%E9%AB%98%E5%9B%BD%E9%98%B2%E9%A2%84%E7%AE%97%E6%A1%88%E8%A1%A8%E9%98%B2%E5%BE%A1%E5%86%B3%E5%BF%83-%E5%9B%BD%E6%B0%91%E5%85%9A%E6%89%B9%E5%B0%86%E5%80%BA%E7%95%99%E5%AD%90%E5%AD%99"
+#
+- date: 2025-08-18
+  author: 新华网
+  title: 外交部：所谓“旧金山和约”非法无效，台湾属于中国的历史和法理事实不容置疑
+  url: http://www.news.cn/20250818/5e8ce4bfc1ce477a88d56c8447062518/c.html
+  backup: https://web.archive.org/web/20250818132100/http://www.news.cn/20250818/5e8ce4bfc1ce477a88d56c8447062518/c.html
+  tags: [中国,日本,旧金山和约,一个中国,台湾有事就是日本有事]
+  details:
+  - text: 旧事重提
+    date: 2025-12-04
+    author: 新浪新闻
+    url: https://news.sina.com.cn/zx/gj/2025-12-05/doc-infztinh8511541.shtml
+  - text: 高市早苗：日本无权认定台湾的归属. 中国：旧金山合约是无效的文件，台湾依然属于日本国
+    author: Twitter@川和喵酱薯条
+    url: https://x.com/mengtunwudaimu/status/1996784242307793163
+#
+- title: 上海BN嘉年华，歌手大槻真希在演出最后一首海贼王ED《memories》时，突然音乐停止，演出中止，匆匆退场。
+  author: Twitter@李老师不是你老师
+  date: 2025-11-28
+  tags: [台湾有事就是日本有事,日本艺人在华演出取消]
+  details:
+  - text: 大槻真希回应28日、29日上海演出被临时终止
+    author: Twitter@李老师不是你老师
+    url: https://x.com/whyyoutouzhele/status/1995738450348442104
+# 
+- title: 原定于明日（11 月 29 日）举行的滨崎步上海演唱会，在毫无提前通知的情况下突然被“极限”取消。演唱会取消后，滨崎步在空无一人的场馆内表演 。
+  author: Twitter@李老师不是你老师
+  date: 2025-11-28
+  url: https://x.com/whyyoutouzhele/status/1994335082933371030
+  details:
+  - text: 面对突发状况，滨崎步方面表示，她将选择“无观众完整演出”从头到尾唱一遍，想象大家都在；这场演出将全程录制，等到“合适的时机”再公开给大家。
+  - text: 而就在演出被取消前，滨崎步在官方 IG 还在为了香港火灾祈祷和哀悼，请求观众尽量避免穿红色服装，取消舞台的红装和火焰特效
+  - text: 滨崎步在Instagram发布了这场「没有观众的演唱会」的照片。
+    date: 2025-11-30
+    url: https://x.com/whyyoutouzhele/status/1995175802124566596
+#
+- title: 路透：近百艘中国军舰在东部海域大规模集结
+  author: DW-德声
+  date: 2025-12-04
+  tags: [中国,海军,军事演习]
+  url: https://www.dw.com/zh/%E8%B7%AF%E9%80%8F%E8%BF%91%E7%99%BE%E8%89%98%E4%B8%AD%E5%9B%BD%E5%86%9B%E8%88%B0%E5%9C%A8%E4%B8%9C%E9%83%A8%E6%B5%B7%E5%9F%9F%E5%A4%A7%E8%A7%84%E6%A8%A1%E9%9B%86%E7%BB%93/a-75012056
+#
+- title: 特朗普签署《台湾保证落实法案》 赖清德：凸显了美国与台湾接触的重要性
+  author: VOA-美国之音
+  date: 2025-12-04
+  tags: [美国,台湾,战略]
+  url: https://www.voachinese.com/a/trump-signs-taiwan-assurance-implementation-act-into-law-lai-ching-te-underlining-the-importance-of-us-taiwan-engagement-20251203/8089200.html

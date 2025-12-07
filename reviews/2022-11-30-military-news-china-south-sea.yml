@@ -14,7 +14,7 @@ data:
 - title: 2022年12月中美军机在南海上空近距离对峙
   author: rfa
   date: 2022-12-30
-  tags: [opinion,中国,美国,2022年12月中美军机在南海上空近距离对峙]
+  tags: [opinion,中国,美国,2022年12月中美军机在南海上空近距离对峙,日常摩擦]
   url: https://www.rfa.org/mandarin/yataibaodao/junshiwaijiao/hcm-12302022033437.html
   details:
   - text: 涉及一架中国海军歼-11战斗机和一架美国空军RC-135侦察机
@@ -50,3 +50,22 @@ data:
   - text: 但是北京不顾国际法庭的裁决、坚持推进在相关海域的主权主张，导致小马科斯的前任杜特尔特（Rodrigo Duterte）总统去年6月决定中断与北京就南中国海联合油气勘探进行谈判。
   - text: 联合声明还称“双方愿积极考虑建立火箭发射信息通报机制，在火箭残骸回收返还方面开展合作。”去年11月，菲律宾海军在其驻守的南中国海帕加萨岛附近海面发现并派船只拖走看来是中国火箭残骸的漂浮物，结果遭到中国海警人员强行割断拖绳，并将残骸抢走。
   - text: 根据美菲共同防御条约，如果菲律宾武装部队、船只和飞机在南中国海有争议地区受到攻击，美国将保卫菲律宾
+#
+- title: "Exclusive: US deploys Typhon missile launchers to new location in Philippines"
+  author: Reuters
+  date: 2025-01-23
+  tags: [美国,菲律宾,提丰]
+  url: https://www.reuters.com/world/asia-pacific/us-deploys-typhon-missile-launchers-new-location-philippines-2025-01-23/
+  details:
+  - author: VOA-美国之音
+    text: 路透社：美国在菲律宾新地点部署“堤丰”导弹发射系统
+    url: https://www.voachinese.com/a/us-deploys-typhon-missile-launchers-to-new-location-in-philippines-20250123/7947279.html
+  - author: BBC中文
+    text: 美国新陆基飞弹系统部署菲律宾：“堤丰”系统首现“第一岛链”意味着什么
+    url: https://www.bbc.com/zhongwen/simp/world-68853532
+#
+- title: 2025年中国海警与中国海军舰艇相撞事故
+  date: 2025-08-11
+  tags: [菲律宾,中国,南海撞船,日常摩擦]
+  author: 维基百科
+  url: https://zh.wikipedia.org/wiki/2025%E5%B9%B4%E4%B8%AD%E5%9B%BD%E6%B5%B7%E8%AD%A6%E4%B8%8E%E4%B8%AD%E5%9B%BD%E6%B5%B7%E5%86%9B%E8%88%B0%E8%89%87%E7%9B%B8%E6%92%9E%E4%BA%8B%E6%95%85

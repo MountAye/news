@@ -71,7 +71,7 @@ if __name__=="__main__":
     schema = json.loads(schema_str)
     for path_yml in Path("reviews/").glob("**/*.yml"):
         print(str(path_yml))
-        with open(str(path_yml),"r") as file_yml:
+        with open(str(path_yml),"r",encoding="utf-8") as file_yml:
             yml = yaml.load(file_yml,Loader=yaml.BaseLoader)
         try:
             validate(yml,schema,format_checker=FormatChecker())

@@ -1,0 +1,98 @@
+title: 明日浪潮·算子：全球军事装备和战略
+tags: [明日浪潮,中国,美国,台湾,德国]
+data:
+- title: 2022中國軍事科技五大突破
+  author: YouTube@说真话的徐某人
+  tags: [中国,无人武器,潜艇,航母,战机,超限战]
+  date: 2022-12-28
+  url: https://www.youtube.com/watch?v=qrBiJ0ESbDU
+  details:
+  - text: 1. 200噸無人戰艦。2022年6月，无人三体战舰在舟山附近海域现身，排水量200吨，航速高于20节
+  - text: 2. 潛艇技朮發展。2022年6月，美国卫星照片显示大连造船厂出现一不明型号潜艇；武汉093C型柴电潜艇，装备纺锤形指挥塔围壳
+  - text: 3. 航母技朮進步。003型航母栖装，显示下水时多处装备实际有的需要返工，有的并未安装。
+  - text: 4. 殲20第4批次。珠海航展展出第4批次的第70号飞机，据推测入役超过100架。换装涡扇10C发动机
+  - text: 5. 對台軍事准備加強。战机战舰绕台、武装渔民侵犯马祖、无人机闯入金门、7月和10月出动民用滚装船参与两栖演习
+#
+- author: South China Morning Post
+  title: "China’s advanced Fujian aircraft carrier ready to start sea trials this year, a boost for military capacity"
+  tags: [中国,航母,福建号]
+  url: https://www.scmp.com/news/china/military/article/3205399/chinas-advanced-fujian-aircraft-carrier-ready-start-sea-trials-year-boost-military-capacity
+#
+- title: 美国国会众议院、参议院日前分别通过2022年《国防授权法案》
+  author: rfa
+  tags: [美国,军事支出]
+  url: https://www.rfa.org/mandarin/ytbdzhuantixilie/shishi-hecha/hc-12202022093107.html
+  details:
+  - text: 亚洲事实查核实验室查阅了《国防授权法案》(H.R.7776)原文，确认该法案授权国务院可以从2023到2027年间，每年向台湾提供不超过20亿美元的“Foreign Military Finance grant assistance”，是不必偿还的军事援助。
+  - text: 法案另外授权提供台湾20亿美元“外国军事融资”（Foreign Military Financing）直接贷款(loan)，法案规定清偿期为十二年，加计利息，和上述不必偿还的军事援助并不相同。
+#
+- title: Boeing F-47
+  date: 2025-03-21
+  tags: [美国,战斗机,六代机,F47]
+  author: 维基百科
+  url: https://en.wikipedia.org/wiki/Boeing_F-47
+  details:
+  - author: Aviation Week Network
+    date: 2025-03-21
+    text: Boeing Wins U.S. Air Force's NGAD F-47 Fighter Contract
+    url: https://aviationweek.com/defense/aircraft-propulsion/boeing-wins-us-air-forces-ngad-f-47-fighter-contract
+#
+- title: Constellation Class Frigate Program Cancelled By Navy Secretary (Updated)
+  author: TWZ
+  date: 2025-11-25
+  url: https://www.twz.com/sea/navy-sinks-the-constellation-class-frigate-program
+  tags: [美国,护卫舰,星座级]
+  details:
+  - text: 在建的 2 艘继续完成，其余计划取消。使用成熟的欧洲产品，但是改装过程超出预算，且工期延误。
+  - text: 如何看待美国海军于2025年11月取消了星座级后续建造？
+    author: 知乎
+    url: https://www.zhihu.com/question/1976941292488508865
+  - text: 美海軍再傳噩耗：星座級取消，影響有多大，美國造船還能再次偉大嗎？
+    author: YouTube@说真话的徐某人
+    url: https://www.youtube.com/watch?v=QHHQfaRsRcU
+#
+- title: Teledyne FLIR Defense 已从美国海军陆战队系统司令部获得价值4250万美元的合同……将提供 600 多套 Rogue 1 徘徊弹药系统
+  author: Twitter@极光
+  date: 2025-12-06
+  tags: [美国,陆军,海军陆战队,无人装备]
+  url: https://x.com/Aurora107E/status/1997258603808563318
+#
+- title: The Navy’s F/A-XX Fighter Crisis Is Back
+  author: National Security Journal @ Robert Farley
+  date: 2025-12-03
+  url: https://nationalsecurityjournal.org/the-navys-f-a-xx-fighter-crisis-is-back/
+  tags: [美国,海军,战斗机,六代机,F/A-XX]
+  details:
+  - text: 反复仰卧起坐的FAXX，脱离竞标又要何时？
+    author: Twitter@祖国人homelander
+    date: 2025-12-06
+    url: https://x.com/IIShomelander/status/1996649756849025098
+#
+- title: National Security Strategy
+  author: The White House
+  date: 2025-12-05
+  tags: [美国,战略,2025国家安全保障战略]
+  url: https://www.whitehouse.gov/wp-content/uploads/2025/12/2025-National-Security-Strategy.pdf
+  details:
+  - text: 美国政府星期五（12月5日）发布一份备受瞩目的新战略文件，称美国将放弃其传统的全球角色，转而加强在拉丁美洲的主导地位，并大力打击移民。
+    url: https://www.zaobao.com.sg/realtime/world/story20251205-7922407?utm_medium=Social&utm_source=Twitter#Echobox=1764935890
+    author: 联合早报
+    date: 2025-12-05
+  - text: 在报告中，美国宣布过去 30 年的对华接触政策“彻底失败”
+    author: Twitter@李老师不是你老师
+    url: https://x.com/whyyoutouzhele/status/1996929746878226841
+  - text: 特朗普政权《国家安全保障战略》要求日韩大幅增加军费与美国一起协防台湾
+    author: RFI-法广
+    date: 2025-12-06
+    url: https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251206-%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E6%9D%83-%E5%9B%BD%E5%AE%B6%E5%AE%89%E5%85%A8%E4%BF%9D%E9%9A%9C%E6%88%98%E7%95%A5-%E8%A6%81%E6%B1%82%E6%97%A5%E9%9F%A9%E5%A4%A7%E5%B9%85%E5%A2%9E%E5%8A%A0%E5%86%9B%E8%B4%B9%E4%B8%8E%E7%BE%8E%E5%9B%BD%E4%B8%80%E8%B5%B7%E5%8D%8F%E9%98%B2%E5%8F%B0%E6%B9%BE?utm_medium=social&utm_campaign=x&utm_source=shorty&utm_slink=rfi.my%2FCFE6
+  - text: 坊间评论说美国从全球霸主走向西半球霸主。这完全是误判。该报告实际上非常鹰派
+    author: Twitter@王海滨的财经闲谈
+    date: 2025-12-06
+    url: https://x.com/wangwatchworld/status/1997337162061095160
+#
+- title: 德增購豹2A8戰車 填補援烏空缺
+  author: 青年日报
+  date: 2023-05-28
+  tags: [德国,陆军,坦克,豹2A8]
+  details:
+  - text: 「豹2A8」是以德軍「豹2A7」為基礎，安裝以色列拉斐爾公司開發的「戰利品」（Trophy）主動防禦系統（APS）
