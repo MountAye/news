@@ -85,7 +85,7 @@ data:
 #
 - author: RFI
   title: 2022年圣诞节中国军机在台海周边的活动
-  tags: [中国,日常摩擦]
+  tags: [中国,台湾,日常摩擦]
   url: https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20221226-%E5%8F%B0%E6%B9%BE-71%E6%9E%B6%E4%B8%AD%E5%9B%BD%E5%86%9B%E6%9C%BA%E5%9C%A8%E5%8F%B0%E6%B5%B7%E5%91%A8%E8%BE%B9%E6%B4%BB%E5%8A%A8-47%E6%9E%B6%E6%AC%A1%E9%80%BE%E8%B6%8A%E6%B5%B7%E5%B3%BD%E4%B8%AD%E7%BA%BF
 #
 - author: Twitter@BBC News 中文
@@ -94,10 +94,9 @@ data:
 #
 - title: 2022年圣诞节中国军机在台海周边的活动
   date: 2022-12-26
-  tags: [中国,日常摩擦]
+  tags: [中国,台湾,日常摩擦]
   details:
   - text: 中国越来越多地使用的施压手段之一是让战机飞越台湾的防空区。自今年年初以来，已经记录了1700多起此类入侵事件，相比之下，2021年为969起，2020年为146起。
-#
 #
 - date: 2025-09-29
   tags: [中国,战争准备]
@@ -195,10 +194,20 @@ data:
     author: Twitter@川和喵酱薯条
     url: https://x.com/mengtunwudaimu/status/1996784242307793163
 #
+- title: 各地的日本音乐演出都因「不可抗力」被终止。
+  author: Twitter@李老师不是你老师
+  date: 2025-11-28
+  tags: [台湾有事就是日本有事,日本艺人在华演出被取消]
+  visuals:
+  - url: https://x.com/whyyoutouzhele/status/1994355225377812605/photo/1
+  - url: https://x.com/whyyoutouzhele/status/1994355225377812605/photo/2
+  - url: https://x.com/whyyoutouzhele/status/1994355225377812605/photo/3
+  - url: https://x.com/whyyoutouzhele/status/1994355225377812605/photo/4
+#
 - title: 上海BN嘉年华，歌手大槻真希在演出最后一首海贼王ED《memories》时，突然音乐停止，演出中止，匆匆退场。
   author: Twitter@李老师不是你老师
   date: 2025-11-28
-  tags: [台湾有事就是日本有事,日本艺人在华演出取消]
+  tags: [台湾有事就是日本有事,日本艺人在华演出被取消]
   details:
   - text: 大槻真希回应28日、29日上海演出被临时终止
     author: Twitter@李老师不是你老师
@@ -207,7 +216,7 @@ data:
 - title: 原定于明日（11 月 29 日）举行的滨崎步上海演唱会，在毫无提前通知的情况下突然被“极限”取消。演唱会取消后，滨崎步在空无一人的场馆内表演 。
   author: Twitter@李老师不是你老师
   date: 2025-11-28
-  tags: [台湾有事就是日本有事,日本艺人在华演出取消,滨崎步空场演出]
+  tags: [台湾有事就是日本有事,日本艺人在华演出被取消,滨崎步空场演出]
   url: https://x.com/whyyoutouzhele/status/1994335082933371030
   details:
   - text: 面对突发状况，滨崎步方面表示，她将选择“无观众完整演出”从头到尾唱一遍，想象大家都在；这场演出将全程录制，等到“合适的时机”再公开给大家。
@@ -219,7 +228,7 @@ data:
 - title: 笑死，这也要辟谣？
   author: Reddit@China_irl@lusunshine
   date: 2025-12-01
-  tags: [台湾有事就是日本有事,日本艺人在华演出取消,滨崎步空场演出]
+  tags: [台湾有事就是日本有事,日本艺人在华演出被取消,滨崎步空场演出]
   url: https://www.reddit.com/r/China_irl/comments/1pba78z/%E7%AC%91%E6%AD%BB%E8%BF%99%E4%B9%9F%E8%A6%81%E8%BE%9F%E8%B0%A3/
   details:
   - text: 这是明显的混淆视听，怎么还有人信？？？一人演唱会是人家滨崎步本人自己发的，跟这个摄像发的毫无关系，而且根本不是同一天，只有他发的这个是彩排。不理解的自己到滨崎步ig上看吧，真是。。
@@ -237,3 +246,29 @@ data:
   date: 2025-12-04
   tags: [美国,台湾,战略]
   url: https://www.voachinese.com/a/trump-signs-taiwan-assurance-implementation-act-into-law-lai-ching-te-underlining-the-importance-of-us-taiwan-engagement-20251203/8089200.html
+#
+- title: 中国军机向我国自卫队飞机照射雷达
+  author: Twitter@日本国驻华大使馆
+  date: 2025-12-07
+  tags: [中国,日本,日常摩擦]
+  url: https://www.cn.emb-japan.go.jp/itpr_zh/11_000001_00441.html
+# 
+- title: 针对日本称中国军机在冲绳岛东南方向的国际水域上空，用雷达间歇照射日本自卫队战斗机，中国国防部星期天回应，纯属是贼喊捉贼、倒打一耙，并指对日本寻衅滋事、误导舆论表示强烈不满、坚决反对。
+  author: 联合早报
+  date: 2025-12-07
+  tags: [中国,日本,日常摩擦]
+  url: https://www.zaobao.com.sg/realtime/china/story20251207-7929106?utm_medium=Social&utm_source=Twitter#Echobox=1765107111
+#
+- title: Japan frustrated at Trump administration’s silence over row with China
+  author: Financial Times
+  date: 2025-12-07
+  tags: [中国,日本,美国,台湾有事就是日本有事]
+  details:
+  - text: 一位日本官员表示，东京方面并不认为美国对日本的承诺有所动摇，但他补充说，对华盛顿高层官员缺乏公开支持深感失望
+    url: https://x.com/myfxtrader/status/1997673616394076420
+#
+- title: 赖清德：臺灣很樂意幫助中國、共同合作，來解決他們所面臨的各項經濟上面的問題。
+  author: Twitter@王綫 Shian
+  date: 2025-12-03
+  tags: [台湾,中国,口水战]
+  url: https://x.com/ramenist_front/status/1996445308906016826
