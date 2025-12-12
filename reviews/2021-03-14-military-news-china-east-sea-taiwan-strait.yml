@@ -235,6 +235,12 @@ data:
     date: 2025-12-05
     author: Reddit@China_irl@dontcallmetuggi
 #
+- title: 老爷们其实这几天内心只有一个想法：“步姐，求你了，你就说一句软话，支持一下中国，然后你唱啥都行。”结果滨崎步一言不发。12月9日，滨崎步澳门演唱会被取消，毫不意外。
+  author: Twitter@落日海盗
+  date: 2025-12-09
+  tags: [台湾有事就是日本有事,日本艺人在华演出被取消,滨崎步空场演出]
+  url: https://x.com/bright_hawkins/status/1998378670323585266
+#
 - title: 路透：近百艘中国军舰在东部海域大规模集结
   author: DW-德声
   date: 2025-12-04
@@ -250,13 +256,13 @@ data:
 - title: 中国军机向我国自卫队飞机照射雷达
   author: Twitter@日本国驻华大使馆
   date: 2025-12-07
-  tags: [中国,日本,日常摩擦]
+  tags: [中国,日本,日常摩擦,台湾有事就是日本有事,中国舰载机雷达锁定日本F15]
   url: https://www.cn.emb-japan.go.jp/itpr_zh/11_000001_00441.html
 # 
 - title: 针对日本称中国军机在冲绳岛东南方向的国际水域上空，用雷达间歇照射日本自卫队战斗机，中国国防部星期天回应，纯属是贼喊捉贼、倒打一耙，并指对日本寻衅滋事、误导舆论表示强烈不满、坚决反对。
   author: 联合早报
   date: 2025-12-07
-  tags: [中国,日本,日常摩擦]
+  tags: [中国,日本,日常摩擦,台湾有事就是日本有事,中国舰载机雷达锁定日本F15]
   url: https://www.zaobao.com.sg/realtime/china/story20251207-7929106?utm_medium=Social&utm_source=Twitter#Echobox=1765107111
 #
 - title: Japan frustrated at Trump administration’s silence over row with China
@@ -272,3 +278,112 @@ data:
   date: 2025-12-03
   tags: [台湾,中国,口水战]
   url: https://x.com/ramenist_front/status/1996445308906016826
+#
+- title: 武统台湾的关键在于解放军能否在打响24小时之内完全控制一处机场和一处海港。按照关键设施战略位置来看，首选高雄。不论是以渗透，空降，还是岛内第五纵队配合，这一战术目标能否达成将成为整场战役的关键
+  author: Twitter@Dr.Bo
+  tags: [民间推演,中国]
+  date: 2025-12-07
+  url: https://x.com/BoDiplo/status/1997815433622442123
+#
+- title: 在本月6日的火控雷达锁定事件发生时，日本方面曾试图通过两国间紧急热线进行联络以避免发生误会，但中方没有接听。
+  author: Twitter@日本経済新聞
+  date: 2025-12-09
+  tags: [中国,日本,日常摩擦,台湾有事就是日本有事,中国舰载机雷达锁定日本F15]
+  url: https://x.com/nikkei/status/1998143529348968666
+  details:
+  - text: 跟三岁小孩打交道就是这样的，别看他如今一副肌肉男的模样，心智还是三岁。
+    author: Twitter@约拿坦
+    url: https://x.com/jiongnasen/status/1998317024208969784
+# 
+- title: 美国会公布2026《国防授权法案》：限制中国，支持台湾
+  author: VOA-美国之音
+  tags: [美国,战争准备]
+  url: https://www.voachinese.com/a/ndaa-2026-toughens-u-s-policy-on-china-and-boosts-key-efforts-backing-taiwan-20251208/8091457.html
+  date: 2025-12-13
+#
+- title: 中国若武力攻台，战事将如何展开？
+  date: 2025-12-10
+  author: 华尔街日报中文网
+  tags: [民间推演,美国]
+  url: https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E8%8B%A5%E6%AD%A6%E5%8A%9B%E6%94%BB%E5%8F%B0-%E6%88%98%E4%BA%8B%E5%B0%86%E5%A6%82%E4%BD%95%E5%B1%95%E5%BC%80-01255277?gaa_at=eafs&gaa_n=AWEtsqeTJ-bFPk0LR-USc3lVNrP6y5g6X8TDDOQ-HJ3DFkNXbleSMYtmki9XZUTQ6OU%3D&gaa_ts=693c9dcd&gaa_sig=rf63xZfZyXoFO3ZIUfWNPVmolMWGBFSvzY6f5GzDKYDsh09UgxEup5gAk1LsgYc5Tily2_8bxbIKYqjf1jUgQw%3D%3D
+  details:
+  - text: 有付费墙
+  - text: 英文版，也有付费墙
+    author: THE WALL STREET JOURNAL
+    date: 2025-12-06
+    url: https://www.wsj.com/world/china/how-china-chinese-invasion-taiwan-ba7e3916
+#
+- title: 日本周一（12月8日）对中国关于两国军机周末事件的描述提出异议，称日本自卫队并未如中国所言妨碍中国海军的飞行训练，并向中方提出强烈抗议，严正要求不再发生类似事件。周日，日本和澳大利亚防长在东京会谈后就印太问题展现共同立场，两国重申了对东海与南海局势的“严重关切”，并再次强调坚决反对任何试图以武力或胁迫改变现状的行为。
+  author: RFI-法广
+  date: 2025-12-08
+  tags: [中国,日本,日常摩擦,台湾有事就是日本有事,中国舰载机雷达锁定日本F15]
+  url: https://x.com/RFI_Cn/status/1997986565272768533
+#
+- title: China would destroy US military in fight over Taiwan, top secret document warns
+  author: Telegraph
+  date: 2025-12-10
+  tags: [民间推演,美国]
+  url: https://www.telegraph.co.uk/us/news/2025/12/10/china-will-destroy-us-military-fight-over-taiwan/
+  details:
+  - text: 有付费墙
+  - text: 美军最引以为傲的“福特”号航母（造价130亿美元，约97.5亿英镑），在兵推里基本活不过第一集。
+    author: Twitter@essen_ai
+    date: 2025-12-11
+    url: https://x.com/essen_ai/status/1999092247053177212
+  - text: 只有“高精尖”，没有“库存量”
+    author: Twitter@essen_ai
+    date: 2025-12-11
+    url: https://x.com/essen_ai/status/1999092247053177212
+  - text: 特朗普的态度：得加钱
+    author: Twitter@essen_ai
+    date: 2025-12-11
+    url: https://x.com/essen_ai/status/1999092247053177212
+  - text: 无人机大跃进？可能来不及了
+    author: Twitter@essen_ai
+    date: 2025-12-11
+    url: https://x.com/essen_ai/status/1999092247053177212
+#
+- title: 中国海軍艦艇の動向について
+  author: 日本统合幕僚监部
+  date: 2025-12-07
+  tags: [中国,日本,日常摩擦,台湾有事就是日本有事,中国舰载机雷达锁定日本F15]
+  url: https://www.mod.go.jp/js/pdf/2025/p20251207_02.pdf
+  details:
+  - text: 12月6日，中国解放军航母“辽宁”号、一艘导弹驱逐舰（以及两艘导弹驱逐舰，在冲绳与鹿儿岛周围海域航行。期间，“辽宁”号航空母舰起飞的歼-15战斗机，使用雷达间歇性照射正在紧急升空的日本航空自卫队F-15战斗机。
+    author: Twitter@李老师不是你老师
+#
+- title: 中央广播电视总台旗下新媒体账号“玉渊谭天”公布了现场录音称，中方曾多次向附近海域的日本舰艇通报相关情况，且日舰已明确回复“收到”。
+  author: Twitter@李老师不是你老师
+  date: 2025-12-09
+  url: https://x.com/whyyoutouzhele/status/1998671527290773945
+  tags: [中国,日本,日常摩擦,台湾有事就是日本有事,中国舰载机雷达锁定日本F15]
+  details:
+  - text: 中方甩出通话铁证，提前1.5小时通告训练，日方回应“收到”
+    author: 网易
+    url: https://www.163.com/dy/article/KGF1GNEJ05567FSQ.html
+#
+- title: 日本防卫相小泉进次郎在东京市谷的防卫省召开记者会，承认中方此前确实通报了将在相关海域实施训练，然后称通报内容未包含训练规模和具体位置，日方“未能获得足够资讯”。
+  author: Twitter@李老师不是你老师
+  date: 2025-12-10
+  url: https://x.com/whyyoutouzhele/status/1998747025287033207
+  tags: [中国,日本,日常摩擦,台湾有事就是日本有事,中国舰载机雷达锁定日本F15]
+  details:
+  - text: 详讯：中方公开音频称事先通报训练 日方称信息不足
+    author: 共同社
+    date: 2025-12-10
+    url: https://china.kyodonews.net/news/2025/12/6b4e8ed96303--.html
+  - text: 小泉防衛相就中國官媒對「雷達照射事件」的不實報導作出了四點說明…
+    author: Twitter@のらいぬ
+    url: https://x.com/JapanBanZaiLove/status/1998625662727500044
+# 
+- title: 中俄战机首次配合中国航母在日本周边举行联合军事活动
+  author: RFI-法广
+  date: 2025-12-10
+  tags: [中国,日本,日常摩擦,台湾有事就是日本有事]
+  url: https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251210-%E4%B8%AD%E4%BF%84%E6%88%98%E6%9C%BA%E9%A6%96%E6%AC%A1%E9%85%8D%E5%90%88%E4%B8%AD%E5%9B%BD%E8%88%AA%E6%AF%8D%E5%9C%A8%E6%97%A5%E6%9C%AC%E5%91%A8%E8%BE%B9%E4%B8%BE%E8%A1%8C%E8%81%94%E5%90%88%E5%86%9B%E4%BA%8B%E6%B4%BB%E5%8A%A8
+#
+- title: 台北市议员苗博雅称，乌克兰没有被占领的地区，孩子们都还在上学，该上班的还是在上班，这就是新型战争型态“金门如果发生战争，台湾还是可以继续上班、上学”，言论引发争议。
+  author: 联合早报
+  date: 2025-12-10
+  tags: [民间舆论,台湾]
+  url: https://www.zaobao.com.sg/realtime/china/story20251210-7942252

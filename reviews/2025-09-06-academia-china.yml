@@ -18,6 +18,10 @@ data:
   author: Reddit@China_irl@Complete-Pirate9488
   tags: [院士,2025年院士评选]
   url: https://www.reddit.com/r/China_irl/comments/1naaa2n/2025_%E9%99%A2%E5%A3%AB%E5%80%99%E9%80%89%E4%BA%BA%E7%BD%91%E7%BB%9C%E8%B4%9F%E9%9D%A2%E8%88%86%E6%83%85%E6%B1%87%E6%80%BB/?rdt=40016
+  details:
+  - text: 原表格链接
+    author: Twitter@李老师不是你老师
+    url: https://docs.google.com/spreadsheets/d/1sMk3Rd0fnjAArrjF7b4alwt3BgdplKOKMHWanXmPbSM/edit?gid=0#gid=0
 #
 - title: ​2025年两院院士增选结果揭晓  144位专家当选（附名单）
   tags: [院士,2025年院士评选]
@@ -38,3 +42,17 @@ data:
   author: 联合早报
   url: https://www.zaobao.com.sg/realtime/china/story20251206-7925032
   date: 2025-12-06
+# 
+- title: “新冠疫苗之父”被撤销全国创新争先奖
+  author: Twitter@李老师不是你老师
+  tags: [新冠疫苗]
+  date: 2025-12-08
+  url: https://x.com/whyyoutouzhele/status/1998037348978737366
+  details:
+  - text: 中国科协发布公告：鉴于国药集团原总工程师、首席科学家杨晓明存在违纪违法行为，决定撤销其所获“全国创新争先奖”奖状，并收回奖章、证书。
+# 
+- title: 中国“国药疫苗之父”落马 学者：或涉药品贪腐和疫苗研发
+  author: 联合早报
+  date: 2024-04-27
+  tags: [新冠疫苗]
+  url: https://www.zaobao.com.sg/news/china/story20240427-3515644

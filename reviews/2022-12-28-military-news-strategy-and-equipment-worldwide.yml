@@ -106,6 +106,12 @@ data:
     url: https://x.com/JohnZhangSV/status/1997534171166818565
     author: Twitter@JohnZhangSV
 #
+- title: 中美间就三条：美国确保对中国的经济、科技的领先，美国确保西半球尤其美洲统治力，台湾和亚太盟国确保自己有实力不被中国单方面改变西太现状。美国不再希望直接干涉。特朗普一派继续干，这就是新的祖宗之法。
+  author: Twitter@中国政经事实ChinaFacts
+  tags: [美国,战略,2025国家安全保障战略]
+  date: 2025-12-07
+  url: https://x.com/ChinaMacroFacts/status/1997844862222369021
+#
 - title: Member of UK Armed Forces dies in accident in Ukraine
   url: https://www.bbc.com/news/articles/c3e07kxey74o?at_medium=RSS&at_campaign=rss
   author: BBC
@@ -115,3 +121,35 @@ data:
   - text: A statement from the Ministry of Defence.
     author: Twitter@DefenceHQ
     url: https://x.com/DefenceHQ/status/1998439228162617452
+# 
+- title: 英国 31 型护卫舰 HMS Formidable 铺设龙骨
+  author: Navy Lookout
+  date: 2025-12-09
+  tags: [英国,护卫舰,Type31]
+  url: https://www.navylookout.com/keel-laid-for-third-type-31-frigate-hms-formidable/
+#
+- title: 美国在书面文件上把矛头对准欧洲，而非中俄，仍让欧盟错愕。
+  author: RFI-法广
+  date: 2025-12-08
+  tags: [美国,战略,2025国家安全保障战略,欧洲]
+  url: https://x.com/RFI_Cn/status/1998166996865986681
+#
+- title: 据战区网站报道，美国国会正采取新的措施，阻止五角大楼取消采购新型 E-7“楔尾”空中预警指挥机的计划。最新版的年度国防政策法案草案还包含条款，要求空军继续维持其仅存的 16 架 E-3“望楼”预警机服役，直到足够数量的 E-7“楔尾”交付，或满足其他相关条件。
+  author: Twitter@极光
+  date: 2025-12-09
+  url: https://x.com/Aurora107E/status/1998314656067441147
+  tags: [美国,空军,预警机,E-7]
+#
+- title: 波音防务近日发布视频。MQ-28无人战机、E-7A预警机及F/A-18F成功演示了自主空空武器交战能力MQ-28验证了实战战力，可降低有人机风险并提升战术打击范围。
+  author: Twitter@极光
+  date: 2025-12-09
+  tags: [美国,空军,预警机,战斗机,四代机,美国海军,无人武器,E-7,MQ-28,F/A-18]
+  url: https://x.com/Aurora107E/status/1998556696214688203
+#
+- title: HII旗下的纽波特纽斯造船厂举行了弗吉尼亚级攻击型核潜艇“巴布”号（Barb，SSN 804）的龙骨铺设仪式。此活动标志着该潜艇正式进入建造阶段。
+  author: Twitter@极光
+  date: 2025-12-10
+  tags: [美国,海军,潜艇,核潜艇,弗吉尼亚级]
+  url: https://x.com/Aurora107E/status/1998680090905907394
+  details: 
+  - text: 这应该是block V型，配备4个VPM模块，每个模块含7具发射单元，额外携带28枚“战斧”巡航导弹，加上原有2具VPT模块，共40枚巡航导弹 。
