@@ -33,13 +33,16 @@ data:
   author: 微信公众号@科学之星
   tags: [院士,2025年院士评选,饶毅]
   url: https://mp.weixin.qq.com/s/9wf5Al7rwQjAI6cb1GzhNw
-  details:
-  - text: 如何评价饶毅教授「远离一线是培养优秀科学家的最佳环境」对王艳芬院士的评价？
-    author: 知乎
-    url: https://www.zhihu.com/question/1976252106336907870
+#
+- title: 如何评价饶毅教授「远离一线是培养优秀科学家的最佳环境」对王艳芬院士的评价？
+  author: 知乎
+  date: 2025-11-24
+  tags: [院士,2025年院士评选,饶毅]
+  url: https://www.zhihu.com/question/1976252106336907870
 #
 - title: 中国成立大湾区大学，将聚焦物质科学、先进工程、生命科学、信息科学技术、理学、金融管理六大领域。
   author: 联合早报
+  tags: [科研机构]
   url: https://www.zaobao.com.sg/realtime/china/story20251206-7925032
   date: 2025-12-06
 # 

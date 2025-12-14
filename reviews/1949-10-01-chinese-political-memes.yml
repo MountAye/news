@@ -80,14 +80,80 @@ data:
   date: 2025-12-11
   tags: [谣传,落马,马兴瑞]
   url: https://www.zaobao.com.sg/realtime/china/story20251211-7951603?utm_medium=Social&utm_source=Twitter#Echobox=1765455666
+- title: 马兴瑞没有参加中央经济工作会议（周二周三），但12月11日（周四）仍出现在办公室，12🈷️12日（周五）就没再出现
+  author: Twitter@Zhan549527
+  date: 2025-12-13
+  tags: [谣传,落马,马兴瑞]
+  url: https://x.com/Zhan549527/status/1999813016817373437
+- title: 许达哲官宣，袁家军孤木难支，马兴瑞何去何从？航天系可能真的要完球了！
+  author: YouTube@新官场
+  date: 2025-10-30
+  tags: [谣传,落马,马兴瑞,航天系]
+  url: https://www.youtube.com/watch?v=vKXJAL4Dslw&t=312s
+- title: 来晚了 今天再聊聊四面楚歌的马兴瑞
+  author: YouTube@新官场
+  date: 2025-12-02
+  tags: [谣传,落马,马兴瑞]
+  url: https://www.youtube.com/watch?v=LGyv7dYFFws
 # 
-- title: 郭德纲相声《艺高人胆小》被约谈
-  tags: [内容审查,相声,郭德纲艺高人胆小]
-  visuals:
-  - alt: YouTube 视频
-    url: youtube.com/watch?v=Aw2m5eGLfTA&pp=ygUJ5b635LqR56S-
+- title: 郭德纲相声《艺高人胆小》
+  tags: [内容审查,相声,郭德纲,艺高人胆小]
+  url: https://youtube.com/watch?v=Aw2m5eGLfTA&pp=ygUJ5b635LqR56S-
+  date: 2025-11-27
+- title: 《郭德纲被约谈》的文章，指北京市西城区文旅局已于上星期五（5日）正式约谈德云社，认定郭德纲、于谦在北展剧场表演的相声《艺高人胆小》存在低俗内容和不当影射国有院团行为，要求立即整改。
+  author: 联合早报
+  date: 2025-12-09
+  tags: [内容审查,相声,郭德纲,艺高人胆小]
 - title: 我可以确定，今上已经在准备动手二次文革了。这比喻也许不太恰当，郭德纲就好比当年的海瑞罢官。
   author: Twitter@阿海
   date: 2025-12-10
-  tags: [内容审查,相声,郭德纲艺高人胆小]
+  tags: [内容审查,相声,郭德纲,艺高人胆小]
   url: https://x.com/funabashi_ahai/status/1998942322005033371
+#
+- title: 曾于2020年冒死前往维吾尔集中营实地拍摄记录片的关恒，在美国遭遇ICE抓捕，并将于12月15日在纽约开庭。
+  author: Twitter@李老师不是你老师
+  date: 2025-12-12
+  tags: [新疆集中营,美国优先MAGA,润,拍摄集中营的关恒被遣返]
+  url: https://x.com/whyyoutouzhele/status/1999635199068635387
+  details:
+  - text: 还替美国卖命吗？
+    author: Twitter@はるひ
+    url: https://x.com/Killer_Haruhi/status/1999640688766714082
+- title: 深入新疆拍摄集中营纪录片的河南人关恒，走线到美国纽约后，在ICE八月份的一次行动中被抓。
+  author: Twitter@小径残雪
+  date: 2025-12-12
+  tags: [新疆集中营,美国优先MAGA,润,拍摄集中营的关恒被遣返]
+  url: https://x.com/xiaojingcanxue/status/1999680361178235343
+- title: 我说句实在话阿，可能又要被你中推反贼们骂成外宣狗了。视频里这哥们拍得啥集中营啊，我作为一个在新疆深度报道新疆军区的记者，这是库尔勒某部的训练基地。视频里都能看见当初我住的招待所了。2017年国际军事比赛，一大堆老外都在这住。军事开放日家长都能带孩子进去，门口那坦克我还爬上去过呢。
+  author: Twitter@落日海盗
+  date: 2025-12-13
+  tags: [新疆集中营,美国优先MAGA,润,拍摄集中营的关恒被遣返]
+  url: https://x.com/bright_hawkins/status/1999723878952968613
+#
+- title: 前不久网友引用《芳华》引起一波文革招魂潮来证明社会心态没变好、反而在变坏。现在中国社会又兴起一波反清复明潮。许多人不理解这种流行现象说明什么问题。
+  author: Twitter@Ignatius Lee
+  date: 2025-12-12
+  tags: [芳华影评,文革]
+  url: https://x.com/22HomoPoliticus/status/1999458081248301094
+  details:
+  - text: 社交媒体上的流行现象，其本质上跟先前中国社会流行的遛纸狗、满地爬是同一回事情。
+  - text: 社会心态，其实无法简单通过信息级联和可得性级联折射出来，因为盲目从众甚至不需要理性判断就可以发生，也无法充分说明某种事实。
+  - text: 社会运动需要的是抑制人的群氓行为，转向有意义的社会互动。社交媒体之所以并不等同于真正的社会运动，很大一部分原因就在于其社会互动形式上可能掺杂进大量信息级联和可得性级联，致其集体互动仅形成转瞬即逝的流行现象，无法持久产生和维持政治意义。
+#
+- title: 墨索里尼-毛澤東語錄詩歌定型文收集串
+  author: Twitter@La période azurée de Aya
+  date: 2025-07-22
+  tags: [毛泽东,梗指南]
+  url: https://x.com/aya_the_raven/status/1947871579125518550
+#
+- title: 毛澤東孫子的精彩朗誦表演
+  author: Twitter@喵流青年
+  date: 2024-06-14
+  url: https://x.com/midwaydude/status/1746522233944608970
+  tags: [毛泽东,毛新宇,梗指南]
+#
+- title: 你好，我是爷爷的孙子！
+  author: YouTube@新官场
+  date: 2025-03-14
+  tags: [毛泽东,毛新宇]
+  url: https://www.youtube.com/watch?v=ldT8a0XFTGY

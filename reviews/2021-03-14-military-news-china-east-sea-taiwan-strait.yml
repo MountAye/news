@@ -241,6 +241,14 @@ data:
   tags: [台湾有事就是日本有事,日本艺人在华演出被取消,滨崎步空场演出]
   url: https://x.com/bright_hawkins/status/1998378670323585266
 #
+- title: 观察者网评论“滨崎步上海演唱会”事件时表示，滨崎步已经“糊了”，没有职业素养，不明白粉丝在追什么。
+  author: Twitter@李老师不是你老师
+  date: 2025-12-13
+  tags: [台湾有事就是日本有事,日本艺人在华演出被取消,滨崎步空场演出]
+  visuals:
+  - alt: 6到起飞的滨崎步｜日本赢学｜日本片假名标注英文rehearsal cr观察者网
+    url: https://www.bilibili.com/video/BV1MmSYBPEHV
+#
 - title: 路透：近百艘中国军舰在东部海域大规模集结
   author: DW-德声
   date: 2025-12-04
@@ -381,6 +389,15 @@ data:
   date: 2025-12-10
   tags: [中国,日本,日常摩擦,台湾有事就是日本有事]
   url: https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251210-%E4%B8%AD%E4%BF%84%E6%88%98%E6%9C%BA%E9%A6%96%E6%AC%A1%E9%85%8D%E5%90%88%E4%B8%AD%E5%9B%BD%E8%88%AA%E6%AF%8D%E5%9C%A8%E6%97%A5%E6%9C%AC%E5%91%A8%E8%BE%B9%E4%B8%BE%E8%A1%8C%E8%81%94%E5%90%88%E5%86%9B%E4%BA%8B%E6%B4%BB%E5%8A%A8
+#
+- title: U.S. Strategic Bombers, Japanese Anti-Ship Fighters Take Flight Amid Japan-China Tensions
+  author: USNI news
+  date: 2025-12-11
+  tags: [中国,日本,美国,日常摩擦]
+  details:
+  - text: 美国空军具备核打击能力的B-52H“同温层堡垒”战略轰炸机，近日与日本航空自卫队战斗机编队飞越东海及日本海域，进行双边联合演练与武力展示。此次联合演练被外界视为美日对中俄军演的直接回应与威慑。
+    author: Twitter@李老师不是你老师
+    url: https://x.com/whyyoutouzhele/status/1999207565721502193
 #
 - title: 台北市议员苗博雅称，乌克兰没有被占领的地区，孩子们都还在上学，该上班的还是在上班，这就是新型战争型态“金门如果发生战争，台湾还是可以继续上班、上学”，言论引发争议。
   author: 联合早报
