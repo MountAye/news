@@ -22,7 +22,7 @@ schema_str = """
         "properties": {
           "date":  { "type": "string", "minLength": 1, "format": "date" },
           "author":{ "type": "string", "minLength": 1 },
-          "title": { "type": "string", "minLength": 1 },
+          "text": { "type": "string", "minLength": 1 },
           "url":   { "type": "string", "minLength": 1 },
           "backup":{ "type": "string", "minLength": 1 },
           "tags":  {

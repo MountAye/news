@@ -1,7 +1,7 @@
 title: 明日浪潮·北海
 tags: [地缘,政治,军事]
 data:
-- title: 俄中战略轰炸机在西太平洋上空联合巡逻
+- text: 俄中战略轰炸机在西太平洋上空联合巡逻
   author: DW
   tags: [report,俄罗斯,中国,轰炸机,西太平洋]
   date: 2022-11-30
@@ -10,7 +10,7 @@ data:
   - text: 俄罗斯国防部说，俄罗斯空军的图-95轰炸机和中国的H-6K轰炸机在8小时的巡逻任务中飞越了日本海和东中国海。
   - text: 俄罗斯国防部在一份声明中说，俄罗斯飞机在历史上首次在联合空中巡逻中完成在中国机场的降落，而中国飞机则完成了在俄罗斯机场的降落。
 #
-- title: 2022年中俄东中国海联合演习
+- text: 2022年中俄东中国海联合演习
   author: Twitter@外汇交易员
   tags: [report,俄罗斯,中国,东中国海,联合演习]
   url: https://twitter.com/myfxtrader/status/1604733465991163904
@@ -19,7 +19,7 @@ data:
   - text: VOA：中俄继续背靠背取暖，两国本周举行年度联合海军演习
   - text: 俄罗斯卫星通讯社：俄太平洋舰队的一支舰艇分队将参加于本周三举行的为期7天的俄中海上联合演习。
 #
-- title: 新闻报道
+- text: 新闻报道
   author: DW
   date: 2022-12-23
   tags: [report,俄罗斯,中国,东中国海,联合演习]
@@ -29,7 +29,7 @@ data:
   - text: 中国则为这次演习部署了两艘驱逐舰、一艘柴油潜艇和其他几艘船。
   - text: 俄罗斯和中国的战机也参加了为期一周的演习，内容包括射击练习和反潜演习。
 #
-- title: 朝鲜无人机在韩国领空飞行7小时，韩方反制
+- text: 朝鲜无人机在韩国领空飞行7小时，韩方反制
   author: RFI
   tags: [report,朝鲜,韩国,无人机]
   date: 2022-12-26
@@ -40,7 +40,7 @@ data:
   - text: 韩国空军一架“KA-1”轻型攻击机当天在起飞过程中坠落，2名飞行员成功逃生。据悉，该军机正是在执行针对朝鲜无人机的作战支援任务时发生了事故。
   - text: 如此一来，韩朝双方均侵入了2018年《九一九军事协议》设定的空中缓冲区。
 #
-- title: 新闻报道
+- text: 新闻报道
   author: RFI
   tags: [report,朝鲜,韩国,无人机]
   date: 2023-01-05
@@ -48,7 +48,7 @@ data:
   details:
   - text: 韩国的参谋长联席会议先前否认了朝鲜的无人机飞入韩国总统尹锡悦官邸所在的禁飞区，星期四则证实无人机进入了总统府所在禁飞区的北端。
 #
-- title: 新闻评论
+- text: 新闻评论
   author: RFI
   tags: [opinion,朝鲜,韩国,无人机]
   date: 2022-12-26
@@ -59,31 +59,31 @@ data:
 #
 - date: 2023-04-26
   author: White House
-  title: Washington Declaration
+  text: Washington Declaration
   tags: [report,韩国,美国,美韩华盛顿宣言]
   url: "https://www.whitehouse.gov/briefing-room/statements-releases/2023/04/26/washington-declaration-2/"
 #
 - date: 2023-04-27
   author: KOREA.net
-  title: 韩美首脑共同签署《华盛顿宣言》
+  text: 韩美首脑共同签署《华盛顿宣言》
   tags: [report,韩国,美国,美韩华盛顿宣言]
   url: "https://chinese.korea.net/NewsFocus/Policies/view?articleId=231969"
 #
 - date: 2023-04-28
   author: RFI
-  title: 中国抗议韩国与美国签涉台及南海《华盛顿宣言》
+  text: 中国抗议韩国与美国签涉台及南海《华盛顿宣言》
   tags: [report,韩国,美国,美韩华盛顿宣言]
   url: "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20230428-%E4%B8%AD%E5%9B%BD%E6%8A%97%E8%AE%AE%E9%9F%A9%E5%9B%BD%E4%B8%8E%E7%BE%8E%E5%9B%BD%E7%AD%BE%E6%B6%89%E5%8F%B0%E5%8F%8A%E5%8D%97%E6%B5%B7-%E5%8D%8E%E7%9B%9B%E9%A1%BF%E5%AE%A3%E8%A8%80"
 #
 - date: 2023-04-29
   author: 新华网
-  title: 朝鲜严厉批评美韩《华盛顿宣言》
+  text: 朝鲜严厉批评美韩《华盛顿宣言》
   tags: [report,韩国,美国,美韩华盛顿宣言]
   url: "http://www.news.cn/world/2023-04/29/c_1129580176.htm"
 #
 - date: 2023-05-01
   author: 环球网
-  title: 果然，韩防长吹捧《华盛顿宣言》：可被视为第二个《韩美相互防卫条约》
+  text: 果然，韩防长吹捧《华盛顿宣言》：可被视为第二个《韩美相互防卫条约》
   tags: [report,韩国,美国,美韩华盛顿宣言]
   url: "https://world.huanqiu.com/article/4CiSXa6eBi8"
   comments:
@@ -92,12 +92,12 @@ data:
 - date: 2023-04-30
   author: BBC
   tags: [opinion,韩国,美国,美韩华盛顿宣言]
-  title: 尹锡悦访美：华盛顿宣言背后的美国盟友体系和“核对峙”
+  text: 尹锡悦访美：华盛顿宣言背后的美国盟友体系和“核对峙”
   url: "https://www.bbc.com/zhongwen/simp/world-65441470"
   details:
   - text: 文中提到了“美国同意定期向韩国部署美国核潜艇，并让韩国参与其核规划。作为回报，韩国同意不发展核武器计划。拜登表示，这份名为《华盛顿宣言》（Washington Declaration）的协议……”但是宣言中没有定期部署的说法，只有“upcoming visit of a U.S. nuclear ballistic missile submarine to the ROK”#
 #
-- title: 韩联社星期二（12月9日）报道，中俄共11架飞机一度进入韩国防空识别区。
+- text: 韩联社星期二（12月9日）报道，中俄共11架飞机一度进入韩国防空识别区。
   author: 联合早报
   date: 2025-12-09
   tags: [中国,俄罗斯,韩国,空军,日常摩擦]

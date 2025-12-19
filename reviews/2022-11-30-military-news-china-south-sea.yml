@@ -1,7 +1,7 @@
 title: 明日浪潮·南海
 tags: [地缘,政治,军事]
 data:
-- title: 国际舆论
+- text: 国际舆论
   author: DW
   tags: [中国,美国]
   date: 2022-12-31
@@ -11,7 +11,7 @@ data:
   - text: 重要利益相关方对于亚洲安全问题的看法越来越具敌对性。对于美国、澳大利亚或印度等有影响力的国家来说，地区安全意味着遏制中国或确保自己的霸权地位。
   - text: 尚在形成之中的新安全架构网络是否足以使该地区稳定目前仍不明朗
 #
-- title: 2022年12月中美军机在南海上空近距离对峙
+- text: 2022年12月中美军机在南海上空近距离对峙
   author: rfa
   date: 2022-12-30
   tags: [opinion,中国,美国,2022年12月中美军机在南海上空近距离对峙,日常摩擦]
@@ -20,13 +20,13 @@ data:
   - text: 涉及一架中国海军歼-11战斗机和一架美国空军RC-135侦察机
   - text: 一位美国军方发言人表示，当时中国战机逼近美机，两机机翼相距不到10英尺（3米），机鼻相距也仅有20英尺（6米）
 #
-- title: 解放军飞行员带有"强烈敌意"的做法与美国今年十一月发布《中国军力报告》（China Military Power Report）内研判解放军将在台海、南海有越来越多违背专业的作为一致。
+- text: 解放军飞行员带有"强烈敌意"的做法与美国今年十一月发布《中国军力报告》（China Military Power Report）内研判解放军将在台海、南海有越来越多违背专业的作为一致。
   author: rfa
   tags: [opinion,中国,美国,2022年12月中美军机在南海上空近距离对峙]
   date: 2022-12-30
   url: https://www.rfa.org/mandarin/yataibaodao/junshiwaijiao/hcm-12302022033437.html
 #
-- title: 菲律宾总统小马科斯访华
+- text: 菲律宾总统小马科斯访华
   author: RFI
   tags: [菲律宾,菲律宾总统小马科斯访华]
   url: https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20230103-%E8%8F%B2%E5%BE%8B%E5%AE%BE%E6%80%BB%E7%BB%9F%E5%B0%8F%E9%A9%AC%E7%A7%91%E6%96%AF%E5%90%AF%E7%A8%8B%E5%8E%BB%E5%8C%97%E4%BA%AC-%E5%B0%86%E4%B8%8E%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%B0%88%E5%8D%97%E6%B5%B7%E4%B8%BB%E6%9D%83%E4%BA%89%E8%AE%AE
@@ -36,7 +36,7 @@ data:
   - text: 菲律宾总统马科斯坚持认为他不会让中国践踏菲律宾的海洋权利，这与他的前任罗德里戈-杜特尔特不同，杜特尔特不愿批评北京。
   - text: 中国外交部发言人毛宁称这些报道"完全没有根据"。她补充说，”不对南海岛礁采取行动是中国和东盟国家通过各自的行动和声明达成的庄严共识"。她还说，"中菲关系的发展势头良好，双方将继续通过友好协商以适当方式处理海洋问题。
 #
-- title: 菲律宾总统小马科斯访华
+- text: 菲律宾总统小马科斯访华
   author: VOA
   tags: [菲律宾,菲律宾总统小马科斯访华]
   date: 2023-01-05
@@ -51,7 +51,7 @@ data:
   - text: 联合声明还称“双方愿积极考虑建立火箭发射信息通报机制，在火箭残骸回收返还方面开展合作。”去年11月，菲律宾海军在其驻守的南中国海帕加萨岛附近海面发现并派船只拖走看来是中国火箭残骸的漂浮物，结果遭到中国海警人员强行割断拖绳，并将残骸抢走。
   - text: 根据美菲共同防御条约，如果菲律宾武装部队、船只和飞机在南中国海有争议地区受到攻击，美国将保卫菲律宾
 #
-- title: "Exclusive: US deploys Typhon missile launchers to new location in Philippines"
+- text: "Exclusive: US deploys Typhon missile launchers to new location in Philippines"
   author: Reuters
   date: 2025-01-23
   tags: [美国,菲律宾,提丰]
@@ -64,7 +64,7 @@ data:
     text: 美国新陆基飞弹系统部署菲律宾：“堤丰”系统首现“第一岛链”意味着什么
     url: https://www.bbc.com/zhongwen/simp/world-68853532
 #
-- title: 2025年中国海警与中国海军舰艇相撞事故
+- text: 2025年中国海警与中国海军舰艇相撞事故
   date: 2025-08-11
   tags: [菲律宾,中国,南海撞船,日常摩擦]
   author: 维基百科

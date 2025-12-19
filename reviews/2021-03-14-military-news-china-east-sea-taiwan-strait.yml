@@ -2,14 +2,14 @@ title: 明日浪潮·东海
 tags: [地缘,政治,军事,文化]
 excerpt: "我们一定要解放台湾——毛泽东"
 data:
-- title: 日本2022年防卫白皮书中文版
+- text: 日本2022年防卫白皮书中文版
   author: 日本防卫省
   tags: [report,日本,防卫白皮书]
   visuals:
   - alt: 中文PDF文档
     url: https://www.mod.go.jp/en/publ/w_paper/wp2022/DOJ2022_Digest_CH.pdf
 #
-- title: 新闻报道
+- text: 新闻报道
   author: RFI
   tags: [report,日本,防卫白皮书]
   date: 2022-12-18
@@ -20,11 +20,11 @@ data:
   - text: 据共同社，日本政府在2015年制定了允许行使集体自卫权的安全保障相关法。但日本能够拥有的防卫力范围依旧模糊不清，而且还在继续一点点地扩大。
 #
 - author: Twitter@Inty
-  title: 中国军用无人机飞过冲绳本岛和宫古岛之间空域
+  text: 中国军用无人机飞过冲绳本岛和宫古岛之间空域
   tags: [report,中国,无人武器,冲绳,日常摩擦]
   url: "https://twitter.com/__Inty__/status/1609751543129210880"
 #
-- title: 中国军用无人机飞过冲绳本岛和宫古岛之间空域
+- text: 中国军用无人机飞过冲绳本岛和宫古岛之间空域
   author: NHK
   tags: [deleted,中国,无人武器,冲绳,日常摩擦]
   date: 2023-01-01
@@ -39,34 +39,34 @@ data:
 - date: 2021-03-14
   tags: [民间推演,中国]
   author: YouTube@说真话的徐某人
-  title: 【视频合集】怎样打台湾
+  text: 【视频合集】怎样打台湾
   url: "https://www.youtube.com/playlist?list=PL6aTnkbuMFlU0OXriBH36NhYOb216-PMk"
 #
 - date: 2022-01-12
   tags: [民间推演,中国]
   author: YouTube@CRAZY262
-  title: 【大国角斗】攻岛战略 海陆空全方位对抗！料敌从宽的兵棋推演
+  text: 【大国角斗】攻岛战略 海陆空全方位对抗！料敌从宽的兵棋推演
   url: "https://www.youtube.com/watch?v=e3yLDhCIRu0"
 #
 - date: 2024-01-05
   tags: [民间推演,中国]
   author: BiliBili@左手君-千伏工作室
-  title: 目标台湾高雄！抢滩登陆！明日浪潮-东海01
+  text: 目标台湾高雄！抢滩登陆！明日浪潮-东海01
   url: "https://www.bilibili.com/video/BV1st4y1Z7Ah"
 #
 - date: 2025-08-02
   tags: [民间推演,台湾]
   author: 电视剧
-  title: 零日攻击
+  text: 零日攻击
   url: "https://zh.wikipedia.org/wiki/%E9%9B%B6%E6%97%A5%E6%94%BB%E6%93%8A_(%E9%9B%BB%E8%A6%96%E5%8A%87)"
 #
 - date: 2025-09-12
   tags: [民间推演,中国]
   author: BiliBili@电子伏龙芝
-  title: 手把手教你制定一份登陆台湾的作战计划
+  text: 手把手教你制定一份登陆台湾的作战计划
   url: "https://www.bilibili.com/video/BV1MJHrzTEGH"
 #
-- title: 台湾总统蔡英文到澎湖慰问军队
+- text: 台湾总统蔡英文到澎湖慰问军队
   author: VOA
   date: 2022-12-30
   tags: [台湾,战争准备]
@@ -74,7 +74,7 @@ data:
   details:
   - text: 蔡英文：“台湾位于民主防线的最前线，唯有备战才能够避战，能战才能止战”
 #
-- title: 中华民国义务役役期将从2024年起，从现有的四个月延长至一年
+- text: 中华民国义务役役期将从2024年起，从现有的四个月延长至一年
   author: 联合早报@韩咏红
   tags: [台湾,战争准备]
   date: 2022-12-30
@@ -84,15 +84,15 @@ data:
   - text: 维护台海和平，需要大陆与台湾改善关系，也需要台湾意识到“保台”不能单边依靠美国。但愿大家不要在开战前一天才醒来
 #
 - author: RFI
-  title: 2022年圣诞节中国军机在台海周边的活动
+  text: 2022年圣诞节中国军机在台海周边的活动
   tags: [中国,台湾,日常摩擦]
   url: https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20221226-%E5%8F%B0%E6%B9%BE-71%E6%9E%B6%E4%B8%AD%E5%9B%BD%E5%86%9B%E6%9C%BA%E5%9C%A8%E5%8F%B0%E6%B5%B7%E5%91%A8%E8%BE%B9%E6%B4%BB%E5%8A%A8-47%E6%9E%B6%E6%AC%A1%E9%80%BE%E8%B6%8A%E6%B5%B7%E5%B3%BD%E4%B8%AD%E7%BA%BF
 #
 - author: Twitter@BBC News 中文
-  title: 2022年圣诞节中国军机在台海周边的活动
+  text: 2022年圣诞节中国军机在台海周边的活动
   url: https://twitter.com/bbcchinese/status/1607262532103798784
 #
-- title: 2022年圣诞节中国军机在台海周边的活动
+- text: 2022年圣诞节中国军机在台海周边的活动
   date: 2022-12-26
   tags: [中国,台湾,日常摩擦]
   details:
@@ -101,13 +101,13 @@ data:
 - date: 2025-09-29
   tags: [中国,战争准备]
   author: RFI 法广
-  title: 美情報報告：中國正迅速擴充商業渡輪船隊 為侵台做準備
+  text: 美情報報告：中國正迅速擴充商業渡輪船隊 為侵台做準備
   url: "https://www.rfi.fr/tw/%E5%9C%8B%E9%9A%9B/20250929-%E7%BE%8E%E6%83%85%E5%A0%B1%E5%A0%B1%E5%91%8A-%E4%B8%AD%E5%9C%8B%E6%AD%A3%E8%BF%85%E9%80%9F%E6%93%B4%E5%85%85%E5%95%86%E6%A5%AD%E6%B8%A1%E8%BC%AA%E8%88%B9%E9%9A%8A-%E7%82%BA%E4%BE%B5%E5%8F%B0%E5%81%9A%E6%BA%96%E5%82%99"
 #
 - date: 2025-10-01
   tags: [中国,战争准备]
   author: 產經新聞
-  title: ＜独自＞中国軍が台湾総統府模した施設隣に「模擬司法院」と地下道「斬首作戦」訓練か
+  text: ＜独自＞中国軍が台湾総統府模した施設隣に「模擬司法院」と地下道「斬首作戦」訓練か
   url: "https://www.sankei.com/article/20251001-J6TMERNIBRMKRGH5562GRAO7BM/"
   details:
   - date: 2025-10-01
@@ -117,7 +117,7 @@ data:
 - date: 2025-11-07
   tags: [中国,战争准备]
   author: CNN
-  title: "‘A new arms race’: Satellite images, maps and records reveal huge surge in China’s missile production sites"
+  text: "‘A new arms race’: Satellite images, maps and records reveal huge surge in China’s missile production sites"
   url: "https://www.cnn.com/2025/11/07/world/china-missile-production-expansion-revealed-satellite-images-intl-invs"
   details:
   - author: X@极光
@@ -127,37 +127,36 @@ data:
 - date: 2025-10-29
   tags: [台湾,战争准备]
   author: Routers
-  title: Citing Biblical story, Taiwan president says Israel is a model for island's defence
+  text: Citing Biblical story, Taiwan president says Israel is a model for island's defence
   url: "https://www.reuters.com/business/aerospace-defense/citing-biblical-story-taiwan-president-says-israel-is-model-islands-defence-2025-10-28/"
 #
 - date: 2025-10-13
   tags: [美国,战争准备]
   author: RAND 兰德公司
-  title: Stabilizing the U.S.-China Rivalry
+  text: Stabilizing the U.S.-China Rivalry
   url: "https://www.rand.org/pubs/research_reports/RRA4107-1.html"
   details:
   - text: 已撤回，等待进一步审阅。This document has been withdrawn for further review.
 #
 - tags: [台湾有事就是日本有事]
   author: 维基百科
-  title: 台湾有事就是日本有事
+  text: 台湾有事就是日本有事
   url: "https://zh.wikipedia.org/zh-hans/%E5%8F%B0%E6%B9%BE%E6%9C%89%E4%BA%8B%E5%B0%B1%E6%98%AF%E6%97%A5%E6%9C%AC%E6%9C%89%E4%BA%8B"
 #
 - date: 2021-12-02
   tags: [台湾有事就是日本有事]
   author: DW 德国之声
-  title: 安倍稱「台灣有事就是日本有事」 北京約見大使表抗議
+  text: 安倍稱「台灣有事就是日本有事」 北京約見大使表抗議
   url: "https://www.dw.com/zh-hant/%E5%AE%89%E5%80%8D%E7%A8%B1%E5%8F%B0%E7%81%A3%E6%9C%89%E4%BA%8B%E5%B0%B1%E6%98%AF%E6%97%A5%E6%9C%AC%E6%9C%89%E4%BA%8B-%E5%8C%97%E4%BA%AC%E7%B4%84%E8%A6%8B%E5%A4%A7%E4%BD%BF%E8%A1%A8%E6%8A%97%E8%AD%B0/a-59995111"
 #
 - date: 2025-11-14
   tags: [台湾有事就是日本有事]
   author: BBC
-  title: “台湾有事，就是日本有事”？高市早苗发言引发中日外交风波，北京将如何反制
+  text: “台湾有事，就是日本有事”？高市早苗发言引发中日外交风波，北京将如何反制
   url: "https://www.bbc.com/zhongwen/articles/cp85eg85zzgo/simp"
   details:
   - date: 2025-11-17
     author: 文昭
-    title: 高市早苗最具威力的「殺手鐧」是這個，中日終究有一戰？
     text: 日本可能修改“无核三原则”，允许美军在日本部署核武器。
     url: "https://www.youtube.com/watch?v=A1NqhF69h2g"
   - date: 2025-11-19
@@ -168,7 +167,7 @@ data:
 - date: 2025-11-23
   tags: [台湾有事就是日本有事,日本,战争准备]
   author: DW
-  title: 日本防长推进与那国岛飞弹部署　中国回应：危险动向
+  text: 日本防长推进与那国岛飞弹部署　中国回应：危险动向
   url: "https://www.dw.com/zh/%E6%97%A5%E6%9C%AC%E9%98%B2%E9%95%BF%E6%8E%A8%E8%BF%9B%E4%B8%8E%E9%82%A3%E5%9B%BD%E5%B2%9B%E9%A3%9E%E5%BC%B9%E9%83%A8%E7%BD%B2%E4%B8%AD%E5%9B%BD%E5%9B%9E%E5%BA%94%E5%8D%B1%E9%99%A9%E5%8A%A8%E5%90%91/a-74860059"
   details: 
   - text: 日本防卫大臣小泉进次郎23日造访日本南部的与那国岛，透露日本计画在当地部署飞弹部队的计画并未改变。中国外交部则批评日方此举是“挑动军事对立”。 
@@ -176,12 +175,12 @@ data:
 - date: 2025-11-26
   tags: [台湾,战争准备]
   author: RFI
-  title: 赖清德总统提台湾史上最高国防预算案表防御决心 国民党批将债留子孙
+  text: 赖清德总统提台湾史上最高国防预算案表防御决心 国民党批将债留子孙
   url: "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251127-%E8%B5%96%E6%B8%85%E5%BE%B7%E6%80%BB%E7%BB%9F%E6%8F%90%E5%8F%B0%E6%B9%BE%E5%8F%B2%E4%B8%8A%E6%9C%80%E9%AB%98%E5%9B%BD%E9%98%B2%E9%A2%84%E7%AE%97%E6%A1%88%E8%A1%A8%E9%98%B2%E5%BE%A1%E5%86%B3%E5%BF%83-%E5%9B%BD%E6%B0%91%E5%85%9A%E6%89%B9%E5%B0%86%E5%80%BA%E7%95%99%E5%AD%90%E5%AD%99"
 #
 - date: 2025-08-18
   author: 新华网
-  title: 外交部：所谓“旧金山和约”非法无效，台湾属于中国的历史和法理事实不容置疑
+  text: 外交部：所谓“旧金山和约”非法无效，台湾属于中国的历史和法理事实不容置疑
   url: http://www.news.cn/20250818/5e8ce4bfc1ce477a88d56c8447062518/c.html
   backup: https://web.archive.org/web/20250818132100/http://www.news.cn/20250818/5e8ce4bfc1ce477a88d56c8447062518/c.html
   tags: [中国,日本,旧金山和约,一个中国,台湾有事就是日本有事]
@@ -194,7 +193,7 @@ data:
     author: Twitter@川和喵酱薯条
     url: https://x.com/mengtunwudaimu/status/1996784242307793163
 #
-- title: 各地的日本音乐演出都因「不可抗力」被终止。
+- text: 各地的日本音乐演出都因「不可抗力」被终止。
   author: Twitter@李老师不是你老师
   date: 2025-11-28
   tags: [台湾有事就是日本有事,日本艺人在华演出被取消]
@@ -204,7 +203,7 @@ data:
   - url: https://x.com/whyyoutouzhele/status/1994355225377812605/photo/3
   - url: https://x.com/whyyoutouzhele/status/1994355225377812605/photo/4
 #
-- title: 上海BN嘉年华，歌手大槻真希在演出最后一首海贼王ED《memories》时，突然音乐停止，演出中止，匆匆退场。
+- text: 上海BN嘉年华，歌手大槻真希在演出最后一首海贼王ED《memories》时，突然音乐停止，演出中止，匆匆退场。
   author: Twitter@李老师不是你老师
   date: 2025-11-28
   tags: [台湾有事就是日本有事,日本艺人在华演出被取消]
@@ -213,7 +212,7 @@ data:
     author: Twitter@李老师不是你老师
     url: https://x.com/whyyoutouzhele/status/1995738450348442104
 # 
-- title: 原定于明日（11 月 29 日）举行的滨崎步上海演唱会，在毫无提前通知的情况下突然被“极限”取消。演唱会取消后，滨崎步在空无一人的场馆内表演 。
+- text: 原定于明日（11 月 29 日）举行的滨崎步上海演唱会，在毫无提前通知的情况下突然被“极限”取消。演唱会取消后，滨崎步在空无一人的场馆内表演 。
   author: Twitter@李老师不是你老师
   date: 2025-11-28
   tags: [台湾有事就是日本有事,日本艺人在华演出被取消,滨崎步空场演出]
@@ -225,7 +224,7 @@ data:
     date: 2025-11-30
     url: https://x.com/whyyoutouzhele/status/1995175802124566596
 #
-- title: 笑死，这也要辟谣？
+- text: 笑死，这也要辟谣？
   author: Reddit@China_irl@lusunshine
   date: 2025-12-01
   tags: [台湾有事就是日本有事,日本艺人在华演出被取消,滨崎步空场演出]
@@ -235,13 +234,13 @@ data:
     date: 2025-12-05
     author: Reddit@China_irl@dontcallmetuggi
 #
-- title: 老爷们其实这几天内心只有一个想法：“步姐，求你了，你就说一句软话，支持一下中国，然后你唱啥都行。”结果滨崎步一言不发。12月9日，滨崎步澳门演唱会被取消，毫不意外。
+- text: 老爷们其实这几天内心只有一个想法：“步姐，求你了，你就说一句软话，支持一下中国，然后你唱啥都行。”结果滨崎步一言不发。12月9日，滨崎步澳门演唱会被取消，毫不意外。
   author: Twitter@落日海盗
   date: 2025-12-09
   tags: [台湾有事就是日本有事,日本艺人在华演出被取消,滨崎步空场演出]
   url: https://x.com/bright_hawkins/status/1998378670323585266
 #
-- title: 观察者网评论“滨崎步上海演唱会”事件时表示，滨崎步已经“糊了”，没有职业素养，不明白粉丝在追什么。
+- text: 观察者网评论“滨崎步上海演唱会”事件时表示，滨崎步已经“糊了”，没有职业素养，不明白粉丝在追什么。
   author: Twitter@李老师不是你老师
   date: 2025-12-13
   tags: [台湾有事就是日本有事,日本艺人在华演出被取消,滨崎步空场演出]
@@ -249,31 +248,31 @@ data:
   - alt: 6到起飞的滨崎步｜日本赢学｜日本片假名标注英文rehearsal cr观察者网
     url: https://www.bilibili.com/video/BV1MmSYBPEHV
 #
-- title: 路透：近百艘中国军舰在东部海域大规模集结
+- text: 路透：近百艘中国军舰在东部海域大规模集结
   author: DW-德声
   date: 2025-12-04
   tags: [中国,海军,军事演习]
   url: https://www.dw.com/zh/%E8%B7%AF%E9%80%8F%E8%BF%91%E7%99%BE%E8%89%98%E4%B8%AD%E5%9B%BD%E5%86%9B%E8%88%B0%E5%9C%A8%E4%B8%9C%E9%83%A8%E6%B5%B7%E5%9F%9F%E5%A4%A7%E8%A7%84%E6%A8%A1%E9%9B%86%E7%BB%93/a-75012056
 #
-- title: 特朗普签署《台湾保证落实法案》 赖清德：凸显了美国与台湾接触的重要性
+- text: 特朗普签署《台湾保证落实法案》 赖清德：凸显了美国与台湾接触的重要性
   author: VOA-美国之音
   date: 2025-12-04
   tags: [美国,台湾,战略]
   url: https://www.voachinese.com/a/trump-signs-taiwan-assurance-implementation-act-into-law-lai-ching-te-underlining-the-importance-of-us-taiwan-engagement-20251203/8089200.html
 #
-- title: 中国军机向我国自卫队飞机照射雷达
+- text: 中国军机向我国自卫队飞机照射雷达
   author: Twitter@日本国驻华大使馆
   date: 2025-12-07
   tags: [中国,日本,日常摩擦,台湾有事就是日本有事,中国舰载机雷达锁定日本F15]
   url: https://www.cn.emb-japan.go.jp/itpr_zh/11_000001_00441.html
 # 
-- title: 针对日本称中国军机在冲绳岛东南方向的国际水域上空，用雷达间歇照射日本自卫队战斗机，中国国防部星期天回应，纯属是贼喊捉贼、倒打一耙，并指对日本寻衅滋事、误导舆论表示强烈不满、坚决反对。
+- text: 针对日本称中国军机在冲绳岛东南方向的国际水域上空，用雷达间歇照射日本自卫队战斗机，中国国防部星期天回应，纯属是贼喊捉贼、倒打一耙，并指对日本寻衅滋事、误导舆论表示强烈不满、坚决反对。
   author: 联合早报
   date: 2025-12-07
   tags: [中国,日本,日常摩擦,台湾有事就是日本有事,中国舰载机雷达锁定日本F15]
   url: https://www.zaobao.com.sg/realtime/china/story20251207-7929106?utm_medium=Social&utm_source=Twitter#Echobox=1765107111
 #
-- title: Japan frustrated at Trump administration’s silence over row with China
+- text: Japan frustrated at Trump administration’s silence over row with China
   author: Financial Times
   date: 2025-12-07
   tags: [中国,日本,美国,台湾有事就是日本有事]
@@ -281,19 +280,19 @@ data:
   - text: 一位日本官员表示，东京方面并不认为美国对日本的承诺有所动摇，但他补充说，对华盛顿高层官员缺乏公开支持深感失望
     url: https://x.com/myfxtrader/status/1997673616394076420
 #
-- title: 赖清德：臺灣很樂意幫助中國、共同合作，來解決他們所面臨的各項經濟上面的問題。
+- text: 赖清德：臺灣很樂意幫助中國、共同合作，來解決他們所面臨的各項經濟上面的問題。
   author: Twitter@王綫 Shian
   date: 2025-12-03
   tags: [台湾,中国,口水战]
   url: https://x.com/ramenist_front/status/1996445308906016826
 #
-- title: 武统台湾的关键在于解放军能否在打响24小时之内完全控制一处机场和一处海港。按照关键设施战略位置来看，首选高雄。不论是以渗透，空降，还是岛内第五纵队配合，这一战术目标能否达成将成为整场战役的关键
+- text: 武统台湾的关键在于解放军能否在打响24小时之内完全控制一处机场和一处海港。按照关键设施战略位置来看，首选高雄。不论是以渗透，空降，还是岛内第五纵队配合，这一战术目标能否达成将成为整场战役的关键
   author: Twitter@Dr.Bo
   tags: [民间推演,中国]
   date: 2025-12-07
   url: https://x.com/BoDiplo/status/1997815433622442123
 #
-- title: 在本月6日的火控雷达锁定事件发生时，日本方面曾试图通过两国间紧急热线进行联络以避免发生误会，但中方没有接听。
+- text: 在本月6日的火控雷达锁定事件发生时，日本方面曾试图通过两国间紧急热线进行联络以避免发生误会，但中方没有接听。
   author: Twitter@日本経済新聞
   date: 2025-12-09
   tags: [中国,日本,日常摩擦,台湾有事就是日本有事,中国舰载机雷达锁定日本F15]
@@ -303,13 +302,13 @@ data:
     author: Twitter@约拿坦
     url: https://x.com/jiongnasen/status/1998317024208969784
 # 
-- title: 美国会公布2026《国防授权法案》：限制中国，支持台湾
+- text: 美国会公布2026《国防授权法案》：限制中国，支持台湾
   author: VOA-美国之音
   tags: [美国,战争准备]
   url: https://www.voachinese.com/a/ndaa-2026-toughens-u-s-policy-on-china-and-boosts-key-efforts-backing-taiwan-20251208/8091457.html
   date: 2025-12-13
 #
-- title: 中国若武力攻台，战事将如何展开？
+- text: 中国若武力攻台，战事将如何展开？
   date: 2025-12-10
   author: 华尔街日报中文网
   tags: [民间推演,美国]
@@ -321,13 +320,13 @@ data:
     date: 2025-12-06
     url: https://www.wsj.com/world/china/how-china-chinese-invasion-taiwan-ba7e3916
 #
-- title: 日本周一（12月8日）对中国关于两国军机周末事件的描述提出异议，称日本自卫队并未如中国所言妨碍中国海军的飞行训练，并向中方提出强烈抗议，严正要求不再发生类似事件。周日，日本和澳大利亚防长在东京会谈后就印太问题展现共同立场，两国重申了对东海与南海局势的“严重关切”，并再次强调坚决反对任何试图以武力或胁迫改变现状的行为。
+- text: 日本周一（12月8日）对中国关于两国军机周末事件的描述提出异议，称日本自卫队并未如中国所言妨碍中国海军的飞行训练，并向中方提出强烈抗议，严正要求不再发生类似事件。周日，日本和澳大利亚防长在东京会谈后就印太问题展现共同立场，两国重申了对东海与南海局势的“严重关切”，并再次强调坚决反对任何试图以武力或胁迫改变现状的行为。
   author: RFI-法广
   date: 2025-12-08
   tags: [中国,日本,日常摩擦,台湾有事就是日本有事,中国舰载机雷达锁定日本F15]
   url: https://x.com/RFI_Cn/status/1997986565272768533
 #
-- title: China would destroy US military in fight over Taiwan, top secret document warns
+- text: China would destroy US military in fight over Taiwan, top secret document warns
   author: Telegraph
   date: 2025-12-10
   tags: [民间推演,美国]
@@ -351,7 +350,7 @@ data:
     date: 2025-12-11
     url: https://x.com/essen_ai/status/1999092247053177212
 #
-- title: 中国海軍艦艇の動向について
+- text: 中国海軍艦艇の動向について
   author: 日本统合幕僚监部
   date: 2025-12-07
   tags: [中国,日本,日常摩擦,台湾有事就是日本有事,中国舰载机雷达锁定日本F15]
@@ -360,7 +359,7 @@ data:
   - text: 12月6日，中国解放军航母“辽宁”号、一艘导弹驱逐舰（以及两艘导弹驱逐舰，在冲绳与鹿儿岛周围海域航行。期间，“辽宁”号航空母舰起飞的歼-15战斗机，使用雷达间歇性照射正在紧急升空的日本航空自卫队F-15战斗机。
     author: Twitter@李老师不是你老师
 #
-- title: 中央广播电视总台旗下新媒体账号“玉渊谭天”公布了现场录音称，中方曾多次向附近海域的日本舰艇通报相关情况，且日舰已明确回复“收到”。
+- text: 中央广播电视总台旗下新媒体账号“玉渊谭天”公布了现场录音称，中方曾多次向附近海域的日本舰艇通报相关情况，且日舰已明确回复“收到”。
   author: Twitter@李老师不是你老师
   date: 2025-12-09
   url: https://x.com/whyyoutouzhele/status/1998671527290773945
@@ -370,7 +369,7 @@ data:
     author: 网易
     url: https://www.163.com/dy/article/KGF1GNEJ05567FSQ.html
 #
-- title: 日本防卫相小泉进次郎在东京市谷的防卫省召开记者会，承认中方此前确实通报了将在相关海域实施训练，然后称通报内容未包含训练规模和具体位置，日方“未能获得足够资讯”。
+- text: 日本防卫相小泉进次郎在东京市谷的防卫省召开记者会，承认中方此前确实通报了将在相关海域实施训练，然后称通报内容未包含训练规模和具体位置，日方“未能获得足够资讯”。
   author: Twitter@李老师不是你老师
   date: 2025-12-10
   url: https://x.com/whyyoutouzhele/status/1998747025287033207
@@ -384,13 +383,13 @@ data:
     author: Twitter@のらいぬ
     url: https://x.com/JapanBanZaiLove/status/1998625662727500044
 # 
-- title: 中俄战机首次配合中国航母在日本周边举行联合军事活动
+- text: 中俄战机首次配合中国航母在日本周边举行联合军事活动
   author: RFI-法广
   date: 2025-12-10
   tags: [中国,日本,日常摩擦,台湾有事就是日本有事]
   url: https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251210-%E4%B8%AD%E4%BF%84%E6%88%98%E6%9C%BA%E9%A6%96%E6%AC%A1%E9%85%8D%E5%90%88%E4%B8%AD%E5%9B%BD%E8%88%AA%E6%AF%8D%E5%9C%A8%E6%97%A5%E6%9C%AC%E5%91%A8%E8%BE%B9%E4%B8%BE%E8%A1%8C%E8%81%94%E5%90%88%E5%86%9B%E4%BA%8B%E6%B4%BB%E5%8A%A8
 #
-- title: U.S. Strategic Bombers, Japanese Anti-Ship Fighters Take Flight Amid Japan-China Tensions
+- text: U.S. Strategic Bombers, Japanese Anti-Ship Fighters Take Flight Amid Japan-China Tensions
   author: USNI news
   date: 2025-12-11
   tags: [中国,日本,美国,日常摩擦]
@@ -399,7 +398,7 @@ data:
     author: Twitter@李老师不是你老师
     url: https://x.com/whyyoutouzhele/status/1999207565721502193
 #
-- title: 台北市议员苗博雅称，乌克兰没有被占领的地区，孩子们都还在上学，该上班的还是在上班，这就是新型战争型态“金门如果发生战争，台湾还是可以继续上班、上学”，言论引发争议。
+- text: 台北市议员苗博雅称，乌克兰没有被占领的地区，孩子们都还在上学，该上班的还是在上班，这就是新型战争型态“金门如果发生战争，台湾还是可以继续上班、上学”，言论引发争议。
   author: 联合早报
   date: 2025-12-10
   tags: [民间舆论,台湾]

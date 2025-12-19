@@ -2,18 +2,18 @@ title: 中国学术界出圈儿新闻
 tags: [科技,经济,政治]
 excerpt: "非学术界人士也能接触到的中国学术界新闻和丑闻"
 data:
-- title: 如何看待网传高中学历的郭某伪造履历成为江苏科技大学的首席科学家与博士生导师？
+- text: 如何看待网传高中学历的郭某伪造履历成为江苏科技大学的首席科学家与博士生导师？
   date: 2025-11-17
   author: 知乎
   tags: [江苏科技大学,高中生做博导]
   url: https://www.zhihu.com/question/1974038625223200905/answer/1974106542950351731
 - date: 2025-11-20
-  title: 聘高中生当博导后续：92年高校漏洞实锤，原因被扒，津贴能否追回
+  text: 聘高中生当博导后续：92年高校漏洞实锤，原因被扒，津贴能否追回
   tags: [江苏科技大学,高中生做博导]
   author: 网易@八斗小先生
   url: https://www.163.com/dy/article/KEQ13VBG05568PH6.html
 #
-- title: 2025 院士候选人网络负面舆情汇总
+- text: 2025 院士候选人网络负面舆情汇总
   date: 2025-09-06
   author: Reddit@China_irl@Complete-Pirate9488
   tags: [院士,2025年院士评选]
@@ -23,30 +23,30 @@ data:
     author: Twitter@李老师不是你老师
     url: https://docs.google.com/spreadsheets/d/1sMk3Rd0fnjAArrjF7b4alwt3BgdplKOKMHWanXmPbSM/edit?gid=0#gid=0
 #
-- title: ​2025年两院院士增选结果揭晓  144位专家当选（附名单）
+- text: ​2025年两院院士增选结果揭晓  144位专家当选（附名单）
   tags: [院士,2025年院士评选]
   date: 2025-11-21
   author: 中国科技网
   url: https://www.stdaily.com/web/gdxw/2025-11/21/content_435302.html
-- title:  饶毅公开质疑新晋院士：远离一线是培养优秀科学家的最佳环境
+- text:  饶毅公开质疑新晋院士：远离一线是培养优秀科学家的最佳环境
   date: 2025-11-24
   author: 微信公众号@科学之星
   tags: [院士,2025年院士评选,饶毅]
   url: https://mp.weixin.qq.com/s/9wf5Al7rwQjAI6cb1GzhNw
 #
-- title: 如何评价饶毅教授「远离一线是培养优秀科学家的最佳环境」对王艳芬院士的评价？
+- text: 如何评价饶毅教授「远离一线是培养优秀科学家的最佳环境」对王艳芬院士的评价？
   author: 知乎
   date: 2025-11-24
   tags: [院士,2025年院士评选,饶毅]
   url: https://www.zhihu.com/question/1976252106336907870
 #
-- title: 中国成立大湾区大学，将聚焦物质科学、先进工程、生命科学、信息科学技术、理学、金融管理六大领域。
+- text: 中国成立大湾区大学，将聚焦物质科学、先进工程、生命科学、信息科学技术、理学、金融管理六大领域。
   author: 联合早报
   tags: [科研机构]
   url: https://www.zaobao.com.sg/realtime/china/story20251206-7925032
   date: 2025-12-06
 # 
-- title: “新冠疫苗之父”被撤销全国创新争先奖
+- text: “新冠疫苗之父”被撤销全国创新争先奖
   author: Twitter@李老师不是你老师
   tags: [新冠疫苗]
   date: 2025-12-08
@@ -54,7 +54,7 @@ data:
   details:
   - text: 中国科协发布公告：鉴于国药集团原总工程师、首席科学家杨晓明存在违纪违法行为，决定撤销其所获“全国创新争先奖”奖状，并收回奖章、证书。
 # 
-- title: 中国“国药疫苗之父”落马 学者：或涉药品贪腐和疫苗研发
+- text: 中国“国药疫苗之父”落马 学者：或涉药品贪腐和疫苗研发
   author: 联合早报
   date: 2024-04-27
   tags: [新冠疫苗]
