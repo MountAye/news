@@ -59,7 +59,7 @@ schema_str = """
             }
           }
         },
-        "required": ["title"]
+        "required": ["text"]
       }
     }
   },
