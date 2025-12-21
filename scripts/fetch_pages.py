@@ -40,4 +40,19 @@ for line in content:
     print("Title:", title)
     print("Meta:", meta)
 
+    break
 # This works as a script, but cannot run with jupyter because some sync/async issues.
+
+
+# {
+#     'viewport': 'width=device-width,initial-scale=1,maximum-scale=1,user-scalable=0,viewport-fit=cover', 
+#           None: 'A8o5T4MyEkRZqLA9WeG2XTFdV5tsX2Prg85xyQ+RL1btVuybB1K/EQ+7JUsPK+J32oBMTnsoF9B4A+qTlL6efgQAAABweyJvcmlnaW4iOiJodHRwczovL2FjY291bnRzLmdvb2dsZS5jb206NDQzIiwiZmVhdHVyZSI6IkZlZENtQnV0dG9uTW9kZSIsImV4cGlyeSI6MTc0NDY3NTIwMCwiaXNUaGlyZFBhcnR5Ijp0cnVlfQ==', 
+#    'fb:app_id': '2231777543', 
+# 'og:site_name': 'X (formerly Twitter)', 
+# 'google-site-verification': 'reUF-TgZq93ZGtzImw42sfYglI2hY0QiGRmfc4jeKbs', 
+# 'facebook-domain-verification': 'x6sdcc8b5ju3bh8nbm59eswogvg6t1', 
+# 'twitter-site-verification': 'yy2VpVVpR8TdxbcOrV6HveUHeicv+UIsbpCFXHUsEhb4pHuEmdCiah/GLi7j0uJg', 
+#  'theme-color': '#000000', 
+#     'og:image': 'https://abs.twimg.com/rweb/ssr/default/v2/og/image.png', 
+#     'og:title': '冰玉IceJade🇺🇦# #StandWithUkraine on X: "关恒要被美国送到乌干达了。\n自由女神暗淡无光。\n这就是白川粉，华川粉，民运川粉支持川普带来的恶果之一。 https://t.co/CkGyWPr0Jr" / X'
+# }
