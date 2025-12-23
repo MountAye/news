@@ -1,4 +1,4 @@
-title: 中国学术界出圈儿新闻
+title: 科技界出圈儿新闻
 tags: [科技,经济,政治]
 excerpt: "非学术界人士也能接触到的中国学术界新闻和丑闻"
 data:
@@ -59,3 +59,43 @@ data:
   date: 2024-04-27
   tags: [新冠疫苗]
   url: https://www.zaobao.com.sg/news/china/story20240427-3515644
+#
+- author: Twitter@外汇交易员
+  date: '2025-12-17T14:26:13.000Z'
+  text: 路透：中国研究人员已于今年年初完成一台可用的极紫外光刻机（EUV）原型，目前正在测试中，尚未生产出可用芯片。消息人士称，政府将生产可用芯片的目标设在2028年。
+  url: https://x.com/myfxtrader/status/2001297889717256615
+  tags: [中美新冷战,国产光刻机]
+  details:
+  - author: Reuters
+    date: '2025-12-17T14:18:21.056Z'
+    text: 'Exclusive: How China built its ‘Manhattan Project’ to rival the West in AI chips'
+    url: https://www.reuters.com/world/china/how-china-built-its-manhattan-project-rival-west-ai-chips-2025-12-17/
+- author: Twitter@前低级经理X
+  date: '2025-12-18T17:36:42.000Z'
+  text: 中国人搞出光刻机，不管好不好使，路透社这么一宣传，对海外高华是一件非常大洪水的事。 可以算是一记丧钟 因为路透社报导中中国使用的核心技术人员都是以前在ASML工作过的华裔工程师。 这帮人当年都是签过保密协议的，很多加入了他国国籍。
+  url: https://x.com/happypaidaxing/status/2001708212928614577
+  tags: [中美新冷战,国产光刻机]
+#
+- text: MIT professor Nuno Loureiro killed in shooting at his Brookline, Massachusetts home
+  author: CBS
+  date: 2025-12-17
+  url: https://www.cbsnews.com/boston/news/nuno-loureiro-brookline-shooting/
+  tags: [布朗大学枪击案]
+#
+- author: Twitter@紀春生
+  date: '2025-12-19T05:50:44.000Z'
+  text: 布朗大学枪击案枪手，同样也是杀害MIT教授的嫌犯：Claudio Manuel Neves Valente。葡萄牙籍，2017年通过“抽签绿卡”拿到美国身份。 https://t.co/c48iSZIt1P
+  url: https://x.com/ji_chunsheng/status/2001892937882550731
+  tags: [布朗大学枪击案]
+#
+- author: Twitter@包叔
+  date: '2025-12-23T02:35:27.000Z'
+  text: '长征十二甲A回收失利 #longmarch12A https://t.co/89BeVNVtRa'
+  url: https://x.com/baoshu88/status/2003293346744402402
+  tags: [太空竞赛,火箭回收]
+#
+- author: Twitter@李老师不是你老师
+  date: '2025-12-03T12:00:02.000Z'
+  text: 12月3日，据界面新闻报道，蓝箭航天的朱雀三号遥一运载火箭在东风商业航天创新试验区发射升空，按程序完成了飞行任务。此次任务同时开展了火箭一级回收验证，但过程中发生异常燃烧，未实现在回收场坪的软着陆，回收试验失败，具体原因正在进一步分析排查。 https://t.co/QlefHzG8q8
+  url: https://x.com/whyyoutouzhele/status/1996187667977900197
+  tags: [太空竞赛,火箭回收]

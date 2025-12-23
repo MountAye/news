@@ -1,5 +1,5 @@
-import asyncio
-import requests
+import json
+import yaml
 from bs4 import BeautifulSoup
 from playwright.sync_api import sync_playwright
 
@@ -13,46 +13,116 @@ def fetch_rendered_html(url):
         browser.close()
         return html
 
-with open("./scripts/cache.txt", 'r', encoding='utf-8') as file:
-    content = file.readlines()
-for line in content:
-    url = line.partition("：")[0]
-    html = fetch_rendered_html(url)
-    
-    # # Using requests and BeautifulSoup
-    # headers = { "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" }
-    # res = requests.get(url, headers=headers, timeout=10)
-    # html = res.text
+def read_x(link,soup):
+    info = { "url": link }
 
-    soup = BeautifulSoup(html, "html.parser")
+    meta = soup.title.string
+    author,_,rest = meta.partition(' on X: "')
+    content,_,_   = rest.rpartition('" / X')
 
-    # Page title
-    title = soup.title.string if soup.title else None
+    tag = soup.select_one('.r-12kyg2d time')
+    if tag:
+        info["date"] = tag.get("datetime").strip()
 
-    # Meta tags
-    meta = {
-        tag.get("property") or tag.get("name"): tag.get("content")
-        for tag in soup.find_all("meta")
-        if tag.get("content")
-    }
+    info["text"] = ' '.join(content.strip().split())
+    info["author"] = f"Twitter@{author.strip()}"
+    return info
 
-    print(line)
-    print("Title:", title)
-    print("Meta:", meta)
+def read_default(link,soup):
 
-    break
-# This works as a script, but cannot run with jupyter because some sync/async issues.
+    def get_publish_date(soup):
+        # Try Open Graph article:published_time (common for social sharing)
+        tag = soup.find('meta', attrs={'property': 'article:published_time'})
+        if tag:
+            return tag.get('content')
+        
+        # Try schema.org datePublished (often in JSON-LD, but can be in meta)
+        tag = soup.find('meta', attrs={'itemprop': 'datePublished'})
+        if tag:
+            return tag.get('content')
+        
+        # Try generic 'publishdate' or 'date' meta names
+        tag = soup.find('meta', attrs={'name': 'publishdate'})
+        if tag:
+            return tag.get('content')
+        
+        tag = soup.find('meta', attrs={'name': 'date'})
+        if tag:
+            return tag.get('content')
+
+        # Try JSON-LD structured data
+        script = soup.find('script', type='application/ld+json')
+        if script:
+            try:
+                data = json.loads(script.string)
+                # Handle both single object and array of objects
+                if isinstance(data, list):
+                    for item in data:
+                        if item.get('@type') in ['Article', 'NewsArticle', 'BlogPosting']:
+                            date = item.get('datePublished')
+                            if date:
+                                return date
+                elif isinstance(data, dict) and data.get('@type') in ['Article', 'NewsArticle', 'BlogPosting']:
+                    date = data.get('datePublished')
+                    if date:
+                        return date
+            except (json.JSONDecodeError, KeyError):
+                pass  # Ignore parsing errors
+
+        return None
+
+    info = { "url": link }
+    tag = soup.find('meta', attrs={'property': 'og:url'} )
+    if tag:
+        info['url'] = tag.get("content").strip()
+
+    info["text"] = ' '.join((soup.title.string if soup.title else "[TITLE NOT FOUND]").split())
+    tag = soup.find('meta', attrs={'property': 'og:title'} )
+    if tag:
+        info['text'] = ' '.join(tag.get("content").strip().split())
+
+    tag = soup.find('meta', attrs={'property': 'og:site_name'} )
+    if tag:
+        info['author'] = tag.get("content").strip()
+
+    date = get_publish_date(soup)
+    if date:
+        info['date'] = date.strip()
+
+    tag = soup.find("meta", attrs={"name": "og:description"})
+    if tag:
+        info["details"] = [{ "text": tag.get("content").strip() }]
+
+    return info
 
 
-# {
-#     'viewport': 'width=device-width,initial-scale=1,maximum-scale=1,user-scalable=0,viewport-fit=cover', 
-#           None: 'A8o5T4MyEkRZqLA9WeG2XTFdV5tsX2Prg85xyQ+RL1btVuybB1K/EQ+7JUsPK+J32oBMTnsoF9B4A+qTlL6efgQAAABweyJvcmlnaW4iOiJodHRwczovL2FjY291bnRzLmdvb2dsZS5jb206NDQzIiwiZmVhdHVyZSI6IkZlZENtQnV0dG9uTW9kZSIsImV4cGlyeSI6MTc0NDY3NTIwMCwiaXNUaGlyZFBhcnR5Ijp0cnVlfQ==', 
-#    'fb:app_id': '2231777543', 
-# 'og:site_name': 'X (formerly Twitter)', 
-# 'google-site-verification': 'reUF-TgZq93ZGtzImw42sfYglI2hY0QiGRmfc4jeKbs', 
-# 'facebook-domain-verification': 'x6sdcc8b5ju3bh8nbm59eswogvg6t1', 
-# 'twitter-site-verification': 'yy2VpVVpR8TdxbcOrV6HveUHeicv+UIsbpCFXHUsEhb4pHuEmdCiah/GLi7j0uJg', 
-#  'theme-color': '#000000', 
-#     'og:image': 'https://abs.twimg.com/rweb/ssr/default/v2/og/image.png', 
-#     'og:title': '冰玉IceJade🇺🇦# #StandWithUkraine on X: "关恒要被美国送到乌干达了。\n自由女神暗淡无光。\n这就是白川粉，华川粉，民运川粉支持川普带来的恶果之一。 https://t.co/CkGyWPr0Jr" / X'
-# }
+if __name__ == "__main__":
+    with open("./cache/links.txt", 'r', encoding='utf-8') as file:
+        content = file.readlines()
+
+    yaml_data = []
+    for line in content:
+        url = line.partition("：")[0].strip()
+        html = fetch_rendered_html(url)
+
+        # # Using requests and BeautifulSoup
+        # headers = { "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" }
+        # res = requests.get(url, headers=headers, timeout=10)
+        # html = res.text
+
+        soup = BeautifulSoup(html, "html.parser")
+
+        if "https://x.com" in url:
+            info = read_x(url, soup)
+        else:
+            info = read_default(url, soup)
+        
+        yaml.dump( 
+            [info], 
+            stream=open("cache/draft.yml",'a',encoding='utf-8'), 
+            indent=2, width=None,
+            encoding='utf-8', allow_unicode=True 
+        )
+        print(url.strip())
+
+# This works as a script, but cannot run in jupyter because of some sync/async issues.

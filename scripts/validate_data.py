@@ -20,7 +20,7 @@ schema_str = """
       "items": {
         "type": "object",
         "properties": {
-          "date":  { "type": "string", "minLength": 1, "format": "date" },
+          "date":  { "type": "string", "minLength": 1, "anyOf": [{"format": "date"}, {"format": "date-time"}] },
           "author":{ "type": "string", "minLength": 1 },
           "text": { "type": "string", "minLength": 1 },
           "url":   { "type": "string", "minLength": 1 },
@@ -38,7 +38,7 @@ schema_str = """
               "properties": {
                 "text":   { "type": "string", "minLength": 1 },
                 "author": { "type": "string", "minLength": 1 },
-                "date":   { "type": "string", "minLength": 1, "format": "date" },
+                "date":   { "type": "string", "minLength": 1, "anyOf": [{"format": "date"}, {"format": "date-time"}] },
                 "url":    { "type": "string", "minLength": 1 },
                 "backup": { "type": "string", "minLength": 1 }
               },
