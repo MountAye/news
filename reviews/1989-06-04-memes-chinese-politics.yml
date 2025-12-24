@@ -36,6 +36,7 @@ data:
 #
 - text: 解构电影《芳华》的庞大流量，彰显可怕的底层情绪
   author: YouTube@王海滨的财经闲谈
+  url: https://www.youtube.com/watch?v=iB4C4FMe-KY
   date: 2025-12-05
   tags: [文革,芳华影评]
 #
@@ -67,6 +68,7 @@ data:
   tags: [芳华影评,索隐派,梗指南,1644史观]
 #
 - date: 2025-12-03
+  url: https://x.com/lenscn/status/1996410881736065398
   text: 确实诡异，短短半个月，一个正国级，两个副国级走马灯式访问俄罗斯。
   author: Twitter@Lens on Asia
   tags: [中国,俄罗斯,外交,谣传]
@@ -116,6 +118,7 @@ data:
   url: https://youtube.com/watch?v=Aw2m5eGLfTA&pp=ygUJ5b635LqR56S-
   date: 2025-11-27
 - text: 《郭德纲被约谈》的文章，指北京市西城区文旅局已于上星期五（5日）正式约谈德云社，认定郭德纲、于谦在北展剧场表演的相声《艺高人胆小》存在低俗内容和不当影射国有院团行为，要求立即整改。
+  url: https://www.zaobao.com.sg/realtime/china/story20251209-7939879
   author: 联合早报
   date: 2025-12-09
   tags: [内容审查,相声,郭德纲,艺高人胆小]

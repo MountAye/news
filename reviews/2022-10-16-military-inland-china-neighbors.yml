@@ -12,9 +12,8 @@ data:
 #
 - text: YouTube印度媒体新闻
   author: YouTube@印度媒体新闻  
-  visuals:
-  - alt: YouTube印度媒体新闻
-    url: https://t.co/WvdhR2n1yw
+  url: https://t.co/WvdhR2n1yw
+  tags: [陆地边境,印度,塔旺地区/阿鲁纳恰尔邦]
 #
 - text: 新闻评论
   author: RFI

@@ -22,7 +22,6 @@ data:
   - text: 原表格链接
     author: Twitter@李老师不是你老师
     url: https://docs.google.com/spreadsheets/d/1sMk3Rd0fnjAArrjF7b4alwt3BgdplKOKMHWanXmPbSM/edit?gid=0#gid=0
-#
 - text: ​2025年两院院士增选结果揭晓  144位专家当选（附名单）
   tags: [院士,2025年院士评选]
   date: 2025-11-21
@@ -33,7 +32,6 @@ data:
   author: 微信公众号@科学之星
   tags: [院士,2025年院士评选,饶毅]
   url: https://mp.weixin.qq.com/s/9wf5Al7rwQjAI6cb1GzhNw
-#
 - text: 如何评价饶毅教授「远离一线是培养优秀科学家的最佳环境」对王艳芬院士的评价？
   author: 知乎
   date: 2025-11-24

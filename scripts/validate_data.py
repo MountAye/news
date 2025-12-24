@@ -22,7 +22,7 @@ schema_str = """
         "properties": {
           "date":  { "type": "string", "minLength": 1, "anyOf": [{"format": "date"}, {"format": "date-time"}] },
           "author":{ "type": "string", "minLength": 1 },
-          "text": { "type": "string", "minLength": 1 },
+          "text":  { "type": "string", "minLength": 1 },
           "url":   { "type": "string", "minLength": 1 },
           "backup":{ "type": "string", "minLength": 1 },
           "tags":  {
@@ -59,7 +59,7 @@ schema_str = """
             }
           }
         },
-        "required": ["text"]
+        "required": ["text","url"]
       }
     }
   },

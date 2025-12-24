@@ -24,6 +24,7 @@ data:
 #
 - text: 新闻报道，各地限制购买药品，防止冠状病毒感染者自行治疗，瞒报新冠病例
   tags: [前情提要,report]
+  url: https://x.com/haoel/status/1603693778711113729
   author: Twitter@Hao Chen
   date: 2022-12-16
   details:
@@ -44,6 +45,7 @@ data:
 #
 - text: 今日北京海淀四通桥，在二十大前夕最为严控的北京，有人挂起了两条横幅
   author: Twitter@李老师不是你老师
+  url: https://x.com/whyyoutouzhele/status/1580465317301563392
   date: 2022-10-13
   tags: [彭载舟四通桥标语事件]
   details:
@@ -60,13 +62,9 @@ data:
     url: https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20221013-%E7%BD%91%E4%BC%A0%E5%8C%97%E4%BA%AC%E5%9B%9B%E9%80%9A%E6%A1%A5%E5%87%BA%E7%8E%B0%E6%8A%97%E8%AE%AE%E6%A0%87%E8%AF%AD-%E4%B8%8D%E8%A6%81%E6%A0%B8%E9%85%B8%E8%A6%81%E5%90%83%E9%A5%AD
 #
 - tags: [河南郑州富士康]
-  author: 中国数字时代
-  text: 病毒传入厂区，大量工人突破封锁，徒步回家
-  url: https://chinadigitaltimes.net/chinese/689001.html
-#
-- text: 病毒传入厂区，大量工人突破封锁，徒步回家
-  tags: [河南郑州富士康]
   author: 凤凰网@张丰
+  text: 风声｜富士康2万人感染不实，多地疫情“升温”？如何避免过多猜测
+  url: https://chinadigitaltimes.net/chinese/689001.html
   date: 2022-10-27
   details:
   - text: 郑州富士康接受媒体采访，称“富士康有2万人确诊”是“严重不实消息”，“仅有少部分员工受影响。”
@@ -74,36 +72,44 @@ data:
 #
 - author: 中国数字时代
   tags: [河南郑州富士康]
-  text: 病毒传入厂区，大量工人突破封锁，徒步回家
+  text: 城市的地得｜就这样沉默地走在中原大地上
+  date: 2022-10-29
   url: https://chinadigitaltimes.net/chinese/689044.html
 #
 - author: 中国数字时代
   tags: [河南郑州富士康]
-  text: 病毒传入厂区，大量工人突破封锁，徒步回家
+  text: 第一财经YiMagazine｜富士康基层管理者亲述：这15天到底发生了什么？
+  date: 2022-10-31
   url: https://chinadigitaltimes.net/chinese/689133.html
 #
 - author: 中国数字时代
   tags: [河南郑州富士康]
-  text: 病毒传入厂区，大量工人突破封锁，徒步回家
+  text: 1号时务局｜郑州富士康外地工人徒步返乡：沿途居民纷纷送食品做补给站
+  date: 2022-10-29
   url: https://chinadigitaltimes.net/chinese/689046.html
 #
 - author: 中国数字时代
   tags: [河南郑州富士康]
-  text: 病毒传入厂区，大量工人突破封锁，徒步回家
+  text: 维舟｜富士康事件：他们经历的，我们也可能经历
+  date: 2022-10-31
   url: https://chinadigitaltimes.net/chinese/689118.html
 #
 - author: 中国数字时代
   tags: [河南郑州富士康]
-  text: 病毒传入厂区，大量工人突破封锁，徒步回家
+  text: 旧闻重温｜富士康事件并不代表什么转折
+  date: 2022-11-01
   url: https://chinadigitaltimes.net/chinese/689144.html
 #
 - author: 中国数字时代
   tags: [河南郑州富士康]
-  text: 病毒传入厂区，大量工人突破封锁，徒步回家
+  text: 【CDTV】郑州富士康外地员工徒步返乡，高速路上遇特警人墙
+  date: 2022-11-04
   url: https://chinadigitaltimes.net/chinese/689274.html
 #
 - text: 政府及企业招募工人继续生产
   tags: [河南郑州富士康]
+  url: https://x.com/whyyoutouzhele/status/1593324895659753477
+  date: 2022-11-17
   visuals:
   - alt: 视频·宿舍待遇1
     url: https://twitter.com/i/status/1593324895659753477
@@ -147,6 +153,8 @@ data:
 - text: 富士康2.0, 新招募工人和留守工人再次不满，与维稳力量对抗
   author: Twitter@李老师不是你老师
   tags: [河南郑州富士康]
+  url: https://x.com/whyyoutouzhele/status/1595774576717332484
+  date: 2022-11-24
   details:
   - text: 一批住在酒店隔离没有进入园区拿工牌的员工也要求补偿一万元，但是政府只愿意给2400元，多一分没有。
   - text: 视频中，双方聚集在一栋政府大楼前，人群中有人高喊“警察杀人了”“黑中介怎么不去抓”等
@@ -186,24 +194,10 @@ data:
   - alt: 由于新疆封控，同一棵树下三辆停放的车辆未曾移动，四张图片分别摄于春夏秋冬四季。
     url: https://twitter.com/iPaulCanada/status/1590307424908763136/photo/1
 #
-- author: 我淘资源网
-  tags: [乌鲁木齐火灾]
-  text: 乌鲁木齐市天山区吉祥苑小区一高层住宅楼发生火灾，官方通报称受害者“缺乏自救能力”
-  url: https://www.wtao.vip/307329.html
-#
 - author: 微博@侠客岛
   tags: [乌鲁木齐火灾]
   text: 乌鲁木齐市天山区吉祥苑小区一高层住宅楼发生火灾，官方通报称受害者“缺乏自救能力”
   url: https://weibo.com/5476386628/MgMSuEPWg
-#
-- author: 我淘资源网
-  tags: [乌鲁木齐火灾]
-  text: 乌鲁木齐市天山区吉祥苑小区一高层住宅楼发生火灾，官方通报称受害者“缺乏自救能力”
-  url: https://www.wtao.vip/307429.html
-#
-- text: 乌鲁木齐市天山区吉祥苑小区一高层住宅楼发生火灾，官方通报称受害者“缺乏自救能力”
-  tags: [opinion,乌鲁木齐火灾]
-  author: 微博@侠客岛
   date: 2022-11-26
   details:
   - text: 市消防救援支队支队长总结这起火灾造成重大人员伤亡的深刻教训
@@ -234,18 +228,15 @@ data:
   - alt: 视频·居民与警察发生冲突
     url: https://twitter.com/i/status/1596146083914055682
 #
-- date: 2022-11-26
-  text: 上海，乌鲁木齐中路，“习近平下台，共产党下台”
-  tag: [白纸运动]
-  visuals:
-  - alt: 图片·工人拆下“乌鲁木齐中路”路牌后搬运
-    url: https://pbs.twimg.com/media/FilOlp0VEAACLPI?format=jpg&name=large
-  - alt: 图片·男子夜间独行向封路警察，黑白
-    url: https://pbs.twimg.com/media/FilOlp2UYAIJ4yC?format=jpg&name=large
-  - alt: 图片·路灯下一男一女站立在人行横道上，面对横队结阵之警察
-    url: https://pbs.twimg.com/media/FilOlp0VEAMsa-8?format=jpg&name=large
+- text: 图片·工人拆下“乌鲁木齐中路”路牌后搬运
+  url: https://pbs.twimg.com/media/FilOlp0VEAACLPI?format=jpg&name=large
+- text: 图片·男子夜间独行向封路警察，黑白
+  url: https://pbs.twimg.com/media/FilOlp2UYAIJ4yC?format=jpg&name=large
+- text: 图片·路灯下一男一女站立在人行横道上，面对横队结阵之警察
+  url: https://pbs.twimg.com/media/FilOlp0VEAMsa-8?format=jpg&name=large
 #
 - date: 2022-11-26
+  url: https://twitter.com/i/status/1598309556844634120
   text: 国内其他地方响应
   tags: [白纸运动]
   visuals:
@@ -323,7 +314,7 @@ data:
 - text: 新闻评论
   author: BiliBili@马督工
   tags: [官方政策转向,opinion,deleted]
-  backup: https://t.co/ddXhf2lV5O
+  url: https://t.co/ddXhf2lV5O
   details:
   - text: 现在的情况是，政策不仅不对不未来负责，甚至也不对过去负责，不对现有的政策做解释，这只有在人民丧失记忆的前提下，才有其合理性
 #
@@ -483,8 +474,9 @@ data:
     - alt: 截图·微信公众号评论
       url: https://pbs.twimg.com/media/FhgorOiVIAEkbtX?format=jpg
 #
-- text: 人民日报头版
+- text: 三年抗疫，我们这样同心走过
   tags: [真理部统治下的舆论]
+  url: http://www.news.cn/politics/2022-12/15/c_1129210352.htm
   author: 《人民日报》01版“任仲平”
   date: 2022-12-15
   details:
@@ -558,12 +550,11 @@ data:
   text: 近日，一名微博网友自称自己是北卡罗莱纳州立大学的病毒学博士，称自己五天内两次感染不同毒株，引得一众爱国大V转发。并发表Paxiovid为自己读博时期的项目失败品，美国正在推中药等。后经公安机关调查，此人真实身份为某便利店员工，对其进行了行政拘留处罚。
   url: https://twitter.com/whyyoutouzhele/status/1608164807252787200
 #
-- text: “这是网易新闻的2022年度盘点，和那些妖艳贱货不一样”
+- text: 网易新闻今天下午发布了“这是网易新闻的2022年度盘点，和那些妖艳贱货不一样”视频，盘点了唐山打人，东方航空坠机，乌鲁木齐火灾，丰县八孩母亲，上海疫情期间求助电话等事件
   tags: [真理部统治下的舆论]
   author: 网易新闻
   date: 2022-12-29
-  details:
-  - text: 网易新闻今天下午发布了“这是网易新闻的2022年度盘点，和那些妖艳贱货不一样”视频，盘点了唐山打人，东方航空坠机，乌鲁木齐火灾，丰县八孩母亲，上海疫情期间求助电话等事件
+  url: https://x.com/whyyoutouzhele/status/1608431262817222660
 #
 - text: 新闻评论
   tags: [真理部统治下的舆论,opinion,deleted]
@@ -695,48 +686,45 @@ data:
   - text: 12月26日-27日，中央政治局召开一年一度的民主生活会，新华网视频中，3名政治局委员未出席（发改委主任何立峰、原辽宁省委书记张国清、中央书记处书记李书磊）
   - text: 鉴于三人中两人没有实际政府职务，怀疑政治局委员未出席者，皆染病也
 #
-- text: 网络素材收集 
-  author: Twitter@李老师不是你老师
-  tags: [病死率仍不为零,report]
-  visuals:
-  - alt: 图片·一栋建筑前一辆黑色面包车，车头有“武昌殡仪馆”字样
-    url: https://pbs.twimg.com/media/FkBOcXXWQAAjddH?format=jpg&name=large
-  - alt: 截图·北京大学校内信息门户
-    url: https://pbs.twimg.com/media/Fj7VpKjacAAVHb-?format=jpg
-  - alt: 微博截图
-    url: https://tva4.sinaimg.cn/large/005ZNZlUgy1h97rvdryhfj30u00wiwhg.jpg
-  - alt: 录屏·澎湃新闻
-    url: https://twitter.com/i/status/1604792054038827008
-  - alt: 视频·
-    url: https://twitter.com/i/status/1605186967624458242
-  - alt: 视频·济南
-    url: https://twitter.com/i/status/1606838018459172865
-  - alt: 视频·临沂
-    url: https://twitter.com/i/status/1606838459997749248
-  - alt: 视频·陕西
-    url: https://twitter.com/i/status/1606841004279336960
-  - alt: 视频·济南市殡仪馆1
-    url: https://twitter.com/i/status/1606841379594063872
-  - alt: 视频·济南市殡仪馆2
-    url: https://twitter.com/i/status/1606842348692213760
-  - alt: 视频·汉阳
-    url: https://twitter.com/i/status/1606843293878620161
-  - alt: 视频·天津
-    url: https://twitter.com/i/status/1606843707642515457
-  - alt: 视频·株洲
-    url: https://twitter.com/i/status/1606844540471902208
-  - alt: 视频·四川
-    url: https://twitter.com/i/status/1606845322529247233
-  - alt: 视频·保定
-    url: https://twitter.com/i/status/1606846160937050116
-  - alt: 视频·唐山
-    url: https://twitter.com/i/status/1606846481780322304
-  - alt: 视频·襄樊
-    url: https://twitter.com/i/status/1606847159261102082
-  - alt: 视频·简阳
-    url: https://twitter.com/i/status/1606847440413683712
-  - alt: 视频·武汉
-    url: https://twitter.com/i/status/1606848656313057281
+
+- text: 图片·一栋建筑前一辆黑色面包车，车头有“武昌殡仪馆”字样
+  url: https://pbs.twimg.com/media/FkBOcXXWQAAjddH?format=jpg&name=large
+- text: 截图·北京大学校内信息门户
+  url: https://pbs.twimg.com/media/Fj7VpKjacAAVHb-?format=jpg
+- text: 微博截图
+  url: https://tva4.sinaimg.cn/large/005ZNZlUgy1h97rvdryhfj30u00wiwhg.jpg
+- text: 录屏·澎湃新闻
+  url: https://twitter.com/i/status/1604792054038827008
+- text: 视频·
+  url: https://twitter.com/i/status/1605186967624458242
+- text: 视频·济南
+  url: https://twitter.com/i/status/1606838018459172865
+- text: 视频·临沂
+  url: https://twitter.com/i/status/1606838459997749248
+- text: 视频·陕西
+  url: https://twitter.com/i/status/1606841004279336960
+- text: 视频·济南市殡仪馆1
+  url: https://twitter.com/i/status/1606841379594063872
+- text: 视频·济南市殡仪馆2
+  url: https://twitter.com/i/status/1606842348692213760
+- text: 视频·汉阳
+  url: https://twitter.com/i/status/1606843293878620161
+- text: 视频·天津
+  url: https://twitter.com/i/status/1606843707642515457
+- text: 视频·株洲
+  url: https://twitter.com/i/status/1606844540471902208
+- text: 视频·四川
+  url: https://twitter.com/i/status/1606845322529247233
+- text: 视频·保定
+  url: https://twitter.com/i/status/1606846160937050116
+- text: 视频·唐山
+  url: https://twitter.com/i/status/1606846481780322304
+- text: 视频·襄樊
+  url: https://twitter.com/i/status/1606847159261102082
+- text: 视频·简阳
+  url: https://twitter.com/i/status/1606847440413683712
+- text: 视频·武汉
+  url: https://twitter.com/i/status/1606848656313057281
 #
 - text: 委健委通报新增死亡病例5例
   author: 国家卫生健康委员会官方网站
@@ -783,8 +771,10 @@ data:
   tags: [病死率仍不为零,report]
   url: https://twitter.com/big_ear_cat/status/1607702656323125248
 #
-- text: 新闻报道
+- text: 邯郸永年回应“通报表扬火化场”：文件属实，班组一直加班加点工作
   date: 2022-12-27
+  author: 澎湃新闻
+  url: https://m.thepaper.cn/newsDetail_forward_21310574
   tags: [病死率仍不为零,report]
   details:
   - text: 中共邯郸市永年区民政局党组关于表扬火化场的通报
@@ -821,6 +811,7 @@ data:
 #
 - text: 物流癱瘓、工廠缺勤率達85%！全國大停擺，強制重啟消費是什麼後果？算一算「吹牛税」
   author: YouTube@文昭谈古论今
+  url: https://www.youtube.com/watch?v=CUDkBCilRGE
   tags: [药品短缺]
   date: 2022-12-21
   details:
@@ -1122,11 +1113,11 @@ data:
   details:
   - text: 现阶段死亡人数极高，和已经康复的患者回归正常生活，两种现象互相不构成对对方的证伪。
 #
-- text: 疫情封控期间社会管制措施，在后封控时代的留存情况
+- text: 微博截图：健康宝以某种形式留存
   tags: [疫情反复,report]
-  visuals:
-  - alt: 微博截图
-    url: https://twitter.com/big_ear_cat/status/1605704487854919683/photo/1
+  author: Twitter@big_ear_cat
+  date: 2022-12-21
+  url: https://twitter.com/big_ear_cat/status/1605704487854919683/photo/1
 #
 - text: 北京某高校，开始自费隔离
   tags: [疫情反复,report]
