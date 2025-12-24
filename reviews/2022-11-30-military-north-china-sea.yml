@@ -60,7 +60,7 @@ data:
 - date: 2023-04-26
   author: White House
   text: Washington Declaration
-  tags: [report,韩国,美国,美韩华盛顿宣言]
+  tags: [report,韩国,美国,美韩华盛顿宣言,deleted]
   url: "https://www.whitehouse.gov/briefing-room/statements-releases/2023/04/26/washington-declaration-2/"
 #
 - date: 2023-04-27
