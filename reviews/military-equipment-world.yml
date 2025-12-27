@@ -3,7 +3,7 @@ tags: [军事,经济]
 data:
 - text: 2022中國軍事科技五大突破
   author: YouTube@说真话的徐某人
-  tags: [中国,空军,海军,无人武器,潜艇,航母,战机,超限战]
+  tags: [中国,空军,海军,无人武器,潜艇,航母,战斗机,超限战]
   date: 2022-12-28
   url: https://www.youtube.com/watch?v=qrBiJ0ESbDU
   details:
@@ -56,11 +56,46 @@ data:
   url: https://www.dw.com/zh/%E4%B8%AD%E5%9B%BD%E7%AC%AC%E4%B8%89%E8%89%98%E8%88%AA%E6%AF%8D%E7%A6%8F%E5%BB%BA%E8%88%B0%E5%85%A5%E5%88%97/a-74658676
   tags: [中国,海军,航母,福建号]
 #
+- author: Twitter@Enis Şenol
+  date: '2025-12-25T08:04:28.000Z'
+  text: Sivil ve Donanma işbirliği örneği. Çin, sivil gemiye CIWS ve radarlar konumlandırmış. Büyük ihtimalle konteynerlerde VLS ve füze sistemleri de mevcut olabilir. https://t.co/e7Ub41j4oz
+  tags: [中国,海军,超限战]
+  url: https://x.com/senolenis/status/2004100920087662803
+  detail:
+  - author: Twitter@新‧二七部隊 軍事雜談 (New 27 Brigade)🇹🇼🇺🇦🇮🇱
+    date: '2025-12-25T12:14:40.000Z'
+    text: 網路上出現中國貨櫃船安裝旋轉式陣列雷達、貨櫃垂直發射系統，以及其他感測器 民船武裝 https://t.co/OstUrtEWeZ
+    url: https://x.com/new27brigade/status/2004163884614406296
+  - author: Twitter@🔪飞刀🔪
+    date: '2025-12-25T10:42:23.000Z'
+    text: 從武器堆砌和集裝箱上的標語來看 個人判斷 非官方出品，PLAN要做類似試驗 也會抓一條071或者072出來爆改。但是集裝箱發射技術，共軍基本也是非常成熟的技術 了 https://t.co/fxJvofbbMF
+    url: https://x.com/chaoyinsukandao/status/2004140660744708123
+  - author: Twitter@Dr. Bo
+    date: '2025-12-25T13:25:18.000Z'
+    text: 别又被中国水军给骗了。从货轮吃水的深度来看，要么这船是空的。图是Ｐ的。要么这些模块垂发全是纸糊的，重量为零。一眼假。😹 https://t.co/jLiqqrD8vu
+    url: https://x.com/BoDiplo/status/2004181662268297665
+  - author: Twitter@Takeshi🐈Kido
+    date: '2025-12-25T13:03:40.000Z'
+    text: 真特么给牢🀄️唐完了……拿民用船作掩护搞这种事情，搁在战时，性质跟用刷了红十字的船运送部队是一样的……这种是个人就能想得到的下三滥伎俩，得唐到什么程度才真的会采纳😩 无限制潜艇战了解一下🫠
+    url: https://x.com/imaginmanchuria/status/2004176215054451091
+#
+- author: South China Morning Post
+  date: '2024-12-21T23:00:10+08:00'
+  text: Pakistan’s reported J-35 deal shows Chinese fighter is ‘ready for global market’
+  url: https://www.scmp.com/news/china/military/article/3291826/pakistans-reported-j-35-deal-shows-chinese-stealth-fighter-ready-global-market-analysts
+  tags: [中国,空军,战斗机,五代机,歼35,巴基斯坦]
+#
 - text: 下午察：中国空中“航母”“大蝙蝠”先后首飞的威慑
   author: 联合早报
   date: 2025-12-15
   url: https://www.zaobao.com.sg/realtime/china/story20251215-7969166
   tags: [中国,空军,无人武器]
+#
+- author: Twitter@乔华莘
+  date: '2025-12-25T00:09:31.000Z'
+  text: 这特么就比较好玩了。说东大给丝瓜络的缝隙里填上镍钴氧化物 (NiCo₂O₄) 磁性纳米颗粒，可以吸收99.99%的入射电磁波，让飞机的雷达反射信号强度降低700倍。 该技术可以让中国的隐形战机对天基雷达系统隐身。 https://t.co/PykO1732tI
+  tags: [中国,空军,技术创新]
+  url: https://x.com/qiaohuanxin/status/2003981396294226413
 #
 - author: Twitter@夏天晚风吹
   date: '2025-12-19T13:06:08.000Z'
@@ -83,17 +118,6 @@ data:
   date: 2025-12-06
   tags: [美国,陆军,海军陆战队,无人装备]
   url: https://x.com/Aurora107E/status/1997258603808563318
-#
-- text: Boeing F-47
-  date: 2025-03-21
-  tags: [美国,空军,战斗机,六代机,F47]
-  author: 维基百科
-  url: https://en.wikipedia.org/wiki/Boeing_F-47
-  details:
-  - author: Aviation Week Network
-    date: 2025-03-21
-    text: Boeing Wins U.S. Air Force's NGAD F-47 Fighter Contract
-    url: https://aviationweek.com/defense/aircraft-propulsion/boeing-wins-us-air-forces-ngad-f-47-fighter-contract
 #
 - text: Constellation Class Frigate Program Cancelled By Navy Secretary (Updated)
   author: TWZ
@@ -155,11 +179,28 @@ data:
   url: https://x.com/Sim0nPt2000/status/2003294167322198332
   tags: [美国,海军,战列舰,川普级]
 #
+- author: Twitter@极光
+  date: '2025-12-25T03:15:36.000Z'
+  tags: [美国,海军,技术创新]
+  text: 谢泼德防务报道，美国海军全球海军研究办公室将在 2026 年和 2027 年开展“技术作战实验活动”，测试新兴技术，以支撑未来的科学与技术需求和投资，并定义替代性的运用概念。 此次实验活动将聚焦三个作战领域： 1、反无人系统蜂群作战能力 2、无人水面舰的集装箱化载荷 3、决策优势 决策优势，就 https://t.co/QSiTmxcl6p
+  url: https://x.com/Aurora107E/status/2004028224238702706
+#
 - text: 波音防务近日发布视频。MQ-28无人战机、E-7A预警机及F/A-18F成功演示了自主空空武器交战能力MQ-28验证了实战战力，可降低有人机风险并提升战术打击范围。
   author: Twitter@极光
   date: 2025-12-09
   tags: [美国,空军,预警机,战斗机,四代机,海军,无人武器,E-7,MQ-28,F/A-18]
   url: https://x.com/Aurora107E/status/1998556696214688203
+#
+- text: Boeing F-47
+  date: 2025-03-21
+  tags: [美国,空军,战斗机,六代机,F47]
+  author: 维基百科
+  url: https://en.wikipedia.org/wiki/Boeing_F-47
+  details:
+  - author: Aviation Week Network
+    date: 2025-03-21
+    text: Boeing Wins U.S. Air Force's NGAD F-47 Fighter Contract
+    url: https://aviationweek.com/defense/aircraft-propulsion/boeing-wins-us-air-forces-ngad-f-47-fighter-contract
 #
 - text: The Navy’s F/A-XX Fighter Crisis Is Back
   author: National Security Journal @ Robert Farley
@@ -209,7 +250,7 @@ data:
   date: '2025-12-14T10:57:12.000Z'
   text: 美國軍方已成功測試高功率微波武器，能夠在數秒內癱瘓無人機蜂群。其中一個值得注意的系統名為 Leonidas，由美國國防公司 Epirus 開發。  在印第安納州阿特伯里營（Camp Atterbury）的實彈演習中，該系統達到了 100% 的成功率，在五種情境下癱瘓了所有 61 https://t.co/hQruPLPH5R
   url: https://x.com/pirrer/status/2000158123462733944
-  tags: [美国,新技术武器,防空]
+  tags: [美国,技术创新,防空]
 #
 - author: Twitter@rainbow7852
   date: '2025-12-15T15:32:24.000Z'
@@ -228,6 +269,12 @@ data:
   text: ❗️❗️🇷🇺 Russia says its first regiment armed with the S-500 Prometheus has formally entered operational service, marking a step forward in the country’s strategic air and missile defense posture. The system is intended to counter ballistic missiles, hypersonic threats, and https://t.co/OYXOplT5js
   url: https://x.com/NSTRIKE1231/status/2001625739112640823
   tags: [俄罗斯,防空,S500]
+#
+- author: Twitter@新‧二七部隊 軍事雜談 (New 27 Brigade)🇹🇼🇺🇦🇮🇱
+  date: '2025-12-25T00:40:18.000Z'
+  tags: [朝鲜,海军,潜艇,核潜艇]
+  text: 北韓建造中的新型核動力潛艦曝光，噸位8700噸級，帆罩非常狹長，後方可安裝潛射型彈道飛彈，六具魚雷發射管，以及側邊狹長的陣列聲納
+  url: https://x.com/new27brigade/status/2003989143140151641
 #
 - author: Twitter@Para Bellum
   date: '2025-12-20T09:43:59.000Z'
@@ -254,3 +301,4 @@ data:
   date: 2025-12-09
   tags: [英国,海军,护卫舰,Type31]
   url: https://www.navylookout.com/keel-laid-for-third-type-31-frigate-hms-formidable/
+#

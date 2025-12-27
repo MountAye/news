@@ -19,6 +19,7 @@ def read_x(link,soup):
     meta = soup.title.string
     author,_,rest = meta.partition(' on X: "')
     content,_,_   = rest.rpartition('" / X')
+    content,_,_   = content.rpartition("https://t.co/")
 
     tag = soup.select_one('.r-12kyg2d time')
     if tag:
@@ -27,6 +28,31 @@ def read_x(link,soup):
     info["text"] = ' '.join(content.strip().split())
     info["author"] = f"Twitter@{author.strip()}"
     return info
+
+def read_zaobao(link,soup):
+    info = read_default(link,soup)
+    info["author"] = "联合早报"
+    info['date'] = "NOT FOUND" # how do I find the div immediately after h1 of article, and get the div inside with a span, and then get the content after the span?
+    h1 = soup.find('article h1')
+    if h1:
+        div = h1.find_next_sibling('div')
+        if div:
+            span = div.find('span')
+            if span:
+                parent = span.get_parent()
+                if parent:
+                    info['date'] = parent.get_text().replace("发布/",'').replace(" ",'T').replace("年",'-').replace('月','-').replace('日','-')
+    return info
+
+def read_youtube(link,soup):
+    """need to append user name to site name"""
+    raise NotImplementedError
+def read_bilibili(link,soup):
+    """
+    1. cannot find site_name and user name.
+    2. fetched date is not in correct format.
+    """
+    raise NotImplementedError
 
 def read_default(link,soup):
 

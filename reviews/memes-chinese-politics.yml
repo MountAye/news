@@ -22,6 +22,12 @@ data:
   date: 2025-12-01
   url: https://x.com/cammywhite777/status/1995521519024513089
 #
+- text: '锐评刘仲敬'
+  author: Reddit@KanagawaWave@ignite_intelligence
+  date: 2025-12-10
+  tags: [异议人士,刘仲敬,统一与独立,姨学]
+  url: https://www.reddit.com/r/KanagawaWave/comments/1pj0lno/%E9%94%90%E8%AF%84%E5%88%98%E4%BB%B2%E6%95%AC/
+#
 - text: 冯小刚埋雷 习近平中弹 《芳华》二创引爆民情被封
   author: 人民报@古成
   date: 2025-12-07
@@ -65,13 +71,13 @@ data:
   date: '2025-12-17T18:58:46+00:00'
   text: 黑企鹅｜五百万粉丝都在吃人的席，字节跳动的算法也没辙
   url: https://chinadigitaltimes.net/chinese/723554.html
-  tags: [索隐派,梗指南,1644史观]
+  tags: [索隐派,1644史观]
 #
 - date: 2025-12-03
   url: https://x.com/lenscn/status/1996410881736065398
   text: 确实诡异，短短半个月，一个正国级，两个副国级走马灯式访问俄罗斯。
   author: Twitter@Lens on Asia
-  tags: [中国,俄罗斯,外交,谣传]
+  tags: [中国,俄罗斯,外交,谣传,wrong]
   details:
   - text: 坊间传闻是韩正在上个月访问中东各国后，叛逃俄罗斯20多天了。三个人是去催俄罗斯交人。网上确实找不到韩正回国的报道。
   - text: 但是我个人觉更大的可能是与俄罗斯协调对台，甚至对日本的军事行动。
@@ -79,39 +85,45 @@ data:
 - text: 久未露脸的韩正亮相，会见德国外长瓦德富尔
   author: Twitter@Maoviews
   date: 2025-12-08
-  tags: [谣传,落马,韩正]
+  tags: [谣传,官场,韩正]
   url: https://x.com/Maoviews/status/1997910570201387402
 # 
 - text: 今年7月卸任新疆维吾尔自治区党委书记的中共政治局委员马兴瑞，缺席中央经济工作会议。这是他半个月内，至少第二次缺席重要的高层会议。
   author: 联合早报
   date: 2025-12-11
-  tags: [谣传,落马,马兴瑞]
+  tags: [谣传,官场,马兴瑞]
   url: https://www.zaobao.com.sg/realtime/china/story20251211-7951603?utm_medium=Social&utm_source=Twitter#Echobox=1765455666
 - text: 马兴瑞没有参加中央经济工作会议（周二周三），但12月11日（周四）仍出现在办公室，12🈷️12日（周五）就没再出现
   author: Twitter@Zhan549527
   date: 2025-12-13
-  tags: [谣传,落马,马兴瑞]
+  tags: [谣传,官场,马兴瑞]
   url: https://x.com/Zhan549527/status/1999813016817373437
 - text: 许达哲官宣，袁家军孤木难支，马兴瑞何去何从？航天系可能真的要完球了！
   author: YouTube@新官场
   date: 2025-10-30
-  tags: [谣传,落马,马兴瑞,航天系]
+  tags: [谣传,官场,马兴瑞,航天系]
   url: https://www.youtube.com/watch?v=vKXJAL4Dslw&t=312s
 - text: 来晚了 今天再聊聊四面楚歌的马兴瑞
   author: YouTube@新官场
   date: 2025-12-02
-  tags: [谣传,落马,马兴瑞]
+  tags: [谣传,官场,马兴瑞]
   url: https://www.youtube.com/watch?v=LGyv7dYFFws
 - author: Twitter@鍾馨溪
   date: '2025-12-14T07:11:41.000Z'
   text: 王丙乾遗体火化 所有政治局委员均送了花圈，唯独缺了马兴瑞，可以对比许其亮逝世时，政治局委员中只有何卫东没送花圈 https://t.co/pVyWMBFra1
   url: https://x.com/zhongxinxi1/status/2000101372252103122
-  tags: [谣传,落马,马兴瑞]
+  tags: [谣传,官场,马兴瑞]
 - author: Twitter@Mao
   date: '2025-12-14T07:12:25.000Z'
   text: 原国务委员，第八届全国人民代表大会常务委员会副委员长王丙乾同志的遗体，14日在广东广州市殡仪馆火化。  政治局委员马兴瑞完蛋了 https://t.co/1ZbeS2lidq
   url: https://x.com/Maoviews/status/2000101555526312385
-  tags: [谣传,落马,马兴瑞]
+  tags: [谣传,官场,马兴瑞]
+#
+- author: RFI - 法国国际广播电台
+  date: '2025-12-24T14:31:21+00:00'
+  tags: [官场,军队]
+  text: 习近平晋升东部中部战区上将：港媒与日媒曝玄机
+  url: https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251224-%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%99%8B%E5%8D%87%E8%A7%A3%E6%94%BE%E5%86%9B%E4%B8%9C%E9%83%A8%E4%B8%AD%E9%83%A8%E6%88%98%E5%8C%BA%E4%B8%8A%E5%B0%86-%E6%B8%AF%E5%AA%92%E4%B8%8E%E6%97%A5%E5%AA%92%E6%9B%9D%E7%8E%84%E6%9C%BA
 # 
 - text: 郭德纲相声《艺高人胆小》
   tags: [内容审查,相声,郭德纲,艺高人胆小]
@@ -161,14 +173,14 @@ data:
 - text: 墨索里尼-毛澤東語錄詩歌定型文收集串
   author: Twitter@La période azurée de Aya
   date: 2025-07-22
-  tags: [毛泽东,梗指南]
+  tags: [毛泽东]
   url: https://x.com/aya_the_raven/status/1947871579125518550
 #
 - text: 毛澤東孫子的精彩朗誦表演
   author: Twitter@喵流青年
   date: 2024-06-14
   url: https://x.com/midwaydude/status/1746522233944608970
-  tags: [毛泽东,毛新宇,梗指南]
+  tags: [毛泽东,毛新宇]
 #
 - text: 你好，我是爷爷的孙子！
   author: YouTube@新官场
@@ -274,11 +286,16 @@ data:
   url: https://x.com/WangDa316158/status/2002438024584704069
   tags: [中共收买海外舆论的录音被公开]
 #
+- author: YouTube@说真话的徐某人
+  date: '2025-12-25T03:01:24-08:00'
+  text: 老徐官方回應外宣招募事件，我為什么值4萬？我為什么要放出錄音？ | 說真話的徐某人
+  url: https://www.youtube.com/watch?v=ilq78rK5MkU
+#
 - author: Twitter@星川 蘭🇺🇦🇪🇺🇨🇦🇬🇱爱美TV义务宣传员 ver.🌻📄
   date: '2025-12-16T12:33:21.000Z'
   text: 毛被热捧的原因就是没赶上泡沫经济时代的弱智大学生对（他们想象中的）上一代轻松找到好工作羡慕嫉妒恨，想恢复前三十年的国家康采恩体制之后靠着自己那张破毕业证进国企吃国家饭薅国家羊毛永远压中专农逼一头，对他们嘴里的其他狗哨较真都没意义
   url: https://x.com/Hoshikawa_ran/status/2000907098218180689
-  tags: [梗指南,毛泽东,芳华影评]
+  tags: [毛泽东,芳华影评]
 #
 - author: Twitter@李老师不是你老师
   date: '2025-12-17T12:00:01.000Z'
@@ -313,25 +330,36 @@ data:
   date: '2025-12-18T07:00:45.000Z'
   text: “通过丑化我，丑化snh48，丑化亿万粉丝参加的无产阶级上海大公演！”😅😅😅 https://t.co/6CXc8NmlkC
   url: https://x.com/jiaxinhai1/status/2001548169621180538
-  tags: [梗指南,四人帮,文革]
+  tags: [四人帮,文革]
 #
 - text: 中国军方公开征集空军违规采购问题线索
   author: 联合早报
   date: 2025-12-18
   url: https://www.zaobao.com.sg/realtime/china/story20251218-7983145
-  tags: [落马]
+  tags: [官场]
 #
 - author: Twitter@中国人事观察
   date: '2025-12-22T12:05:17.000Z'
   text: 2025年12月22日，中央军委举行晋升上将军衔仪式。仅有四名上将出席了本次晋衔仪式：张又侠、张升民、刘振立、董军。 上一次晋衔仪式是一年前。2024年12月23日，中央军委举行晋升上将军衔仪式，20名上将出席了晋衔仪式。 一年时间内，已经有16名上将——也就是全体上将的80%——无法出席晋衔仪式。 https://t.co/uAohZWwSxe
   url: https://x.com/cnpoliwatch/status/2003074362174566462
-  tags: [军队,落马]
+  tags: [军队,官场]
 #
 - author: Twitter@Iggie🚁
   date: '2025-12-22T20:41:44.000Z'
   text: 庞叔令就南京博物院涉嫌倒卖文物案到《亚洲周刊》上发文怼新华社失职： https://t.co/KIMQic34bC
   url: https://x.com/Kenntnis22/status/2003204331282268669
   tags: [贪污腐败,南京博物院文物流失]
+  details:
+  - author: Twitter@蔡慎坤
+    date: '2025-12-23T00:37:10.000Z'
+    text: 南京博物院藏品流失牽出一段历史往事。1958年冬天，知名收藏大家、庞莱臣的遗孀贺明彤，见到了阔别十几年的表弟郑山尊。 郑表弟这次来，不是为了叙旧，而是代表组织——江苏省文化局来的。 https://t.co/y8oqBNrBVG
+    url: https://x.com/cskun1989/status/2003263578586112301
+    tags: [贪污腐败,南京博物院文物流失]
+  - author: Twitter@賈葭
+    date: '2025-12-23T15:35:47.000Z'
+    text: 正倉院1300多年，所藏文物從未丟失或者被竊。 至少二十多年前，我採訪過李春平倒賣承德外八廟文物的案子，189件，基本都是編號「故留平」文物，即「故宮留北平」未南遷的文物，後來劃撥到承德，其中一級47件。在採訪過程中，還聽說了大量博物院館以贗品換真品的事。
+    url: https://x.com/jajia/status/2003489723848036393
+    tags: [贪污腐败,南京博物院文物流失]
 #
 - author: Twitter@王局拍案
   date: '2025-12-23T11:37:13.000Z'
@@ -357,34 +385,152 @@ data:
   url: https://x.com/whyyoutouzhele/status/2003433635374924073
   tags: [贪污腐败,南京博物院文物流失]
 #
-- author: Twitter@蔡慎坤
-  date: '2025-12-23T00:37:10.000Z'
-  text: 南京博物院藏品流失牽出一段历史往事。1958年冬天，知名收藏大家、庞莱臣的遗孀贺明彤，见到了阔别十几年的表弟郑山尊。 郑表弟这次来，不是为了叙旧，而是代表组织——江苏省文化局来的。 https://t.co/y8oqBNrBVG
-  url: https://x.com/cskun1989/status/2003263578586112301
+- author: Twitter@iGeekbb
+  date: '2025-12-24T09:39:38.000Z'
+  text: 亚洲周刊发了一张南博前院长徐湖平别墅照片，并配文： 2025年12月23日约12:30，剧终。 https://t.co/SO3SFO7HHV
   tags: [贪污腐败,南京博物院文物流失]
-#
-- author: Twitter@賈葭
-  date: '2025-12-23T15:35:47.000Z'
-  text: 正倉院1300多年，所藏文物從未丟失或者被竊。 至少二十多年前，我採訪過李春平倒賣承德外八廟文物的案子，189件，基本都是編號「故留平」文物，即「故宮留北平」未南遷的文物，後來劃撥到承德，其中一級47件。在採訪過程中，還聽說了大量博物院館以贗品換真品的事。
-  url: https://x.com/jajia/status/2003489723848036393
-  tags: [贪污腐败,南京博物院文物流失]
-#
-- author: Twitter@Morgan
-  date: '2025-12-23T07:51:57.000Z'
-  text: 关于B站up主：斯奎奇大王。 他说的关于美国底层人的悲惨，是十分真实无法捏造的，也再次证明了美国社会福利是发达国家垫底 但同时，从他的言谈中，也可以看出他是个无比相信党国教育的粉红， “初中送去美国接受教育就是狗，奴才” “去美国上人文社科专业的，百分百殖人，洋奴，二狗子“ 都是他的经典言论 https://t.co/0nIokONskU
-  url: https://x.com/Morgan300934033/status/2003372996506059201
-  tags: [中美对账,梗指南,牢A斩杀线]
-#
-- text: '中国实在不配谈流浪汉问题'
-  author: Reddit@China_irl@Fantastic-Profit-389
-  date: 2025-12-22
-  url: https://www.reddit.com/r/China_irl/comments/1ptoscr/%E4%B8%AD%E5%9B%BD%E5%AE%9E%E5%9C%A8%E4%B8%8D%E9%85%8D%E8%B0%88%E6%B5%81%E6%B5%AA%E6%B1%89%E9%97%AE%E9%A2%98/
-  tags: [中美对账,梗指南,牢A斩杀线]
+  url: https://x.com/igeekbb/status/2003762480997433365
   details:
-  - text: 问题是怎么解决的呢？答案非常可耻，是类似种姓制度的户口。小粉红喜欢谈种族歧视和种姓制度，却不喜欢说中国才是最擅长把人分成三六九等的国家。通过户口等一系列配套的制度，中国把人分成了高低贵贱之说。
+  - author: Twitter@李承鹏（大眼哥）
+    date: '2025-12-24T23:02:17.000Z'
+    text: 最新消息：《亚洲周刊》放出徐湖平邻居的录音，透露了事发当晚至次日的关键场景：大批公安人员赶到，对徐湖平家进行了全面包围，并带走了徐湖平夫妇。 https://t.co/KogeyIsAoD
+    url: https://x.com/dayangelcp/status/2003964474613723374
 #
-- text: '锐评刘仲敬'
-  author: Reddit@KanagawaWave@ignite_intelligence
-  date: 2025-12-10
-  tags: [异议人士,刘仲敬,统一与独立,梗指南,姨学]
-  url: https://www.reddit.com/r/KanagawaWave/comments/1pj0lno/%E9%94%90%E8%AF%84%E5%88%98%E4%BB%B2%E6%95%AC/
+- author: Twitter@𝐋𝐚𝐮𝐫𝐞𝐧𝐜𝐞
+  date: '2025-12-24T14:41:47.000Z'
+  tags: [贪污腐败,南京博物院文物流失]
+  text: '#南京博物院 庞家身世，我觉着这一篇有可能会被和谐了。（内容来自猫笔刀） https://t.co/hFbx4vYm8w'
+  url: https://x.com/LaurenceMister/status/2003838522332234196
+#
+- author: Twitter@Iggie🚁
+  date: '2025-12-24T23:39:31.000Z'
+  text: 徐湖平没文化，是怎么用几年时间从印刷厂工人实现阶级跃迁，变成南京博物院副院长、常务副院长和院长的？ https://t.co/jSTmPAZvxB
+  url: https://x.com/Kenntnis22/status/2003973843980001543
+  tags: [贪污腐败,南京博物院文物流失]
+- author: Twitter@王局拍案
+  date: '2025-12-25T10:12:59.000Z'
+  tags: [贪污腐败,南京博物院文物流失]
+  text: 【南博风波未平，吴祖光之子爆料：自家故宫捐赠文物60件失踪】 南博的事还没平息， 又一个重磅消息砸了过来。 著名戏剧家吴祖光之子吴欢发声。 他在社交平台爆料， 祖父吴瀛， 近代故宫博物院创建人之一， 1955年曾向故宫捐赠241件珍贵文物。 但到了上世纪80年代， 吴祖光前去查询时发现， https://t.co/8nQYPKFbcN
+  url: https://x.com/wangjupaian/status/2004133261367292330
+- author: Twitter@李承鹏（大眼哥）
+  date: '2025-12-25T00:00:22.000Z'
+  tags: [贪污腐败,南京博物院文物流失]
+  text: 记住好人姚迁，他1962年调入南京博物院，任副院长，院长。为人正直不阿，经常拿着单子找“借阅字画文物”的领导，索要追回。这得罪了利益集团，先造谣他贪污，经查账证明清白后，又污名化其有男女作风问题，被证明子虚乌有后，又被污名“学术不端”。 https://t.co/XRe2aSgGxJ
+  url: https://x.com/dayangelcp/status/2003979093604552767
+- author: Twitter@银河百科全书
+  date: '2025-12-25T05:12:57.000Z'
+  tags: [贪污腐败,南京博物院文物流失]
+  text: 南京博物院牵扯到邓力群等 https://t.co/Vhm2niHJur
+  url: https://x.com/yhbkqs/status/2004057756857520199
+- author: Twitter@李承鹏（大眼哥）
+  date: '2025-12-26T02:30:56.000Z'
+  tags: [贪污腐败,南京博物院文物流失]
+  text: 南京博物院出事后，出现了以下荒诞而在意料之中的画面： 陕西历史博物馆因施工暂时关闭的公告 南京古生物博物馆临时闭馆通知 关于“唐代壁画珍品展”因施工临时关闭的公告 天龙山石窟博物馆临时闭馆通告 崛围山博物馆净因寺馆区临时闭馆 内蒙古河套文化博物院临时闭馆公告 https://t.co/6rDUv8w0Gg
+  url: https://x.com/dayangelcp/status/2004379373550604631
+- author: Twitter@小蛋糕（日本勇者村）
+  date: '2025-12-25T19:06:50.000Z'
+  tags: [贪污腐败,常林钻石]
+  text: 今天看到个更离谱的😂 山东农民魏振芳挖到个158克拉的钻石 捐献给了国家 国家给了博物馆 博物馆借给了领导🤡 领导家小保姆当垃圾扔了😅 这个钻石叫常林钻石，为中国最大，世界第九 估值几十亿…… 编剧都不敢这么编😂 https://t.co/vjSwrAQifr
+  url: https://x.com/leocherry8/status/2004267609328701720
+#
+- text: 梗指南：美国斩杀线。首创自站up主@斯奎奇大王，人称牢A。自称在美国学习法医学专业，业余收尸。（此说法颇受网友质疑）
+  tags: [中美对账, 美国斩杀线]
+  url: https://news.mountaye.com/reviews/memes-chinese-politics# 美国斩杀线
+  details:
+  - author: Twitter@Morgan
+    date: '2025-12-23T07:51:57.000Z'
+    text: 关于B站up主：斯奎奇大王。他说的关于美国底层人的悲惨，是十分真实无法捏造的，也再次证明了美国社会福利是发达国家垫底 但同时，从他的言谈中，也可以看出他是个无比相信党国教育的粉红， “初中送去美国接受教育就是狗，奴才” “去美国上人文社科专业的，百分百殖人，洋奴，二狗子“ 都是他的经典言论 https://t.co/0nIokONskU
+    url: https://x.com/Morgan300934033/status/2003372996506059201
+    tags: [中美对账, 美国斩杀线]
+- text: 美国斩杀线，支持和使用这个梗的例子
+  tags: [中美对账, 美国斩杀线]
+  url: https://news.mountaye.com/reviews/memes-chinese-politics# 美国斩杀线
+  details:
+  - date: '2025-12-23'
+    author: BiliBili@五鹿鸿见
+    text: 《斩杀那个美利坚人》英文填词（cover杀死那个石家庄人）_哔哩哔哩_bilibili
+    tags: [中美对账, 美国斩杀线]
+    url: https://www.bilibili.com/video/BV1JuBuBQE4P/
+  - author: Twitter@Rainier
+    date: '2025-12-23T23:23:10.000Z'
+    text: 斩杀线这种概念是国内一帮人在炒作，但是确实有很多美国人过的很艰难也是事实。有很多人在沦为homeless也是事实。 作为对东西两套制度都比较熟悉的人来讲，其实很容易看清楚美国的问题在哪里，美国需要哪些改革。 美国所有的问题，无论是个体还是国家最大的问题就是入不敷出，供需不匹配。 1.
+    tags: [中美对账, 美国斩杀线]
+    url: https://x.com/mtrainier2020/status/2003607342487863795
+  - author: Twitter@艾森 Essen
+    date: '2025-12-24T22:39:48.000Z'
+    tags: [中美对账, 美国斩杀线]
+    text: 疑似中国网友发帖提问，疑惑为何美国人即便面临饿死也不去送外卖（Uber Eats）维持生计，并简述了中国基于户籍和社区的兜底机制。网友的讨论延展了“斩杀线”概念在美国社会中的进一步深化：不仅“安全网”是破的，连常被视为救生圈的“零工经济”也是带刺的。 https://t.co/cXzUeb2lyS
+    url: https://x.com/essen_ai/status/2003958816803868960
+  - text:  美国“斩杀线”真实案例：在波特兰认识的无家可归女生
+    author: 微信公众号@基本常识
+    date: 2025-12-25
+    tags: [中美对账, 美国斩杀线]
+    url: https://mp.weixin.qq.com/s/lV7gl6Ra3s23uhBAGsvV4A
+  - author: Twitter@0xLoki
+    date: '2025-12-23T12:54:18.000Z'
+    text: 中国没有斩杀线最大原因还是前些年的扶贫 亲身参与过，2017年，四川的核心标准是家庭年人均＞3000多CNY，再加上两不愁三保障（不愁吃、不愁穿，义务教育、基本医疗、住房安全有保障）
+    tags: [中美对账, 美国斩杀线]
+    url: https://x.com/Loki_Zeng/status/2003449082657013811
+  - author: Twitter@AB Kuai.Dong
+    date: '2025-12-25T03:36:08.000Z'
+    text: 关于斩杀线，这是看到最客观的回答。 理论上出海的华人，确实是卡 BUG 的存在，国内接受了义务教育的 9 年英文课程，然后又享受了便宜学费的公立学校，最后发现国外认可国内大专，也算是大学，所以又满足了工签最低门槛。 最后在国外失业了，又是一堆华人社区、老乡互助协会，方便换工作。。 https://t.co/BXIc2kGasf
+    tags: [中美对账, 美国斩杀线]
+    url: https://x.com/_FORAB/status/2004033392040693842
+  - author: Twitter@Rainier
+    date: '2025-12-24T18:23:39.000Z'
+    text: 其实美国有个比较接近的说法，叫，Alice line。 aka Asset Limited, Income Constrained, Employed. 有个各个county Alice line的网站 https://t.co/MF1Dhu8t4i 华州的Alice 线我下下来看了一下。 单人的线是32436 美元 。典型1家4口（一个是婴儿，一个是preschool ）的Alice line是109500美元。 https://t.co/wRmgOZnw1n
+    url: https://x.com/mtrainier2020/status/2003894354411405514
+    tags: [中美对账, 美国斩杀线]
+- text: 美国斩杀线，反驳和调侃这个梗的例子
+  tags: [中美对账, 美国斩杀线]
+  url: https://news.mountaye.com/reviews/memes-chinese-politics# 美国斩杀线
+  details:
+  - text: '中国实在不配谈流浪汉问题'
+    author: Reddit@China_irl@Fantastic-Profit-389
+    date: 2025-12-22
+    url: https://www.reddit.com/r/China_irl/comments/1ptoscr/%E4%B8%AD%E5%9B%BD%E5%AE%9E%E5%9C%A8%E4%B8%8D%E9%85%8D%E8%B0%88%E6%B5%81%E6%B5%AA%E6%B1%89%E9%97%AE%E9%A2%98/
+  - author: YouTube
+    date: '2025-12-24T18:12:38-08:00'
+    text: 「美國斬殺線」的鏡像：中國斬殺線的真相！（文昭談古論今20251224第1640期）
+    tags: [中美对账, 美国斩杀线]
+    url: https://www.youtube.com/watch?v=DE-io9k70C8
+  - author: Twitter@文昭談古論今
+    date: '2025-12-24T15:10:59.000Z'
+    text: 全网刷屏「美国斩杀线」，我就在看谁在参与、谁在推这个话题。这是鉴别外宣、内宣账号的好办法。由美国中产滑落没机会翻身，说到中共给人民底线保障，甚至为户籍制度唱赞歌，这又是五年前中国封省封城「是对人民负责」「是祖国在保护我们」的翻版。
+    tags: [中美对账, 美国斩杀线]
+    url: https://x.com/wenzhaocomment/status/2003845868600934663
+  - author: Twitter@反差张哥
+    date: '2025-12-24T20:03:15.000Z'
+    text: 斩杀线就是永乐大典型meme吗，粉红用起来很爽，反贼用起来更爽
+    tags: [中美对账, 美国斩杀线]
+    url: https://x.com/zph2020/status/2003919422105571577
+  - author: Twitter@中国政经事实ChinaFacts
+    date: '2025-12-24T06:44:38.000Z'
+    text: 老军迷应该都记得当年面对F22，一堆人苦思冥想战术是用八架歼8换F22的导弹，最后一架狗斗击落空载F22。 现在回头看四代机哪轮得到二代机狗斗？闭着眼能给你打200:0。 当然军迷都知道这是自我安慰，可现在中国各种显性隐形的社会保障之落后，恐怕比歼8对f22差距还大，为什么要找这个最短的短板来赢？
+    tags: [中美对账, 美国斩杀线]
+    url: https://x.com/ChinaMacroFacts/status/2003718443158454504
+  - author: Twitter@过期新闻
+    date: '2025-12-23T22:53:28.000Z'
+    text: '@mtrainier2020 华盛顿州低收入领福利食物卷门槛比美国平均标准高整一倍，四口家庭月收入5400刀就算贫困可以领最多1000刀的食物卷，直到本月也未断。但对非法移民的食物银行确实在缺粮，但也未饿死一人，这些福利全美领先，我实在不觉得算是“斩杀”。'
+    tags: [中美对账, 美国斩杀线]
+    url: https://x.com/johneylee3/status/2003599867260911899
+  - author: Twitter@夏雨婷
+    date: '2025-12-24T10:53:49.000Z'
+    text: 有的国家农村养老金一百二都能活，确实很难说它会有什么“斩杀线”。
+    url: https://x.com/cherylnatsu/status/2003781151706792275
+    tags: [中美对账, 美国斩杀线]
+  - author: Twitter@Bewater🏴‍☠️
+    date: '2025-12-24T12:18:31.000Z'
+    tags: [中美对账, 美国斩杀线]
+    text: 最近斩杀线概念很火，我来谈谈中国财政和经济的“斩杀线”。中国财政的“斩杀线”并不是某个赤字比例或债务数字，而是一组会触发连锁反应的现实阈值。
+    url: https://x.com/BewaterWhisper/status/2003802467436294251
+  - author: Twitter@墙国蛙蛤蛤🐸(新加坡/XJP/习近平)
+    date: '2025-12-25T00:17:40.000Z'
+    text: '人性和党性只能选一个，这个稍微有点人性的章北海已经要被斗死了 😎 匿名投稿 #美国斩杀线 https://t.co/oglOJNGwIo'
+    url: https://x.com/GFWfrog/status/2003983444595069328
+    tags: [中美对账, 美国斩杀线]
+  - author: Twitter@老猎户
+    date: '2025-12-25T03:26:21.000Z'
+    tags: [中美对账, 美国斩杀线]
+    text: 讨论斩断线的，想想如潮水涌入的非移吧。他们甭说固定住所了，身份都没有，信用是0，财产也不多，医保更没影，甚至连车都没有，你们所讨论的美国本地人阶层跌落的所有障碍他们都有。好像也活下来了，还能往老家寄钱，怎么本地人就这么脆弱呢？ 我字敲到这，觉得参与这个话题挺智商欠费的。
+    url: https://x.com/yao30059829/status/2004030929216667898
