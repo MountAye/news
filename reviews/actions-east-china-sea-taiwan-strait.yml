@@ -295,6 +295,12 @@ data:
   tags: [台湾有事就是日本有事,日本艺人在华演出被取消,滨崎步空场演出]
   url: https://x.com/whyyoutouzhele/status/2000192801334866085
 #
+- author: Twitter@九龍公園游泳池
+  date: '2025-12-26T13:17:55.000Z'
+  tags: [台湾有事就是日本有事,日本艺人在华演出被取消]
+  text: 👀
+  url: https://x.com/ParticleofKPSP/status/2004542191495180529?s=20
+#
 - text: 路透：近百艘中国军舰在东部海域大规模集结
   author: DW-德声
   date: 2025-12-04
@@ -349,7 +355,19 @@ data:
   - text: 跟三岁小孩打交道就是这样的，别看他如今一副肌肉男的模样，心智还是三岁。
     author: Twitter@约拿坦
     url: https://x.com/jiongnasen/status/1998317024208969784
-# 
+#
+- author: BiliBili@老王的工匠铺
+  date: 2025-12-21
+  text: 我确实反应慢了，但我还是想问：鬼子这是没找到这架空警-500A？
+  url: https://b23.tv/FRZ4Guc
+  tags: [中国,日本,日常摩擦]
+#
+- author: Twitter@极光
+  date: '2025-12-28T02:09:19.000Z'
+  text: 海军新闻网报道，日本以史无前例数量的F-2战斗机携带反舰导弹回应中国。 9日在位于九州福冈县的航空自卫队筑城基地，至少16架F-2战斗机被观察到进行训练飞行，每架飞机在主翼下各挂载4枚ASM-2空对舰导弹（即93式空舰导弹），共计64枚。该导弹射程超过140公里。采用成像红外导引头，并具备红外反反
+  tags: [日本,战争准备]
+  url: https://x.com/Aurora107E/status/2005098709496045867?s=20
+#
 - text: 美国会公布2026《国防授权法案》：限制中国，支持台湾
   author: VOA-美国之音
   tags: [美国,战争准备]

@@ -56,6 +56,12 @@ data:
   url: https://www.dw.com/zh/%E4%B8%AD%E5%9B%BD%E7%AC%AC%E4%B8%89%E8%89%98%E8%88%AA%E6%AF%8D%E7%A6%8F%E5%BB%BA%E8%88%B0%E5%85%A5%E5%88%97/a-74658676
   tags: [中国,海军,航母,福建号]
 #
+- author: Twitter@Eason Mao☢
+  date: '2025-12-28T01:22:39.000Z'
+  tags: [中国,海军,大驱,055型,导弹, 高超音速, YJ-20]
+  text: 官方今天公布了 055 无锡舰进行 YJ-20 高超音速反舰导弹定型试验的画面
+  url: https://x.com/KELMAND1/status/2005086963716817016?s=20
+#
 - author: NavalNews
   date: '2025-12-25T22:28:13+00:00'
   text: Container Ship Turned Missile Battery Spotted in China - Naval News
@@ -82,6 +88,14 @@ data:
     date: '2025-12-25T13:03:40.000Z'
     text: 真特么给牢🀄️唐完了……拿民用船作掩护搞这种事情，搁在战时，性质跟用刷了红十字的船运送部队是一样的……这种是个人就能想得到的下三滥伎俩，得唐到什么程度才真的会采纳😩 无限制潜艇战了解一下🫠
     url: https://x.com/imaginmanchuria/status/2004176215054451091
+  - author: Twitter@Joseph.W 約瑟
+    date: '2025-12-26T05:57:48.000Z'
+    text: '@JaidevJamwal Honestly, I suspect this may be a movie prop, but it is worthmonitoring.'
+    url: https://x.com/JosephWen___/status/2004431432689852567?s=20
+  - author: Twitter@Decker Eveleth
+    date: '2025-12-25T18:31:12.000Z'
+    text: Geolocated. Appears to be real. Image from @planet
+    url: https://x.com/dex_eve/status/2004258642061938810?s=20
 #
 - author: South China Morning Post
   date: '2024-12-21T23:00:10+08:00'
@@ -98,13 +112,23 @@ data:
 - author: Twitter@乔华莘
   date: '2025-12-25T00:09:31.000Z'
   text: 这特么就比较好玩了。说东大给丝瓜络的缝隙里填上镍钴氧化物 (NiCo₂O₄) 磁性纳米颗粒，可以吸收99.99%的入射电磁波，让飞机的雷达反射信号强度降低700倍。 该技术可以让中国的隐形战机对天基雷达系统隐身。 https://t.co/PykO1732tI
-  tags: [中国,空军,技术创新]
+  tags: [中国,空军,技术进步]
   url: https://x.com/qiaohuanxin/status/2003981396294226413
+  details:
+  - author: Twitter@川和 koi iok ！👊🇺🇸🔥 🇺🇦境外爱❤️习❤️🇨🇳势力
+    date: '2025-12-25T10:22:24.000Z'
+    text: '@qiaohuanxin 看过原论文 是对比丝瓜络，他们丝瓜络隐身性能增加七百倍 屁用没有，因为七百倍丝瓜络依旧比不过正常隐身涂料。 屁用没有，但可以写论文'
+    url: https://x.com/koiiok17/status/2004135630490759371?s=20
 - author: Twitter@🔪飞刀🔪
   date: '2025-12-29T08:42:15.000Z'
-  tags: [中国,空军,技术创新]
+  tags: [中国,空军,技术进步]
   text: 我草，你鱉現在真的吃透電磁彈射實現電彈自由了嗎？ 平板車串聯出一條電磁彈射軌道來？
   url: https://x.com/chaoyinsukandao/status/2005559981400289570?s=20
+- author: Twitter@Eason Mao☢
+  date: '2025-12-27T13:13:22.000Z'
+  tags: [中国,空军,技术进步]
+  text: 我国自主研制F918涡扇发动机成功点火 12月26日由中国航发自主研制的2000公斤推力级涡扇发动机—F918成功点火 F918涡扇发动机兼具 低油耗、长航时、高可靠性等优势 最大飞行高度近20千米 最大飞行马赫数为0.9 主要用于5—15吨级高端无人机 也可为中轻型公务机提供动力
+  url: https://x.com/KELMAND1/status/2004903434496209132?s=20
 #
 - author: Twitter@夏天晚风吹
   date: '2025-12-19T13:06:08.000Z'
@@ -196,7 +220,7 @@ data:
 #
 - author: Twitter@极光
   date: '2025-12-25T03:15:36.000Z'
-  tags: [美国,海军,技术创新]
+  tags: [美国,海军,技术进步]
   text: 谢泼德防务报道，美国海军全球海军研究办公室将在 2026 年和 2027 年开展“技术作战实验活动”，测试新兴技术，以支撑未来的科学与技术需求和投资，并定义替代性的运用概念。 此次实验活动将聚焦三个作战领域： 1、反无人系统蜂群作战能力 2、无人水面舰的集装箱化载荷 3、决策优势 决策优势，就 https://t.co/QSiTmxcl6p
   url: https://x.com/Aurora107E/status/2004028224238702706
 #
@@ -265,7 +289,7 @@ data:
   date: '2025-12-14T10:57:12.000Z'
   text: 美國軍方已成功測試高功率微波武器，能夠在數秒內癱瘓無人機蜂群。其中一個值得注意的系統名為 Leonidas，由美國國防公司 Epirus 開發。  在印第安納州阿特伯里營（Camp Atterbury）的實彈演習中，該系統達到了 100% 的成功率，在五種情境下癱瘓了所有 61 https://t.co/hQruPLPH5R
   url: https://x.com/pirrer/status/2000158123462733944
-  tags: [美国,技术创新,防空]
+  tags: [美国,技术进步,防空]
 #
 - author: Twitter@Visioner
   date: '2025-12-27T20:49:31.000Z'
@@ -276,17 +300,22 @@ data:
   - alt: 推特插图
     url: https://t.co/VMmLxhSAUg
 #
-- author: Twitter@rainbow7852
-  date: '2025-12-15T15:32:24.000Z'
-  text: 🚨乌克兰国家安全局SBU公布了一段视频，显示一艘俄罗斯636.3型改进型基洛级柴电攻击潜艇在俄罗斯新罗西斯克港遭到乌克兰海面无人艇的袭击后发生爆炸，严重受损，基本丧失作战能力。。  据乌克兰方面称，这是首次使用“海底宝贝”（Sub Sea https://t.co/n28pxiqIeN
-  url: https://x.com/rainbow78521/status/2000589768405520525
-  tags: [乌克兰,海军,无人武器,俄乌战争]
-#
 - author: Twitter@NiKITa🇺🇦
   date: '2025-12-14T12:35:56.000Z'
   text: 台灣第一艘國產潛艇海試就現故障，改用人工開回港口  台灣第一艘國產潛艇叫海鯤（SS-711），  在海試期間發生液壓故障，導致其 X 形尾舵暫時無法操作。  出於安全考慮，為防止發生事故，船員們改用人工操舵，將船駛回港口。  台灣方面稱，必要的維修工作完成後，會復海上試驗恢復。 https://t.co/lZLN9gN5rz
   url: https://x.com/NiKiTa_32156/status/2000182970208932031
   tags: [台湾,海军,潜艇]
+- author: 自由時報電子報@自由時報電子報
+  date: '2025-12-26T09:41:00+08:00'
+  text: 為何空射雄三「不可替代」？ 張誠：有美方給不了的不對稱戰力 - 自由軍武頻道
+  tags: [台湾,空军,导弹,空射雄三]
+  url: https://def.ltn.com.tw/article/breakingnews/5290126
+#
+- author: Twitter@rainbow7852
+  date: '2025-12-15T15:32:24.000Z'
+  text: 🚨乌克兰国家安全局SBU公布了一段视频，显示一艘俄罗斯636.3型改进型基洛级柴电攻击潜艇在俄罗斯新罗西斯克港遭到乌克兰海面无人艇的袭击后发生爆炸，严重受损，基本丧失作战能力。。  据乌克兰方面称，这是首次使用“海底宝贝”（Sub Sea https://t.co/n28pxiqIeN
+  url: https://x.com/rainbow78521/status/2000589768405520525
+  tags: [乌克兰,海军,无人武器,俄乌战争]
 #
 - author: Twitter@NSTRIKE
   date: '2025-12-18T12:08:59.000Z'
@@ -313,13 +342,11 @@ data:
   tags: [德国,陆军,坦克,豹2A8]
   details:
   - text: 「豹2A8」是以德軍「豹2A7」為基礎，安裝以色列拉斐爾公司開發的「戰利品」（Trophy）主動防禦系統（APS）
-#
 - author: Twitter@极光
   date: '2025-12-20T14:26:46.000Z'
   text: 德国 F127 护卫舰的火力比原计划将增加50%，此前官方仅宣布F127型护卫舰将配备64个单元Mk41垂发。此次决定在增加32个单元，达到96垂发。由于新增了垂直发射单元，预计护卫舰的长度、宽度和排水量都将增加。F127还将采用世界最尖端的伯克3战舰的spy-6（V）1雷达 总之F-127护卫舰战力非常强大， https://t.co/SBJFEQjkz1
   url: https://x.com/Aurora107E/status/2002385188446409026
   tags: [德国,海军,护卫舰,F127]
-#
 - author: dw.com
   date: '2022-03-14T10:55:13.158Z'
   text: 德国将购买数十架美制 F-35隐形战机 – DW – 2022年3月14日
@@ -331,4 +358,3 @@ data:
   date: 2025-12-09
   tags: [英国,海军,护卫舰,Type31]
   url: https://www.navylookout.com/keel-laid-for-third-type-31-frigate-hms-formidable/
-#

@@ -5,7 +5,7 @@ data:
 - tags: [前情提要,opinion]
   author: Twitter@小径残雪
   text: 宣传机器强调清零政策的重要性和必要性
-  date: 2022-12-11
+  date: 2022-04-06
   url: https://twitter.com/xiaojingcanxue/status/1602139004505559040
   details:
   - date: 2022-04-06
@@ -16,11 +16,6 @@ data:
     text: BiliBili@检测家Easylab：反对动态清零的后果：复旦团队开发模型或致155万人死亡。
   - date: 2022-05-12
     text: 腾讯新闻@火星方阵：动态清零的困难不是躺平的借口，谭德塞应尊重中国。
-#
-- author: Twitter@Hao Chen
-  tags: [前情提要,report]
-  text: 各地限制购买药品，防止冠状病毒感染者自行治疗，瞒报新冠病例
-  url: https://twitter.com/haoel/status/1603693778711113729
 #
 - text: 新闻报道，各地限制购买药品，防止冠状病毒感染者自行治疗，瞒报新冠病例
   tags: [前情提要,report]
@@ -60,6 +55,11 @@ data:
   - text: 北京四通桥出现反习抗议标语“不要核酸要吃饭”
     author: RFI-法广
     url: https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20221013-%E7%BD%91%E4%BC%A0%E5%8C%97%E4%BA%AC%E5%9B%9B%E9%80%9A%E6%A1%A5%E5%87%BA%E7%8E%B0%E6%8A%97%E8%AE%AE%E6%A0%87%E8%AF%AD-%E4%B8%8D%E8%A6%81%E6%A0%B8%E9%85%B8%E8%A6%81%E5%90%83%E9%A5%AD
+- author: Twitter@昨天
+  date: '2025-07-07T16:59:06.000Z'
+  text: “四通桥勇士”彭立发被判刑九年，已秘密送往监狱服刑 根据“昨天”频道收到的可靠消息，在被秘密羁押两年多之后，“四通桥勇士”彭立发近日被中共法院以“寻衅滋事罪”与“纵火罪”数罪并罚，判处九年有期徒刑。彭已于两个月前被送入监狱服刑，外界此前一直无法确认他的安危与法律状况。
+  tags: [彭载舟四通桥标语事件]
+  url: https://x.com/YesterdayBigcat/status/1942267138364117386?s=20
 #
 - tags: [河南郑州富士康]
   author: 凤凰网@张丰
