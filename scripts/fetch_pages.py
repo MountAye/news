@@ -105,7 +105,7 @@ def read_b23tv(link,soup):
     
     tag = soup.select_one('.opus-module-content span')
     if tag:
-        info['text'] = tag.get_text().strip()
+        info['text'] = tag.get_text().replace("\ ","").replace('\n',"")
 
     tag = soup.select_one(".opus-module-author__pub__text")
     if tag:
