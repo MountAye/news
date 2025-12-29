@@ -105,7 +105,7 @@ def read_b23tv(link,soup):
     
     tag = soup.select_one('.opus-module-content span')
     if tag:
-        info['text'] = tag.get_text().replace("\ ","").replace('\n',"")
+        info['text'] = tag.get_text().replace(" ","").replace('\n',"")
 
     tag = soup.select_one(".opus-module-author__pub__text")
     if tag:
@@ -160,9 +160,8 @@ def read_x(link,soup):
     info["text"] = ' '.join(content.strip().split())
     info["author"] = f"Twitter@{author.strip()}"
 
-    if len(image) > 0:
-        info["visuals"] = [{ "alt":"推特插图", "url":f"https://t.co/{image}" }]
-    
+    # if len(image) > 0:
+    #     info["visuals"] = [{ "alt":"推特插图", "url":f"https://t.co/{image}" }]
     return info
 
 def read_zaobao(link,soup):

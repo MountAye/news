@@ -454,6 +454,11 @@ data:
   text: 日经一直是真中立，一般只说经济，尽量不谈政治，所以这代表了经济界的倾向，明白中日交恶是 不会是短暂的，得做长期打算了。
   url: https://x.com/funabashi_ahai/status/2001511525287407887
   tags: [中国,日本,台湾有事就是日本有事]
+- author: RFI-法国国际广播电台
+  date: '2025-12-29T08:40:25+00:00'
+  text: 俄罗斯外长对日本增加军费提出警告 声称如“台湾有事”将支持中国
+  url: https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20251229-%E4%BF%84%E7%BD%97%E6%96%AF%E5%A4%96%E9%95%BF%E5%AF%B9%E6%97%A5%E6%9C%AC%E5%A2%9E%E5%8A%A0%E5%86%9B%E8%B4%B9%E6%8F%90%E5%87%BA%E8%AD%A6%E5%91%8A-%E5%A3%B0%E7%A7%B0%E5%A6%82-%E5%8F%B0%E6%B9%BE%E6%9C%89%E4%BA%8B-%E5%B0%86%E6%94%AF%E6%8C%81%E4%B8%AD%E5%9B%BD
+  tags: [中国,俄罗斯,台湾有事就是日本有事]
 #
 - text: U.S. Strategic Bombers, Japanese Anti-Ship Fighters Take Flight Amid Japan-China Tensions
   author: USNI news
@@ -522,3 +527,105 @@ data:
   text: 台灣🇹🇼陸軍M1A2T戰車首次在街頭進行備戰偵巡，完全打臉「戰車太重論」 https://t.co/3PgMWH8npc
   url: https://x.com/new27brigade/status/2003334227212083371
   tags: [台湾,战争准备]
+#
+- author: Twitter@邓聿文
+  date: '2025-12-29T01:47:14.000Z'
+  text: 东部战区今天毫无预警在年底发布围岛演习，而且是这次是实弹射击，公布了经纬度。今年中国军方只进行了两次围岛演习，上次是在4月，针对赖清德将大陆划为境外敌对势力，但那次还称不上真正的围岛军演。此后，在赖520讲话，发动大罢免以及双十讲话，外界均曾预期解放军会军演，然而都没发生。但到年底，
+  tags: [中国,军事演习,正义使命2025]
+  url: https://x.com/dyw1968316/status/2005455538730008588?s=20
+- author: Twitter@Taiwan Security Monitor
+  date: '2025-12-29T00:50:17.000Z'
+  text: Chinese state media has published an additional map showing all prior joint exercise zones around Taiwan in one image. Yellow is the 2022 Pelosi visit exercises. Red is the Joint Sword-2024A exercise. Teal is today's Justice Mission 2025 exercise.
+  tags: [中国,军事演习,正义使命2025]
+  url: https://x.com/TaiwanMonitor/status/2005441207619748268?s=20
+  visuals:
+  - alt: 推特插图
+    url: https://t.co/hfsF18S6yJ
+- author: Twitter@小径残雪
+  tags: [中国,军事演习,正义使命2025]
+  date: '2025-12-29T02:51:38.000Z'
+  text: 我的感受是非常像俄乌战争之前，演习，演习，然后兵和武器堆积在边境越来越多，再之后就开打了。 重复一下我以前的预言，如果乌克兰输了，台海战爆发的几率极高。如果赢了，那可以再看看。
+  url: https://x.com/xiaojingcanxue/status/2005471745969643601?s=20
+  visuals:
+  - alt: 推特插图
+    url: https://t.co/iHik4k9DMM
+- author: Twitter@外汇交易员
+  tags: [中国,军事演习,正义使命2025]
+  date: '2025-12-29T05:16:23.000Z'
+  text: 东部战区发布军事演习现场视频《进逼 夺权 阻逃》
+  url: https://x.com/fxtrader/status/2005508170391896079?s=20
+- author: Twitter@Taiwan Security Monitor
+  date: '2025-12-29T04:41:50.000Z'
+  tags: [中国,军事演习,正义使命2025]
+  text: "NEW: China's Coast Guard has announced that they have organized vessel formations to carry out comprehensive law-enforcement patrols in waters surrounding Taiwan and in the areas near the Matsu and Wuqiu islands. Live AIS data from @MarineTraffic shows multiple CCG vessels in"
+  url: https://x.com/TaiwanMonitor/status/2005499477323374881?s=20
+- author: Twitter@OSINTdefender
+  date: '2025-12-29T05:56:31.000Z'
+  text: A Dassault Falcon 2000MSA (Maritime Surveillance Aircraft) with the Japanese Coast Guard has lifted off from Naha Air Base in Okinawa and is currently heading southwest in the direction of Taiwan.
+  url: https://x.com/sentdefender/status/2005518272884814108?s=20
+  tags: [中国,军事演习,正义使命2025,日本]
+- author: Twitter@新‧二七部隊 軍事雜談 (New 27 Brigade)🇹🇼🇺🇦🇮🇱
+  date: '2025-12-29T08:08:27.000Z'
+  tags: [中国,军事演习,正义使命2025,日本]
+  text: 感謝網友提供 一艘出現在中國海南省分界洲島一帶海岸的小型潛艇，被民眾拍到正進行航行中，潛艇後方有載人，不排除為特戰專用潛艇
+  url: https://x.com/new27brigade/status/2005551472508026982?s=20
+- author: Twitter@OSINTdefender
+  date: '2025-12-29T07:27:55.000Z'
+  text: Following a several-hour-long patrol over the South China Sea off the coast of Southern China and Taiwan, a U.S. Navy MQ-4C “Triton” High-Altitude Surveillance Drone is returning to Kadena Air Base in Okinawa, Japan.
+  tags: [中国,军事演习,正义使命2025,日本]
+  url: https://x.com/sentdefender/status/2005541273596461191?s=20
+- author: Twitter@Taiwan Security Monitor
+  date: '2025-12-29T09:18:46.000Z'
+  tags: [中国,军事演习,正义使命2025]
+  text: China’s Coast Guard has released three images as part of its patrol activity around Taiwan during the PLA’s joint exercise encircling the island. The images show CCG vessels participating in “law enforcement” patrols around Taiwan and the outlying islands of Wuqiu and Mazu.
+  url: https://x.com/TaiwanMonitor/status/2005569169895366874?s=20
+- author: Twitter@Jaime Ocon 歐海美
+  tags: [中国,军事演习,正义使命2025]
+  date: '2025-12-29T08:00:15.000Z'
+  text: 'NEW IMAGES: A PLAAF J-16 is spotted via the targeting pod of a Taiwanese F-16. Source: @MoNDefense, location unknown.'
+  url: https://x.com/JaimeOcon1/status/2005549409254490262?s=20
+- author: 联合早报
+  tags: [中国,军事演习,正义使命2025]
+  date: 2025-12-29
+  text: 台总统府批大陆军方单边挑衅 吁北京勿错判形势
+  url: https://www.zaobao.com.sg/realtime/china/story20251229-8024011
+- author: ETtoday新聞雲@ETtoday新聞雲
+  date: '2025-12-29T18:21:00+08:00'
+  tags: [中国,军事演习,正义使命2025]
+  text: 幕後／國安單位上周掌握「關鍵徵候」預判中共今軍演 分析4原因 | ETtoday政治新聞 | ETtoday新聞雲
+  url: https://www.ettoday.net/news/20251229/3092190.htm
+- author: Twitter@SFAC探员
+  date: '2025-12-29T07:20:50.000Z'
+  tags: [中国,军事演习,正义使命2025]
+  text: 问题是解放军七点半宣布演习开始台伪军九点才完成部分装甲单位冷启动，开出营区后又直播在大街上烧了一辆勇虎战车 你指望海马斯能未卜先知在解放军开打前两小时提前开始整备吗
+  url: https://x.com/SFAC_DETECTIVE/status/2005539492070109635?s=20
+- author: Twitter@Clash Report
+  tags: [中国,军事演习,正义使命2025,信息战]
+  date: '2025-12-29T12:47:49.000Z'
+  text: Chinese reconnaissance-strike TB-001 drone films the Taipei 101 skyscraper on the island as part of Justice Mission-2025 drills around Taiwan.
+  url: https://x.com/clashreport/status/2005621778480283854?s=20
+- author: Twitter@幼月
+  date: '2025-12-29T13:04:49.000Z'
+  tags: [中国,军事演习,正义使命2025,信息战]
+  text: 剛剛找到了，具體鏡頭是觀音山即時影像，連結下收
+  url: https://x.com/PrinzEugenOwO/status/2005626058876567823?s=20
+- author: Twitter@Alex
+  tags: [中国,军事演习,正义使命2025,信息战]
+  date: '2025-12-29T13:58:06.000Z'
+  text: 台巴子井防部官方用长春航展的空警500照片p了一下装做这回照到的照片用 笑死了哈哈哈哈😂😂 完美体现台巴的阿q精神
+  url: https://x.com/BC_Xuanming/status/2005639465302479079?s=20
+- author: Twitter@说真话的徐某人
+  date: '2025-12-29T15:05:13.000Z'
+  tags: [中国,军事演习,正义使命2025,信息战]
+  text: 有意思，现在两边都说对方P图造假，达成了一种诡异的两岸一家亲。但事实上，大概率两边的图都是真的，但更重要的如何解读图背后的含义。 先说“无人机俯瞰101”，CCTV对这段图像的描述很容易让人产生误解。这不是指PLA有一架无人机飞越101大楼，然后拍摄了照片。比例也不对，中间那是个客机。
+  url: https://x.com/xumouren_yt/status/2005656356812931521?s=20
+- author: Twitter@矿献忠🇨🇳🇮🇱🇺🇸🇷🇺
+  date: '2025-12-29T14:15:07.000Z'
+  tags: [中国,军事演习,正义使命2025,信息战]
+  text: 台湾岛上的网军疑似在p图时只用快速框选工具选了一下...甚至都没用钢笔工具修形，以至于kj500半个脑袋没了。
+  url: https://x.com/TraumandJooy/status/2005643748781510842?s=20
+- author: Twitter@Eason Mao☢
+  date: '2025-12-29T15:11:56.000Z'
+  tags: [中国,军事演习,正义使命2025,基础设施]
+  text: 台中突然大规模停电，引发民众恐慌 据台湾中时新闻网12月29日报道，台中市北屯区29日晚间20时53分惊传大规模无预警停电，共计9675户瞬间陷入一片漆黑，引发地方民众恐慌。
+  url: https://x.com/KELMAND1/status/2005658047465885766?s=20

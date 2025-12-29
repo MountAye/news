@@ -56,12 +56,16 @@ data:
   url: https://www.dw.com/zh/%E4%B8%AD%E5%9B%BD%E7%AC%AC%E4%B8%89%E8%89%98%E8%88%AA%E6%AF%8D%E7%A6%8F%E5%BB%BA%E8%88%B0%E5%85%A5%E5%88%97/a-74658676
   tags: [中国,海军,航母,福建号]
 #
-- author: Twitter@Enis Şenol
-  date: '2025-12-25T08:04:28.000Z'
-  text: Sivil ve Donanma işbirliği örneği. Çin, sivil gemiye CIWS ve radarlar konumlandırmış. Büyük ihtimalle konteynerlerde VLS ve füze sistemleri de mevcut olabilir. https://t.co/e7Ub41j4oz
+- author: NavalNews
+  date: '2025-12-25T22:28:13+00:00'
+  text: Container Ship Turned Missile Battery Spotted in China - Naval News
   tags: [中国,海军,超限战]
-  url: https://x.com/senolenis/status/2004100920087662803
+  url: https://www.navalnews.com/naval-news/2025/12/container-ship-turned-missile-battery-spotted-in-china/
   detail:
+  - author: Twitter@Enis Şenol
+    date: '2025-12-25T08:04:28.000Z'
+    text: Sivil ve Donanma işbirliği örneği. Çin, sivil gemiye CIWS ve radarlar konumlandırmış. Büyük ihtimalle konteynerlerde VLS ve füze sistemleri de mevcut olabilir. https://t.co/e7Ub41j4oz
+    url: https://x.com/senolenis/status/2004100920087662803
   - author: Twitter@新‧二七部隊 軍事雜談 (New 27 Brigade)🇹🇼🇺🇦🇮🇱
     date: '2025-12-25T12:14:40.000Z'
     text: 網路上出現中國貨櫃船安裝旋轉式陣列雷達、貨櫃垂直發射系統，以及其他感測器 民船武裝 https://t.co/OstUrtEWeZ
@@ -96,12 +100,23 @@ data:
   text: 这特么就比较好玩了。说东大给丝瓜络的缝隙里填上镍钴氧化物 (NiCo₂O₄) 磁性纳米颗粒，可以吸收99.99%的入射电磁波，让飞机的雷达反射信号强度降低700倍。 该技术可以让中国的隐形战机对天基雷达系统隐身。 https://t.co/PykO1732tI
   tags: [中国,空军,技术创新]
   url: https://x.com/qiaohuanxin/status/2003981396294226413
+- author: Twitter@🔪飞刀🔪
+  date: '2025-12-29T08:42:15.000Z'
+  tags: [中国,空军,技术创新]
+  text: 我草，你鱉現在真的吃透電磁彈射實現電彈自由了嗎？ 平板車串聯出一條電磁彈射軌道來？
+  url: https://x.com/chaoyinsukandao/status/2005559981400289570?s=20
 #
 - author: Twitter@夏天晚风吹
   date: '2025-12-19T13:06:08.000Z'
   text: 12月17日傍晚，南京的百度、高德、腾讯等导航软件突然集体失灵。 南京卫星应用行业协会分析显示： 1，导航失灵的核心原因是北斗、GPS受到临时干扰压制。因为中国突破了频谱资源封锁，更形成“干扰北斗即干扰GPS”的战略制衡。 2，北斗军用频率具备强抗干扰能力，不受影响。 谁在搞演习呢？攻还是防？ https://t.co/ILxIwQ4lCW
   url: https://x.com/XiaWan27472/status/2002002511910326408
   tags: [中国,超限战,GPS]
+#
+- author: Twitter@咲内ひなた
+  tags: [中国,陆军,后勤]
+  date: '2025-12-29T10:37:47.000Z'
+  text: 關於台中戰爭(台海戰爭)，中國解放軍可能用到的鐵道車輛的其中之一的「YW25G宿營車」我已經透過3D模型再現出來 在Google文檔上我看到一篇很神奇的文檔，上面寫的是中國解放軍針對YW25G型硬臥車設計的「新窗戶」，這個新窗戶的下段可以向內打開140度，以方便擔架搬入
+  url: https://x.com/SakunaiHinata/status/2005589054474297823?s=20
 #
 - author: Twitter@艾布拉姆斯🇺🇸💙💛
   date: '2025-12-16T01:12:43.000Z'
@@ -252,6 +267,15 @@ data:
   url: https://x.com/pirrer/status/2000158123462733944
   tags: [美国,技术创新,防空]
 #
+- author: Twitter@Visioner
+  date: '2025-12-27T20:49:31.000Z'
+  text: ‼️‼️🇯🇵 Japan Maritime Self‑Defense Force has launched the twelfth and final Mogami-class stealth frigate, marking the culmination of one of its most advanced surface combatant programs. This new class of frigates blends stealth design, modular mission capability, and cutting-edge
+  url: https://x.com/visionergeo/status/2005018225327915186?s=20
+  tags: [日本,海军,护卫舰,最上级]
+  visuals:
+  - alt: 推特插图
+    url: https://t.co/VMmLxhSAUg
+#
 - author: Twitter@rainbow7852
   date: '2025-12-15T15:32:24.000Z'
   text: 🚨乌克兰国家安全局SBU公布了一段视频，显示一艘俄罗斯636.3型改进型基洛级柴电攻击潜艇在俄罗斯新罗西斯克港遭到乌克兰海面无人艇的袭击后发生爆炸，严重受损，基本丧失作战能力。。  据乌克兰方面称，这是首次使用“海底宝贝”（Sub Sea https://t.co/n28pxiqIeN
@@ -295,6 +319,12 @@ data:
   text: 德国 F127 护卫舰的火力比原计划将增加50%，此前官方仅宣布F127型护卫舰将配备64个单元Mk41垂发。此次决定在增加32个单元，达到96垂发。由于新增了垂直发射单元，预计护卫舰的长度、宽度和排水量都将增加。F127还将采用世界最尖端的伯克3战舰的spy-6（V）1雷达 总之F-127护卫舰战力非常强大， https://t.co/SBJFEQjkz1
   url: https://x.com/Aurora107E/status/2002385188446409026
   tags: [德国,海军,护卫舰,F127]
+#
+- author: dw.com
+  date: '2022-03-14T10:55:13.158Z'
+  text: 德国将购买数十架美制 F-35隐形战机 – DW – 2022年3月14日
+  tags: [德国,空军,战斗机,五代机,F35]
+  url: https://www.dw.com/zh/%E5%BE%B7%E5%9B%BD%E5%B0%86%E8%B4%AD%E4%B9%B0%E6%95%B0%E5%8D%81%E6%9E%B6%E7%BE%8E%E5%88%B6-f-35%E9%9A%90%E5%BD%A2%E6%88%98%E6%9C%BA/a-61117247
 # 
 - text: 英国 31 型护卫舰 HMS Formidable 铺设龙骨
   author: Navy Lookout
