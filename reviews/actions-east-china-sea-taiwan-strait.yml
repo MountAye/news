@@ -691,7 +691,7 @@ data:
   tags: [中国,军事演习,正义使命2025]
   text: '中国军演更多细节 : 创纪录近身锁台迈向“实战预演”，“两岸擦枪走火可能”升高 - BBC News 中文'
   url: https://www.bbc.com/zhongwen/articles/ce8q8r1jlrpo/simp
-- text: USNI News Fleet and Marine Tracker: Dec. 29, 2025
+- text: "USNI News Fleet and Marine Tracker: Dec. 29, 2025"
   tags: [中国,军事演习,正义使命2025]
   date: 2015-12-29
   author: USNI News
@@ -738,7 +738,7 @@ data:
   - text: Response to China’s Military Exercise Near Taiwan
     url: https://www.state.gov/releases/2026/01/response-to-chinas-military-exercise-near-taiwan/
 - author: '@GlobalAffairsCanada'
-  date: '2026-01-01T21:30:33'
+  date: '2026-01-01T21:30:33Z'
   text: Statement on China’s decision to undertake large-scale military drills around Taiwan
   url: https://www.canada.ca/en/global-affairs/news/2026/01/statement-on-chinas-decision-to-undertake-large-scale-military-drills-around-taiwan.html
   tags: [中国,军事演习,正义使命2025,外交,加拿大]
