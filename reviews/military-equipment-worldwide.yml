@@ -45,6 +45,12 @@ data:
   url: https://x.com/xumouren_yt/status/2003394680885743926
   tags: [中国,陆军,坦克,VT4,泰国]
 #
+- author: Twitter@Faytuks Network
+  date: '2025-12-29T14:56:36.000Z'
+  text: Chinese ICBM launchers disguised as mobile civilian cranes
+  url: https://x.com/FaytuksNetwork/status/2005654189914153430
+  tags: [中国,陆军,火箭军,导弹,洲际导弹,超限战]
+#
 - author: South China Morning Post
   text: "China’s advanced Fujian aircraft carrier ready to start sea trials this year, a boost for military capacity"
   tags: [中国,海军,航母,福建号]
@@ -251,12 +257,23 @@ data:
     author: Twitter@祖国人homelander
     date: 2025-12-06
     url: https://x.com/IIShomelander/status/1996649756849025098
+- author: Twitter@极光
+  date: '2026-01-03T01:49:32.000Z'
+  text: 航空周刊报道，五角大楼确认 ,美海军六代舰载战机F/A-XX 项目仍在推进。 尽管以工业基础能否同时承载 F-47 与 F/A-XX理由而延宕，但国防部、海军高层与国会立场一致推进 F/A-XX 波音与诺格均表示具备执行能力， PS：目前美帝航母优势，已被中共远程导弹逐渐侵蚀，F/A-XX是扭转局面和保持优势的关键
+  tags: [美国,海军,空军,战斗机,六代机,F/A-XX]
+  url: https://x.com/Aurora107E/status/2007268054682722560
 #
 - text: 据战区网站报道，美国国会正采取新的措施，阻止五角大楼取消采购新型 E-7“楔尾”空中预警指挥机的计划。最新版的年度国防政策法案草案还包含条款，要求空军继续维持其仅存的 16 架 E-3“望楼”预警机服役，直到足够数量的 E-7“楔尾”交付，或满足其他相关条件。
   author: Twitter@极光
   date: 2025-12-09
   url: https://x.com/Aurora107E/status/1998314656067441147
   tags: [美国,空军,预警机,E-7]
+#
+- author: Twitter@新‧二七部隊 軍事雜談 (New 27 Brigade)🇹🇼🇺🇦🇮🇱
+  date: '2026-01-01T07:27:44.000Z'
+  text: 美國國防部31日正式公告，洛克希德·馬丁(Lockheed Martin)已獲得總價上限3.285億美元合約，將為台灣空軍生產55具「紅外線搜索追蹤」(IRST)莢艙 IRST莢艙可提供F-16V戰機偵測敵機發動機排出的紅外線熱源，不會發出雷達波暴露自身位置，更不受解放軍強烈的電子干擾影響，被視為F-16V戰機「反匿蹤」手段
+  tags: [美国,空军,IRST]
+  url: https://x.com/new27brigade/status/2006628392351969715
 #
 - author: Twitter@Colby Badhwar 🇨🇦🇬🇧
   date: '2025-12-15T16:44:24.000Z'
@@ -328,6 +345,11 @@ data:
   tags: [朝鲜,海军,潜艇,核潜艇]
   text: 北韓建造中的新型核動力潛艦曝光，噸位8700噸級，帆罩非常狹長，後方可安裝潛射型彈道飛彈，六具魚雷發射管，以及側邊狹長的陣列聲納
   url: https://x.com/new27brigade/status/2003989143140151641
+- text: 曹县的新潜艇，伊朗一对比是真的废啊…
+  tags: [朝鲜,海军,潜艇,核潜艇]
+  date: 2025-12-25
+  author: BiliBili@薮猫伊万
+  url: https://www.bilibili.com/opus/1150230930960416768
 #
 - author: Twitter@Para Bellum
   date: '2025-12-20T09:43:59.000Z'
@@ -358,3 +380,9 @@ data:
   date: 2025-12-09
   tags: [英国,海军,护卫舰,Type31]
   url: https://www.navylookout.com/keel-laid-for-third-type-31-frigate-hms-formidable/
+#
+- author: Twitter@Defence Index
+  date: '2025-12-29T13:26:38.000Z'
+  tags: [波兰,空军,运输机,加油机,A330MRTT,A400M]
+  text: 🚨🇵🇱 Poland is moving to significantly expand its airlift and aerial refueling capabilities, with plans to procure up to 4 A330-800 MRTT+ NEO tanker aircraft and up to 10 A-400M military transport aircraft.
+  url: https://x.com/Defence_Index/status/2005631547622441419

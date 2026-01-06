@@ -120,8 +120,7 @@ def read_b23tv(link,soup):
 
 def read_bilibili(link,soup):
     """
-    1. cannot find site_name and user name.
-    2. fetched date is not in correct format.
+    simply does not work for now    
     """
     info = read_default(link,soup)
     info["author"] = f"BiliBili{info['author']}"
@@ -167,7 +166,8 @@ def read_x(link,soup):
 def read_zaobao(link,soup):
     info = read_default(link,soup)
     info["author"] = "联合早报"
-    # how do I find the div immediately after h1 of article, and get the div inside with a span, and then get the content after the span?
+    
+    # date finding does not work
     h1 = soup.find('article h1')
     if h1:
         div = h1.find_next_sibling('div')
@@ -200,8 +200,8 @@ if __name__ == "__main__":
 
         if   url.startswith("https://b23.tv/"):
             info = read_b23tv(url, soup)
-        elif url.startswith("https://www.bilibili.com/"):
-            info = read_bilibili(url, soup)
+        # elif url.startswith("https://www.bilibili.com/"):
+        #     info = read_bilibili(url, soup)
         elif url.startswith("https://www.reddit.com/"):
             info = read_reddit(url,soup)
         elif url.startswith("https://x.com"):
