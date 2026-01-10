@@ -22,7 +22,7 @@ data:
 - text: 今天战雷社区的乐子有点大，有人把VT-4的泰文技术手册完整的放出来了
   author: Twitter@1024t66y
   date: 2023-12-09
-  tags: [中国,陆军,坦克,VT4，泰国]
+  tags: [中国,陆军,坦克,VT4,泰国]
   url: https://x.com/1024t66y/status/1733721877070397642
   details:
   - text: 整整600多页的VT-4技术手册，原文档已不可见
@@ -44,6 +44,12 @@ data:
   text: 而且这台似乎是在行进状态，这总不能是连撸200发穿甲弹炸了吧？
   url: https://x.com/xumouren_yt/status/2003394680885743926
   tags: [中国,陆军,坦克,VT4,泰国]
+#
+- author: Twitter@咲内ひなた
+  tags: [中国,陆军,后勤]
+  date: '2025-12-29T10:37:47.000Z'
+  text: 關於台中戰爭(台海戰爭)，中國解放軍可能用到的鐵道車輛的其中之一的「YW25G宿營車」我已經透過3D模型再現出來 在Google文檔上我看到一篇很神奇的文檔，上面寫的是中國解放軍針對YW25G型硬臥車設計的「新窗戶」，這個新窗戶的下段可以向內打開140度，以方便擔架搬入
+  url: https://x.com/SakunaiHinata/status/2005589054474297823?s=20
 #
 - author: Twitter@Faytuks Network
   date: '2025-12-29T14:56:36.000Z'
@@ -142,15 +148,10 @@ data:
   url: https://x.com/XiaWan27472/status/2002002511910326408
   tags: [中国,超限战,GPS]
 #
-- author: Twitter@咲内ひなた
-  tags: [中国,陆军,后勤]
-  date: '2025-12-29T10:37:47.000Z'
-  text: 關於台中戰爭(台海戰爭)，中國解放軍可能用到的鐵道車輛的其中之一的「YW25G宿營車」我已經透過3D模型再現出來 在Google文檔上我看到一篇很神奇的文檔，上面寫的是中國解放軍針對YW25G型硬臥車設計的「新窗戶」，這個新窗戶的下段可以向內打開140度，以方便擔架搬入
-  url: https://x.com/SakunaiHinata/status/2005589054474297823?s=20
-#
 - author: Twitter@艾布拉姆斯🇺🇸💙💛
   date: '2025-12-16T01:12:43.000Z'
-  text: 好吧，陆军已经从GDLS那收到首辆M1E3原型车了  现在就看什么时候出照片了
+  tags: [美国,陆军,坦克,M1E3]
+  text: 好吧，陆军已经从GDLS那收到首辆M1E3原型车了 现在就看什么时候出照片了
   url: https://x.com/SuTNkwfrFkMhHsG/status/2000735808811385195
   details:
   - author: Twitter@艾布拉姆斯🇺🇸💙💛
@@ -216,6 +217,7 @@ data:
   tags: [美国,海军,战列舰,川普级]
 - author: Twitter@HP
   date: '2025-12-23T01:09:57.000Z'
+  tags: [美国,海军,战列舰,川普级]
   text: '@S6IFEeIijptExPr @Rational314159 “ The new ships will replace the Navy’s next-generation DDG(X) program, which was projected to be about half the size of this proposed battleship.” https://t.co/h1h9n1Z537'
   url: https://x.com/hydropod01/status/2003271828966604980
 - author: Twitter@Cam2000
