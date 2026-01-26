@@ -168,15 +168,13 @@ def read_zaobao(link,soup):
     info["author"] = "联合早报"
     
     # date finding does not work
-    h1 = soup.find('article h1')
-    if h1:
-        div = h1.find_next_sibling('div')
-        if div:
-            span = div.find('span')
-            if span:
-                parent = span.get_parent()
-                if parent:
-                    info['date'] = parent.get_text().replace("发布/",'').replace(" ",'T').replace("年",'-').replace('月','-').replace('日','-')
+    if "/story" in link:
+        date_str = link.partition("/story")[2].partition("-")[0]
+        assert len(date_str) == 8, "Unexpected date format in Zaobao link"
+        yyyy = date_str[0:4]
+        mm   = date_str[4:6]
+        dd   = date_str[6:8]
+        info["date"] = f"{yyyy}-{mm}-{dd}"
     return info
 
 def read_youtube(link,soup):

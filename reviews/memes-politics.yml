@@ -239,6 +239,11 @@ data:
   tags: [官场,军队]
   text: 中国全国人大常委会27日发布公报称，8名罢免全国人大代表遭到罢免，其中包含多名中国高级军官将领。其中，中央军委政法委书记王仁华上将、武警部队政委张红兵上将、中央军委训练管理部部长王鹏中将，在多次未出席公开场合后，首度被证实因涉嫌严重违反法纪而落马。
   url: https://x.com/dw_chinese/status/2005570832878518692?s=20
+- author: Twitter@中国政经事实ChinaFacts
+  date: '2026-01-13T01:31:55.000Z'
+  tags: [官场]
+  text: 纪委五中全会开幕，通稿首段的表述中的“总-分”结构中把“贯彻落实重大决策”、“把权力关进笼子”放在“坚定推进反腐败”之前，同时重点放在最后一句“十五五提供保障”。 尽管近期抓中管干部速度不减，可很多结案是滞后的，似乎在表明反腐动作今年有减压趋势。 继续跟踪马兴瑞结案情况。
+  url: https://x.com/ChinaMacroFacts/status/2010887502379335765
 # 
 - text: 郭德纲相声《艺高人胆小》
   tags: [删帖禁言,相声,郭德纲,艺高人胆小]
@@ -702,6 +707,16 @@ data:
   date: '2025-12-27T17:44:40.000Z'
   text: 之前有个币狗拿乡下人的悲歌来说斩杀线。其实斯万整本书综合下来的表述，传达的观点恰恰是美国人太耐活了。 书里穷乡下帮人搬两趟东西一天饭钱就有了，自己当兵跑伊拉克给小朋友糖果，第一次让他感受到了美国力量对普通人生活的影响，而不是背后的穷苦阶级，再结合同乡的摆烂白皮遭遇来看。
   url: https://x.com/taki8964/status/2004971706801324140?s=20
+- author: Twitter@E
+  date: '2026-01-13T02:35:41.000Z'
+  text: 经济学人关于“斩杀线”这一话题的报道，写的非常好，分析了“所谓”的美国水深火热现象。话锋一转，你们居然还有脸笑别人？话锋再一转，因为只准你们笑别人。
+  tags: [中美对账, 美国斩杀线, 反驳美国斩杀线]
+  url: https://x.com/gly277/status/2010903549648212087
+  details:
+  - text: China obsesses over America’s “kill line”
+    author: The Economist
+    date: 2026-01-12
+    url: https://www.economist.com/china/2026/01/12/china-obsesses-over-americas-kill-line
 #
 - author: Twitter@Petrichor
   date: '2025-12-26T16:14:30.000Z'
@@ -713,3 +728,76 @@ data:
   tags: [姜昆在加州歌唱祖国]
   text: 姜昆美国唱歌事件拍摄者力争澄清一些事实，但是这咄咄逼人居高临下的腔调，感觉又要一石激起千层浪。
   url: https://x.com/cuichenghao7/status/2004839113703522434
+#
+- author: Twitter@DW 中文- 德国之声
+  date: '2026-01-08T06:59:57.000Z'
+  tags: [美国ICE暴力执法,明尼阿波利斯枪杀]
+  text: 美国移民暨海关执法局（ICE）执法人员1月7日在美国明尼亚波利斯市，枪杀了一名在车内的37岁女子，这起事件已在事发地周边掀起抗议行动。
+  url: https://x.com/dw_chinese/status/2009158113602187742
+- author: Twitter@The Spectator Index
+  date: '2026-01-08T23:48:12.000Z'
+  tags: [美国ICE暴力执法]
+  text: 'BREAKING: Two people have been shot by Federal agents in 🇺🇸 Portland, with circumstances not yet clear.'
+  url: https://x.com/spectatorindex/status/2009411847603257828
+- author: Twitter@Hillary Clinton
+  date: '2026-01-08T14:32:29.000Z'
+  tags: [美国ICE暴力执法,明尼阿波利斯枪杀]
+  text: Last night, at the corner where an ICE agent murdered Renee Good, thousands of Minnesotans gathered in the frigid dark to protest her killing. In the face of this administration’s lawless violence, solidarity is the answer. They want to mold America to their cruelty. We refuse.
+  url: https://x.com/HillaryClinton/status/2009271997612663014
+- author: Twitter@Adam 🇬🇧🇺🇦
+  date: '2026-01-08T22:10:45.000Z'
+  tags: [美国ICE暴力执法,明尼阿波利斯枪杀]
+  text: 希拉里·克林顿关于ICE滥杀无辜的内容： “昨晚，在一名ICE特工谋杀Renee Good的街角，数千名明尼苏达人在刺骨的黑暗寒冷中聚集，抗议她的遇害。面对本届政府无法无天的暴力，团结就是答案。他们想把美国塑造成他们的残酷模样。我们拒绝。”
+  url: https://x.com/Adam65207241/status/2009387323939594548
+- author: Twitter@王海滨的财经闲谈
+  tags: [美国ICE暴力执法,明尼阿波利斯枪杀]
+  date: '2026-01-09T10:33:27.000Z'
+  text: 视频在那里，都可以颠倒黑白，各说各话。 今年真是赤马红羊，末法时期。 女子显然是在右转方向盘，想离开，面对她的警察反应过激，直接开抢爆头。 实际上，他也可以第一反应向左跳开。 几秒钟后，就看到车头向右转了。 警察面对女司机，一定看的到她在打方向盘。 这他妈是常识。
+  url: https://x.com/wangwatchworld/status/2009574230145560596
+- author: Twitter@Democrats
+  date: '2026-01-09T19:35:07.000Z'
+  tags: [美国ICE暴力执法,明尼阿波利斯枪杀]
+  text: Newly-released footage reveals Renee Nicole Good’s last words.
+  url: https://x.com/TheDemocrats/status/2009710547114106955
+- author: Twitter@CarmenDelessio
+  date: '2026-01-08T19:52:01.000Z'
+  tags: [美国ICE暴力执法,明尼阿波利斯枪杀]
+  text: Jonathan Ross, the ICE Agent in Minnesota, was not previously rammed by a car. He tried to arrest a man in a locked car by breaking the back window and unlocking the door. The driver pulled ahead. Ross was dragged He's a dumbass who doesn't know how to be safe around cars.
+  url: https://x.com/carmendelessio/status/2009352409496404185
+- author: Twitter@FreeSino
+  date: '2026-01-09T18:37:40.000Z'
+  tags: [美国ICE暴力执法,明尼阿波利斯枪杀]
+  text: 关于ICE和警察的区别，这篇文章解释的很详细。就连白宫和DHS目前都只敢用污蔑受害人是极左和企图攻击ICE来辩护，丝毫不敢说当时ICE拦停车辆的行为是否合法。 出处：
+  url: https://x.com/FreeSino/status/2009696089826570695
+- author: Twitter@Homeland Security
+  date: '2026-01-10T17:04:55.000Z'
+  tags: [美国ICE暴力执法]
+  text: 'Reminder: if you lay a finger on a federal officer or agent, you will face the full extent of the law.'
+  url: https://x.com/DHSgov/status/2010035136956686735
+- author: Twitter@Austin Kocher, PhD
+  date: '2026-01-11T00:45:24.000Z'
+  tags: [美国ICE暴力执法]
+  text: ICE just reported its fourth in-custody death of 2026. It’s only January 10. No news outlets have reported on this yet.
+  url: https://x.com/ackocher/status/2010151017808052710
+- author: Twitter@北美刘索隆
+  date: '2026-01-11T04:23:02.000Z'
+  tags: [美国ICE暴力执法]
+  text: 这位ICE探员说："你们没有吸取前几天的教训吗？"然后打掉了她的手机。你仔细品一下这句话，背后的意思是什么？就是说：如果你不滚的话，我就开枪打死你。This is America
+  url: https://x.com/ZoroLiu20/status/2010205790205030867
+- author: Twitter@Ed Krassenstein
+  tags: [美国ICE暴力执法]
+  date: '2026-01-12T12:25:31.000Z'
+  text: 'BREAKING: ICE agents rammed this United States Marine veteran’s car and put her through torture just because she was following them from a safe distance. “they said ‘have you not learned: this is why we killed that lesbian bitch’” Is this really what Maga voted for? For US'
+  url: https://x.com/EdKrassen/status/2010689595994755343
+- author: Twitter@Bojan Tunguz
+  date: '2026-01-09T22:39:01.000Z'
+  text: 'ICE 版坦克人'
+  url: https://x.com/tunguz/status/2009756827534160104
+  visuals:
+  - url: https://x.com/tunguz/status/2009756827534160104/photo/1
+- author: Twitter@Michael de Adder
+  date: '2026-01-09T16:27:20.000Z'
+  text: '讽刺漫画：Community Policing Training'
+  url: https://x.com/deAdder/status/2009663290100854834
+  visuals:
+  - url: https://x.com/deAdder/status/2009663290100854834/photo/1
