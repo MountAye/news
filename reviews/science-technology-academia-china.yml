@@ -111,6 +111,16 @@ data:
   text: 中美都在太空经济上发力，今天上交所发布商业火箭公司科创板上市适用第五套标准细则，重点关注运载能力、一箭多星、可回收能力等技术优势及阶段成果
   tags: [太空竞赛,火箭回收]
   url: https://x.com/qinbafrank/status/2004509811178930677?s=20
+- author: 联合早报
+  date: '2026-01-17'
+  text: 中国民营火箭谷神星二号首次飞行任务失利
+  tags: [太空竞赛,民营航天]
+  url: https://www.zaobao.com.sg/realtime/china/story20260117-8115671
+- author: Twitter@外汇交易员
+  date: '2026-01-18T13:28:02.000Z'
+  tags: [太空竞赛,火箭回收]
+  text: 载人飞船着陆缓冲技术获成功验证 为中国商业航天首次 北京穿越者载人航天科技称其自主研制的穿越者壹号（CYZ1）载人飞船试验舱，1月18日完成着陆缓冲系统的综合验证试验。穿越者称，本次试验各项指标均达到预期目标，其中关键指标超出预期。
+  url: https://x.com/fxtrader/status/2012879657927082014
 #
 - author: Twitter@默默
   date: '2025-12-27T03:39:17.000Z'
@@ -146,3 +156,34 @@ data:
   tags: [中美新冷战,半导体]
   text: 🇨🇳 China has ordered firms to halt purchase of Nvidia's advanced H200 chips
   url: https://x.com/spectatorindex/status/2008982352928841761
+- author: 联合早报
+  date: '2026-01-14'
+  tags: [中美新冷战,半导体,显卡]
+  text: 路透：中国海关通知英伟达H200晶片不得入境
+  url: https://www.zaobao.com.sg/realtime/china/story20260114-8099549
+- author: dw.com
+  date: '2026-01-14T11:36:59.004Z'
+  tags: [中美新冷战,半导体,显卡]
+  text: 消息人士：中国海关不允许英伟达H200芯片入境
+  url: https://www.dw.com/zh/%E6%B6%88%E6%81%AF%E4%BA%BA%E5%A3%AB%E4%B8%AD%E5%9B%BD%E6%B5%B7%E5%85%B3%E4%B8%8D%E5%85%81%E8%AE%B8%E8%8B%B1%E4%BC%9F%E8%BE%BEh200%E8%8A%AF%E7%89%87%E5%85%A5%E5%A2%83/a-75503113
+- author: Twitter@包叔
+  date: '2026-01-14T06:56:39.000Z'
+  tags: [中美新冷战,半导体,显卡]
+  text: 中国的态度已经比较明确了，H200非必要不购买，已经指示海关严查，未经批准一律不许放行。
+  url: https://x.com/baoshu88/status/2011331612777333054
+- author: 联合早报
+  date: '2026-01-17'
+  text: 英媒：中国阻止发货后 英伟达H200零部件供应商停止生产
+  tags: [中美新冷战,半导体,显卡]
+  url: https://www.zaobao.com.sg/realtime/china/story20260117-8114981
+- author: Twitter@联合早报 Lianhe Zaobao
+  date: '2026-01-21T10:51:00.000Z'
+  tags: [中美新冷战,半导体,显卡]
+  text: 中国这次拒绝H200，很可能意味着中国国产晶片的性能正逼近H200，不排除已经能够替代或很快能够替代H200；而另一个更加明确的信号是，面对美国的技术封锁，中国要在高科技领域自力更生的决心，远比外界想象得更坚决。
+  url: https://x.com/zaobaosg/status/2013927303898714561
+#
+- author: Twitter@李老师不是你老师
+  date: '2026-01-17T02:30:00.000Z'
+  tags: [美术,中央美术学院]
+  text: 《我把中央美术学院教师论文挨个查了个遍》 1月16日，一名网友系统核查了中央美术学院教师论文，逐篇审阅央美城市设计学院从教授到原副院长、书记的学术论文，“一个视频一个锤”，看看央美有多少学术烂账。
+  url: https://x.com/whyyoutouzhele/status/2012351669980283353
