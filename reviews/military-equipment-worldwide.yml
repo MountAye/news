@@ -176,7 +176,6 @@ data:
     date: '2025-12-16T01:43:55.000Z'
     text: 我求求营销号（这下世界大同了，英文区一样的）别用AbramsX的视频了  那不是M1E3，只是AbramsX身上的技术会给M1E3
     url: https://x.com/SuTNkwfrFkMhHsG/status/2000743663161500092
-#
 - text: Teledyne FLIR Defense 已从美国海军陆战队系统司令部获得价值4250万美元的合同……将提供 600 多套 Rogue 1 徘徊弹药系统
   author: Twitter@极光
   date: 2025-12-06
@@ -219,7 +218,6 @@ data:
   text: 感覺已經造好久，一查已經造了六年，不到四千噸的船造六年，這就是美國現在的造船效率，幽默。
   url: https://x.com/ZedongWinine/status/2000730353775059100
   tags: [美国,海军,轻型船只,MMSC,沙特]
-#
 - text: HII旗下的纽波特纽斯造船厂举行了弗吉尼亚级攻击型核潜艇“巴布”号（Barb，SSN 804）的龙骨铺设仪式。此活动标志着该潜艇正式进入建造阶段。
   author: Twitter@极光
   date: 2025-12-10
@@ -227,7 +225,6 @@ data:
   url: https://x.com/Aurora107E/status/1998680090905907394
   details: 
   - text: 这应该是block V型，配备4个VPM模块，每个模块含7具发射单元，额外携带28枚“战斧”巡航导弹，加上原有2具VPT模块，共40枚巡航导弹 。
-#
 - author: Twitter@极光
   date: '2026-01-15T13:57:34.000Z'
   tags: [美国,海军,大驱,朱姆沃尔特]
@@ -265,18 +262,21 @@ data:
   tags: [美国,海军,技术进步]
   text: 谢泼德防务报道，美国海军全球海军研究办公室将在 2026 年和 2027 年开展“技术作战实验活动”，测试新兴技术，以支撑未来的科学与技术需求和投资，并定义替代性的运用概念。 此次实验活动将聚焦三个作战领域： 1、反无人系统蜂群作战能力 2、无人水面舰的集装箱化载荷 3、决策优势 决策优势，就 https://t.co/QSiTmxcl6p
   url: https://x.com/Aurora107E/status/2004028224238702706
-#
 - author: Twitter@Liuping Xu
   date: '2026-01-07T20:25:41.000Z'
   text: ❗️🇺🇸诺斯罗普·格鲁曼公司获得了一份导弹发动机合同 美国海军已拨款9400万美元，用于诺斯罗普·格鲁曼公司进一步研发固体燃料导弹发动机。这款直径21英寸（约53厘米）的新型发动机将用于新型远程导弹，该导弹可打击空中（包括高超音速）和地面目标。
   url: https://x.com/LPX2019/status/2008998495324094788
   tags: [美国,海军,导弹,高超音速]
-#
 - author: Twitter@极光
   date: '2026-01-14T06:55:38.000Z'
   text: 12日诺斯罗普·格鲁曼公司宣布，获得2.33亿美元合同，将为美国海军制造并交付一种新型先进轻型鱼雷，也就是MK54 MOD 2。该鱼雷配备定制设计的战斗部，以提高其杀伤力。 PS：MK54 MOD 2鱼雷动力采用了锂锅炉产生热量，产生蒸汽推动涡轮机，功率密度极高（高速性能），深度性能绝佳，低噪音无航迹
   url: https://x.com/Aurora107E/status/2011331354953465999
   tags: [美国,海军,鱼雷]
+- author: Twitter@馬克時空 Mark Space
+  date: '2026-01-29T15:24:37.000Z'
+  text: '福特級二號艦約翰·肯尼迪號航母首次海試，明年3月服役，可以操作F-35C戰機和MQ-25A無人加油機！美軍繼續向中東集結部隊，同時外交斡旋，伊朗展示新型彈道導彈，威脅中東國家。 #F35C #MQ25A #伊朗局勢 #肯尼迪號航母 #甘迺迪號航艦 | 01/29 馬克時空 👀觀看完整影片：'
+  tags: [美国,海军,航母,福特级]
+  url: https://x.com/Mark__Space/status/2016895264464986360
 #
 - text: 波音防务近日发布视频。MQ-28无人战机、E-7A预警机及F/A-18F成功演示了自主空空武器交战能力MQ-28验证了实战战力，可降低有人机风险并提升战术打击范围。
   author: Twitter@极光
@@ -328,6 +328,11 @@ data:
   text: '🇺🇸 Long Wall Defense has announced a new ballistic missile defense product: Cyclops, a surface launched exoatmospheric interceptor.   Long Walls existing production facilities could produce over 100 missiles per year.   SM-3 (analogous product from Raytheon) is facilitized for https://t.co/pC7M9zFATY'
   url: https://x.com/ColbyBadhwar/status/2000607887639392666
   tags: [美国,导弹,防空]
+- author: Twitter@联合早报 Lianhe Zaobao
+  tags: [美国,导弹,防空]
+  date: '2026-01-27T14:47:22.000Z'
+  text: 美国总统特朗普推出的“金穹”导弹防御计划启动已满一年，但几乎未见明显进展。
+  url: https://x.com/zaobaosg/status/2016161111649685534
 #
 - author: Twitter@极光
   date: '2025-12-16T03:49:14.000Z'
@@ -375,6 +380,11 @@ data:
   text: 台灣第一艘國產潛艇海試就現故障，改用人工開回港口  台灣第一艘國產潛艇叫海鯤（SS-711），  在海試期間發生液壓故障，導致其 X 形尾舵暫時無法操作。  出於安全考慮，為防止發生事故，船員們改用人工操舵，將船駛回港口。  台灣方面稱，必要的維修工作完成後，會復海上試驗恢復。 https://t.co/lZLN9gN5rz
   url: https://x.com/NiKiTa_32156/status/2000182970208932031
   tags: [台湾,海军,潜艇]
+- author: Twitter@新‧二七部隊 軍事雜談 (New 27 Brigade)🇹🇼🇺🇦🇮🇱
+  date: '2026-01-30T07:41:19.000Z'
+  tags: [台湾,海军,潜艇]
+  text: 🇹🇼海鯤號潛艦挑戰水下100公尺深度，海鯤號潛艦加油 昨完成50公尺首次「淺水潛航測試」，30日緊接著進行第二次潛航測試，目標為下潛100公尺，挑戰性更大
+  url: https://x.com/new27brigade/status/2017141056345952617
 - author: 自由時報電子報@自由時報電子報
   date: '2025-12-26T09:41:00+08:00'
   text: 為何空射雄三「不可替代」？ 張誠：有美方給不了的不對稱戰力 - 自由軍武頻道
@@ -422,6 +432,11 @@ data:
   tags: [德国,陆军,坦克,豹2A8]
   details:
   - text: 「豹2A8」是以德軍「豹2A7」為基礎，安裝以色列拉斐爾公司開發的「戰利品」（Trophy）主動防禦系統（APS）
+- author: Twitter@Gandalv
+  date: '2026-01-26T08:23:48.000Z'
+  text: 🇩🇪 Rheinmetall in Germany will soon be capable of producing 1.5 million 155mm artillery shells per year, a volume that exceeds the combined output of the entire United States defense industry. Stay connected, Follow Gandalv @Microinteracti1
+  tags: [德国,陆军,炮弹,莱茵金属]
+  url: https://x.com/Microinteracti1/status/2015702199389594041
 - author: Twitter@极光
   date: '2025-12-20T14:26:46.000Z'
   text: 德国 F127 护卫舰的火力比原计划将增加50%，此前官方仅宣布F127型护卫舰将配备64个单元Mk41垂发。此次决定在增加32个单元，达到96垂发。由于新增了垂直发射单元，预计护卫舰的长度、宽度和排水量都将增加。F127还将采用世界最尖端的伯克3战舰的spy-6（V）1雷达 总之F-127护卫舰战力非常强大， https://t.co/SBJFEQjkz1
