@@ -1,6 +1,6 @@
 title: 科技界出圈儿新闻
-tags: [科技,经济,政治]
-excerpt: "非学术界人士也能接触到的中国学术界新闻和丑闻"
+tags: [合集,科技,经济,政治]
+excerpt: 全球范围内地缘政治的正和博弈，改变生产率的科学和技术相关的公开信息。
 data:
 - text: 如何看待网传高中学历的郭某伪造履历成为江苏科技大学的首席科学家与博士生导师？
   date: 2025-11-17
@@ -16,26 +16,26 @@ data:
 - text: 2025 院士候选人网络负面舆情汇总
   date: 2025-09-06
   author: Reddit@China_irl@Complete-Pirate9488
-  tags: [院士,2025年院士评选]
+  tags: [院士,中国2025院士评选]
   url: https://www.reddit.com/r/China_irl/comments/1naaa2n/2025_%E9%99%A2%E5%A3%AB%E5%80%99%E9%80%89%E4%BA%BA%E7%BD%91%E7%BB%9C%E8%B4%9F%E9%9D%A2%E8%88%86%E6%83%85%E6%B1%87%E6%80%BB/?rdt=40016
   details:
   - text: 原表格链接
     author: Twitter@李老师不是你老师
     url: https://docs.google.com/spreadsheets/d/1sMk3Rd0fnjAArrjF7b4alwt3BgdplKOKMHWanXmPbSM/edit?gid=0#gid=0
 - text: ​2025年两院院士增选结果揭晓  144位专家当选（附名单）
-  tags: [院士,2025年院士评选]
+  tags: [院士,中国2025院士评选]
   date: 2025-11-21
   author: 中国科技网
   url: https://www.stdaily.com/web/gdxw/2025-11/21/content_435302.html
 - text:  饶毅公开质疑新晋院士：远离一线是培养优秀科学家的最佳环境
   date: 2025-11-24
   author: 微信公众号@科学之星
-  tags: [院士,2025年院士评选,饶毅]
+  tags: [院士,中国2025院士评选,饶毅]
   url: https://mp.weixin.qq.com/s/9wf5Al7rwQjAI6cb1GzhNw
 - text: 如何评价饶毅教授「远离一线是培养优秀科学家的最佳环境」对王艳芬院士的评价？
   author: 知乎
   date: 2025-11-24
-  tags: [院士,2025年院士评选,饶毅]
+  tags: [院士,中国2025院士评选,饶毅]
   url: https://www.zhihu.com/question/1976252106336907870
 #
 - text: 中国成立大湾区大学，将聚焦物质科学、先进工程、生命科学、信息科学技术、理学、金融管理六大领域。
@@ -204,3 +204,32 @@ data:
   date: '2026-01-29T23:36:08.000Z'
   text: 特朗普宣布取消加拿大飞机认证，对加拿大飞机征收50%关税 “鉴于加拿大错误地、非法地且顽固地拒绝为湾流 500、600、700 和 800 型喷气机（有史以来最伟大、技术最先进的飞机之一）提供适航认证，我们特此取消对他们的庞巴迪环球快车（Bombardier Global Express）以及所有加拿大制造飞机的认证。
   url: https://x.com/fxtrader/status/2017018958097109179
+#
+- author: Twitter@RFI 华语 - 法国国际广播电台
+  date: '2026-01-30T21:52:14.000Z'
+  tags: [中美新冷战]
+  text: 世贸专家组裁定北京胜诉
+  url: https://x.com/RFI_Cn/status/2017355195970420885
+#
+- author: Twitter@RFI 华语 - 法国国际广播电台
+  date: '2026-02-02T16:28:15.000Z'
+  tags: [新冷战,稀土]
+  text: 日本宣布从海底6000米挖出含稀土沉积物 寻求减少对中国稀土依赖
+  url: https://x.com/RFI_Cn/status/2018360829276811671
+- author: Twitter@DW 中文- 德国之声
+  date: '2026-02-03T12:50:00.000Z'
+  tags: [新冷战,稀土]
+  text: 据日本共同社报道，日本海洋研究开发机构2月2日宣布，深海探测船“地球”号从南鸟岛海域的水深约5600米处海底成功采掘了含稀土的淤泥。
+  url: https://x.com/dw_chinese/status/2018668291359920604
+#
+- author: Twitter@中国人事观察
+  date: '2026-02-05T03:39:02.000Z'
+  tags: [院士,官员落马]
+  text: 被罢免全国人大代表的罗琦原本是中国工程院院士。他的名字已经被从中国工程院院士的名单里删除。 中国工程院院士名单：
+  url: https://x.com/cnpoliwatch/status/2019254413786038412
+#
+- author: Twitter@联合早报 Lianhe Zaobao
+  date: '2026-02-07T07:01:54.000Z'
+  tags: [太空竞赛,可重复使用火箭]
+  text: 中国星期六（2月7日）成功发射可重复使用试验航天器。
+  url: https://x.com/zaobaosg/status/2020030239972208852
