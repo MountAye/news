@@ -121,6 +121,30 @@ data:
   tags: [太空竞赛,火箭回收]
   text: 载人飞船着陆缓冲技术获成功验证 为中国商业航天首次 北京穿越者载人航天科技称其自主研制的穿越者壹号（CYZ1）载人飞船试验舱，1月18日完成着陆缓冲系统的综合验证试验。穿越者称，本次试验各项指标均达到预期目标，其中关键指标超出预期。
   url: https://x.com/fxtrader/status/2012879657927082014
+- author: 微信公众平台@百舸争流
+  text: 载人登月火箭，海上软着陆成功！不是美国的SpaceX，是中国的长征十号
+  tags: [太空竞赛,火箭回收]
+  url: https://mp.weixin.qq.com/s/Y7CcZe69vUKJGyx6zr166w
+- author: Twitter@iGeekbb
+  date: '2026-02-11T08:09:54.000Z'
+  tags: [太空竞赛,火箭回收]
+  text: 长征十号一级成功溅落海面视频画面，通稿都在喊中国迎来火箭回收时代。但我看完视频满脑子问号，这不是没兜住吗，眼看着是掉在回收船旁边的海里了 最绝的是新华网，咬定是“按程序受控安全溅落于预定海域”，还完美溅落，硬圆是吧！
+  url: https://x.com/igeekbb/status/2021496906782998631
+- author: Twitter@SegerYU
+  date: '2026-02-11T07:33:56.000Z'
+  tags: [太空竞赛,火箭回收]
+  text: 长征十号溅落航拍。（新华网）
+  url: https://x.com/SegerYU/status/2021487855248556294
+- author: Twitter@iGeekbb
+  tags: [太空竞赛,火箭回收]
+  date: '2026-02-12T10:23:20.000Z'
+  text: 我道歉，长征十号火箭落歪内部回应来了 不是落歪，不是失败，这次试验的预定理论落点本来就不是平台，而是考虑回收成本等要素，特意设计在了网系回收海上平台附近海域。 这展示了中国回收技术的精度，未来可实现精确操控火箭箭体落点。
+  url: https://x.com/igeekbb/status/2021892871214002487
+- author: Twitter@联合早报 Lianhe Zaobao
+  date: '2026-02-07T07:01:54.000Z'
+  tags: [太空竞赛,火箭回收]
+  text: 中国星期六（2月7日）成功发射可重复使用试验航天器。
+  url: https://x.com/zaobaosg/status/2020030239972208852
 #
 - author: Twitter@默默
   date: '2025-12-27T03:39:17.000Z'
@@ -228,8 +252,8 @@ data:
   text: 被罢免全国人大代表的罗琦原本是中国工程院院士。他的名字已经被从中国工程院院士的名单里删除。 中国工程院院士名单：
   url: https://x.com/cnpoliwatch/status/2019254413786038412
 #
-- author: Twitter@联合早报 Lianhe Zaobao
-  date: '2026-02-07T07:01:54.000Z'
-  tags: [太空竞赛,可重复使用火箭]
-  text: 中国星期六（2月7日）成功发射可重复使用试验航天器。
-  url: https://x.com/zaobaosg/status/2020030239972208852
+- author: Twitter@加美财经caus.com
+  date: '2026-02-12T01:22:02.000Z'
+  tags: [气候变化]
+  text: 美国的研究发现，中国在塔克拉玛干沙漠周围种植了大量树木，将这片“生物空白区”变成了碳汇
+  url: https://x.com/CausMoney/status/2021756648889413637
