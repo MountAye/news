@@ -276,6 +276,11 @@ data:
   tags: [院士,官员落马]
   text: 被罢免全国人大代表的罗琦原本是中国工程院院士。他的名字已经被从中国工程院院士的名单里删除。 中国工程院院士名单：
   url: https://x.com/cnpoliwatch/status/2019254413786038412
+- author: Twitter@李老师不是你老师
+  date: '2026-03-15T14:20:00.000Z'
+  tags: [院士,官员落马]
+  text: 又有3名院士被官网除名！ 3月14日，三名涉及雷达、飞行及核武器领域的工程院院士被撤掉简介，其中2位曾任中国工程院副院长 。
+  url: https://x.com/whyyoutouzhele/status/2033186455086899487
 #
 - author: Twitter@加美财经caus.com
   date: '2026-02-12T01:22:02.000Z'
@@ -431,3 +436,9 @@ data:
   tags: [太空竞赛,加拿大]
   text: 加拿大出息了📷📷 。总理卡尼表示，预计明年发射的加拿大制造的卫星网络将与 SpaceX 的星链 (Starlink) 竞争，同时加强国家防御和北极通信，并减少对美国系统的依赖。 新的国防工业战略将太空，特别是卫星通信，列为联邦政府优先发展的十大关键主权能力之一。 总理办公室证实，卡尼指的是Telesat
   url: https://x.com/jefflijun/status/2030832207456022856
+#
+- author: Twitter@小蛋糕(日本勇者村）
+  date: '2026-03-15T08:07:22.000Z'
+  tags: [人工智能]
+  text: XAI核心团队全面去华‼️ 最近马斯克对xAI创始团队大清洗： 原始12位联合创始人中，华人背景的5位（Greg Yang、Tony Wu、Jimmy Ba、Guodong Zhang、Zihang Dai）全被“开除”或离职‼️ 马斯克亲口说“最初没建好，从基础重建”，当初吹嘘的“全华班”，现在看来更像是个笑话 😂
+  url: https://x.com/lovelycake/status/2033092677562957854
