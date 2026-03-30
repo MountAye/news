@@ -423,6 +423,11 @@ data:
   tags: [中国,人工智能,龙虾OpenClaw]
   text: '无需 API 权限，可直接上锅蒸'
   url: https://x.com/zuozizhen/status/2033095034510467442
+- author: Twitter@Viking
+  date: '2026-03-16T12:59:29.000Z'
+  tags: [中国,人工智能,龙虾OpenClaw]
+  text: 笑死我了，360安全龙虾是基于 OpenClaw 做的一个封装，结果在安装包里，任何人下载后都能直接访问到一个用于域名 *.myclaw.360.cn 的 SSL私钥，这个证书有效期到2027年4月，覆盖了该平台所有子域名。
+  url: https://x.com/vikingmute/status/2033528578986721457
 #
 - author: Twitter@阿橡
   date: '2026-03-06T03:32:02.000Z'
@@ -453,3 +458,36 @@ data:
   tags: [先进半导体]
   text: 继中芯国际后的第二家，中国 7 纳米芯片制造商出现了。 今天外媒在轰炸式报道和追踪这一事件。
   url: https://x.com/_FORAB/status/2033431155870244979
+- author: Twitter@TingHu♪
+  date: '2026-03-16T11:15:01.000Z'
+  tags: [先进半导体]
+  text: 相信大家今天都刷到“华虹集团已开发出7nm芯片制造技术，并计划在年底前投入生产”这条新闻了，具体的大家可以去搜详细的内容。 目前中芯国际是2000万+市值，7nm良率依旧偏低。 中芯➤进口设备+自主工艺。 华虹➤国产设备+自主工艺。 年底量产前预计会有多个波段，量产前可考虑博弈是否成功量产或超预期
+  url: https://x.com/TingHu888/status/2033502289919664609
+#
+- author: Twitter@Inty News
+  date: '2026-03-16T20:56:48.000Z'
+  tags: [美国,先进半导体,太空竞赛]
+  text: 英伟达首席执行官黄仁勋今天宣布，该公司正在研发一款名为Nvidia Vera Rubin Space-1的用于轨道数据中心的新型芯片/计算机。
+  url: https://x.com/__Inty__/status/2033648700182978674
+#
+- author: Twitter@蓝点网
+  date: '2026-03-17T10:35:25.000Z'
+  tags: [人工智能,日本,乐天]
+  text: '乐天发布日本最大的高性能 AI 模型乐天 AI 3.0，然后被网友发现是基于 #DeepSeek-V3 而来。 这在日语社区中引起很大争议，原因是乐天集团参与日本政府的 AI 加速器挑战赛并获得资金支持，结果是用 DS 微调而来的，当然乐天本身也提到模型充分利用开源社区的最优成果：'
+  url: https://x.com/landiantech/status/2033854713536647546
+#
+- author: Twitter@中国人事观察
+  date: '2026-03-17T06:52:21.000Z'
+  tags: [中国,院士]
+  text: 3月16日，中国科学院更新官网院士名单，撤下了歼-20总设计师杨伟的名字。 杨伟曾任中航工业副总经理，2025年1月，他的简历从官网撤下。 杨伟在中科院院士中，原本属于技术科学部。他现在已经不在技术科学部院士的行列里了。 中科院院士名单：
+  url: https://x.com/cnpoliwatch/status/2033798577126805952
+- author: Twitter@Fenng
+  date: '2026-03-16T08:03:45.000Z'
+  tags: [澳洲,人工智能,生物工程]
+  text: 那篇《澳洲大神用 ChatGPT 手搓疫苗抢命，救活癌症晚期爱犬》一看标题就不靠谱，去核实了一下信息源，发现还真是一件噱头十足但实际上是不着调的事儿。打疫苗的同时还用了抗癌药物，然后说是疫苗起作用了。当然，所谓疫苗也不是什么「ChatGPT 手搓」。 国内现在 AI
+  url: https://x.com/Fenng/status/2033454156988518655
+- author: 联合早报
+  date: '2026-03-17'
+  tags: [藏语,人工智能,中国]
+  text: 世界首个藏语AI大模型问世
+  url: https://www.zaobao.com.sg/news/china/story20260317-8746651
