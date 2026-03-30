@@ -379,49 +379,54 @@ data:
 #
 - author: Twitter@Y11
   date: '2026-03-04T08:59:54.000Z'
-  tag: [人工智能,Qwen离职]
+  tag: [中国,人工智能,Qwen离职]
   text: 和Gemini对了一下，大概知道Qwen这次啥事情： 原先Qwen的500+人团队，不断要钱，不断要卡，也没有KPI考核。 但是最后效果都还不如minimax取巧蒸馏出来的小模型的成果，总体烧的钱（成本）贵10x倍不止。 对高管而言，都只是黑盒子，没法干预。 只能做到要钱给钱、要人给人、要卡给卡。
   url: https://x.com/seclink/status/2029119634696261824
 - author: Twitter@Tongtong Bee 🐝
   date: '2026-03-04T11:34:35.000Z'
-  tag: [人工智能,Qwen离职]
+  tag: [中国,人工智能,Qwen离职]
   text: 发现国内对震动今天AI圈的林俊旸的背景信息有污染。 他本科毕业于国际关系学院英语专业，硕士是北京外国语大学语言学。本科并非网传&amp;很多媒体报道的北大计算机。 所以本科一天数理没有学过的他，随后能成为Qwen的技术负责人也是神人。
   url: https://x.com/tongtongbee/status/2029158562895937828
 #
 - author: '@林亦LYi'
   date: '2026-02-28'
-  tags: [人工智能,龙虾OpenClaw]
+  tags: [中国,人工智能,龙虾OpenClaw]
   text: 一个视频搞懂OpenClaw！_哔哩哔哩_bilibili
   url: https://www.bilibili.com/video/BV1jEAaz3E6K/
 - author: Twitter@Rainier
-  tags: [人工智能,龙虾OpenClaw]
+  tags: [中国,人工智能,龙虾OpenClaw]
   date: '2026-03-08T21:10:45.000Z'
   text: 哈哈哈哈。 “小龙虾发展起来，搞成了大产业” 下面的干部一看，🫡明白。
   url: https://x.com/mtrainier2020/status/2030753107827708203
 - author: Twitter@Tongtong Bee 🐝
   date: '2026-03-09T08:37:00.000Z'
-  tags: [人工智能,龙虾OpenClaw]
+  tags: [中国,人工智能,龙虾OpenClaw]
   text: 国内互联网企业进入“百虾大战”，大力开展龙虾产业，截至目前的战报： 网易有道LobsterAI（中文名：有道龙虾）：2月11日上线 阿里云CoPaw：2月14日上线 中关村科金PowerClaw：3月3日上线，企业版OpenClaw 字节跳动旗下火山引擎ArkClaw：3月9日上线，开箱即用的SaaS版OpenClaw
   url: https://x.com/tongtongbee/status/2030925810178347048
 - author: Twitter@贝塔酱
-  tags: [人工智能,龙虾OpenClaw]
+  tags: [中国,人工智能,龙虾OpenClaw]
   date: '2026-03-09T18:56:27.000Z'
   text: 中国每隔几年就有一次"新技术+资金盘"的收割周期——传销、P2P、币圈、NFT、元宇宙，每次都是同样的剧本：技术包装→小圈子造富效应→全民涌入→深圳/义乌系资金盘操盘手入场→监管滞后→崩盘维权→联合整治。 熟悉的感觉熟悉的味道 国内已经开始OpenClaw 龙虾狂热了
   url: https://x.com/Walden779/status/2031081699350593902
 - author: Twitter@毒猫猫🤔
   date: '2026-03-12T06:38:04.000Z'
-  tags: [人工智能,龙虾OpenClaw]
+  tags: [中国,人工智能,龙虾OpenClaw]
   text: 后续：腾讯：我们只爬了 1GB，还帮你分发了 180GB 的数据呢！
   url: https://x.com/NekoStranding/status/2031983041934205426
 - author: Twitter@Orange AI
   date: '2026-03-12T23:50:31.000Z'
-  tags: [人工智能,龙虾OpenClaw]
+  tags: [中国,人工智能,龙虾OpenClaw]
   text: 腾讯竟然搞出了 Agent 届的第一个流氓软件…
   url: https://x.com/oran_ge/status/2032242866928697447
+- author: Twitter@左子祯
+  date: '2026-03-15T08:16:43.000Z'
+  tags: [中国,人工智能,龙虾OpenClaw]
+  text: '无需 API 权限，可直接上锅蒸'
+  url: https://x.com/zuozizhen/status/2033095034510467442
 #
 - author: Twitter@阿橡
   date: '2026-03-06T03:32:02.000Z'
-  tags: [人工智能,电力]
+  tags: [人工智能,电力,美国]
   text: 比尔盖茨创办的核能公司TerraPower获美国小型核电站建设许可 TerraPower表示，美国核管理委员会（NRC）已为其在怀俄明州规划的核电站颁发了建设许可证，该核电站预计将于2030年投入运营。 SK集团在一份声明中表示：“这是美国核管理委员会十年来首次批准新建商业核电站。”
   url: https://x.com/oakvale5/status/2029761898967924900
 #
@@ -439,6 +444,12 @@ data:
 #
 - author: Twitter@小蛋糕(日本勇者村）
   date: '2026-03-15T08:07:22.000Z'
-  tags: [人工智能]
+  tags: [人工智能,美国,马斯克]
   text: XAI核心团队全面去华‼️ 最近马斯克对xAI创始团队大清洗： 原始12位联合创始人中，华人背景的5位（Greg Yang、Tony Wu、Jimmy Ba、Guodong Zhang、Zihang Dai）全被“开除”或离职‼️ 马斯克亲口说“最初没建好，从基础重建”，当初吹嘘的“全华班”，现在看来更像是个笑话 😂
   url: https://x.com/lovelycake/status/2033092677562957854
+#
+- author: Twitter@AB Kuai.Dong
+  date: '2026-03-16T06:32:21.000Z'
+  tags: [先进半导体]
+  text: 继中芯国际后的第二家，中国 7 纳米芯片制造商出现了。 今天外媒在轰炸式报道和追踪这一事件。
+  url: https://x.com/_FORAB/status/2033431155870244979
