@@ -472,9 +472,14 @@ data:
 #
 - author: Twitter@蓝点网
   date: '2026-03-17T10:35:25.000Z'
-  tags: [人工智能,日本,乐天]
+  tags: [人工智能,日本,乐天AI]
   text: '乐天发布日本最大的高性能 AI 模型乐天 AI 3.0，然后被网友发现是基于 #DeepSeek-V3 而来。 这在日语社区中引起很大争议，原因是乐天集团参与日本政府的 AI 加速器挑战赛并获得资金支持，结果是用 DS 微调而来的，当然乐天本身也提到模型充分利用开源社区的最优成果：'
   url: https://x.com/landiantech/status/2033854713536647546
+- author: Twitter@🚁Habsburg🚁
+  tags: [人工智能,日本,乐天AI]
+  date: '2026-03-18T08:09:39.000Z'
+  text: 中国人是如何污染信息的 你们现在用Ai搜索也会是这个内容。 图1是最早英文信息，其信息源中Hugging Face并没有在所谓X中发文该信息，而是在社区中（链接放在下一P） 在中国人叙事中乐天的模型是套壳。 笑不活了：“日本最高性能AI模型”，是DeepSeek V3改了个名？_腾讯新闻
+  url: https://x.com/habsburg334/status/2034180416618566098
 #
 - author: Twitter@中国人事观察
   date: '2026-03-17T06:52:21.000Z'
@@ -491,3 +496,19 @@ data:
   tags: [藏语,人工智能,中国]
   text: 世界首个藏语AI大模型问世
   url: https://www.zaobao.com.sg/news/china/story20260317-8746651
+#
+- author: 美国之音
+  date: '2026-03-18 17:06:52Z'
+  tags: [美国,川普MAGA,生物技术]
+  text: 一名中国癌症研究人员因试图将研究数据带回中国被判监禁
+  url: https://www.voachinese.com/a/former-cancer-researcher-sentenced-for-attempting-to-transfer-data-to-china-20260318/8127449.html
+- author: Twitter@Yufan Sheng
+  date: '2026-03-18T10:34:00.000Z'
+  tags: [中国,人工智能,裁员]
+  text: 解释一下去年看到的讯飞裁员赔偿按 0.6n 或者 0.7n 计算的原因。 所谓的 0.7n 是因为，科大讯飞的月工资是按 0.7 系数交五险一金和发放，然后三个月来一次绩效工资。年底的时候按照全年的绩效计算最后一个月的工资，有时候还会出现负数的情况。 此外，讯飞还有一些有意思的设定，以后再讲。🌚
+  url: https://x.com/syhily/status/2034216742952853560
+- author: Twitter@iPaul
+  date: '2026-03-18T21:18:45.000Z'
+  text: 杭州又一次超前了
+  tags: [中国,人工智能,裁员]
+  url: https://x.com/iPaulCanada/status/2034378999808291210
