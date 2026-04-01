@@ -533,8 +533,18 @@ data:
   tags: [美国,中国,人工智能,Composer2]
   text: 哇哦！刺激了🍉Cursor「自研」Composer 2 被曝内藏 Kimi K2.5，月之暗面公开指控：未遵守许可证、未支付费用！！ 今日，开发者 @fynnso 在调试 Cursor API 请求时发现，Composer 2 的实际模型 ID 为 `kimi-k2p5-rl-0317-s515-fast`，字面即「Kimi K2.5 + RL」。 月之暗面（Moonshot
   url: https://x.com/BlockBeatsAsia/status/2034939381853594034
+- author: Twitter@Michael Guo
+  date: '2026-03-20T21:13:45.000Z'
+  tags: [美国,中国,人工智能,Composer2]
+  text: 这个事件基本可以告一段落，这本质上就是一次典乌龙。 Fireworks AI 其实早在 21 小时前就已经发布过 Composer 2 的消息并明确说了这是基于他们基础设施进行 RL 训练的模型。Cursor是合法使用， 只是他们在新闻发布中玩了个小猫腻只字不提背后的Open模型，结果给人抓了个小辫子。
+  url: https://x.com/Michaelzsguo/status/2035102518552707261
 - author: Twitter@墓碑科技
   date: '2026-03-20T07:42:58.000Z'
   tags: [人工智能]
   text: 如果全球互联网瞬间消失，你的电脑还能干什么？ 有人刚刚开源了一个断网生存包。 项目名叫 Project N.O.M.A.D。 即使所有网线被剪断，它也能照常运转。 里面打包了整个人类文明的基础数据。 全套维基百科，全球离线地图，完整的医学参考指南。 外加可汗学院的全套教育课程。
   url: https://x.com/mubeitech/status/2034898478854275423
+- author: Twitter@大变活人
+  date: '2026-03-20T14:05:34.000Z'
+  tags: [太空竞赛,生物科技,中国]
+  text: 突发：在从小行星龙宫采集的样本中，发现了构成生命体基本单元——DNA和RNA——的全部五种核酸碱基。
+  url: https://x.com/seanwei001/status/2034994762303127627
