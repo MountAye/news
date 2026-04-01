@@ -512,3 +512,29 @@ data:
   text: 杭州又一次超前了
   tags: [中国,人工智能,裁员]
   url: https://x.com/iPaulCanada/status/2034378999808291210
+- author: Twitter@大梦想家迪士尼
+  date: '2026-03-19T05:57:37.000Z'
+  tags: [美国,人工智能,Anthropic]
+  text: 其实 Anthropic 不停封杀账号全额退款但又允许注册新账号的目的就是让中国开发者能够使用最先进模型的同时又无需向美国公司付款，从而达成帮助中国AI赶超美国的伟大共产主义理想🤡 以历史的眼光看 Dario 就是AI领域的白求恩😀
+  url: https://x.com/discountifu/status/2034509578982096990
+- author: Twitter@AB Kuai.Dong
+  date: '2026-03-20T04:15:46.000Z'
+  tags: [美国,先进半导体,禁运与走私]
+  text: 原来之前的高端芯片是这么来的。 超微电脑联合创始人 Wally Liaw，被指控向中国输送高端 AI 芯片，堪比教科书级别。 由于之前的制裁措施，美国不允许高端 AI 处理器，直接运给中国，于是他们就找了一家东南亚公司，当中转站。 他们会先表面卖给东南亚，然后在当地工厂拆掉 AI
+  url: https://x.com/_FORAB/status/2034846334327689332
+- author: Twitter@亚洲金融 Asia Finance
+  date: '2026-03-20T04:40:56.000Z'
+  tags: [美国,先进半导体,禁运与走私]
+  text: 两年前，如不是昆仑巢创始人苏菂的炫耀走私，联邦调查局(FBI)不可能顺藤摸瓜，直接查到了超微电脑(SMCI)高层。亚洲金融@AsiaFinance上一个视频里，苏菂直接展示了SuperMicro的标识，可谓一箭双雕：一是给美国人递刀子，二是在中国骗投资。目前SMCI前高管廖益贤(71岁/美国公民)与孙廷伟(44岁/台湾居民)
+  url: https://x.com/AsiaFinance/status/2034852669559644381
+#
+- author: Twitter@BlockBeats｜We're hiring!
+  date: '2026-03-20T10:25:30.000Z'
+  tags: [美国,中国,人工智能,Composer2]
+  text: 哇哦！刺激了🍉Cursor「自研」Composer 2 被曝内藏 Kimi K2.5，月之暗面公开指控：未遵守许可证、未支付费用！！ 今日，开发者 @fynnso 在调试 Cursor API 请求时发现，Composer 2 的实际模型 ID 为 `kimi-k2p5-rl-0317-s515-fast`，字面即「Kimi K2.5 + RL」。 月之暗面（Moonshot
+  url: https://x.com/BlockBeatsAsia/status/2034939381853594034
+- author: Twitter@墓碑科技
+  date: '2026-03-20T07:42:58.000Z'
+  tags: [人工智能]
+  text: 如果全球互联网瞬间消失，你的电脑还能干什么？ 有人刚刚开源了一个断网生存包。 项目名叫 Project N.O.M.A.D。 即使所有网线被剪断，它也能照常运转。 里面打包了整个人类文明的基础数据。 全套维基百科，全球离线地图，完整的医学参考指南。 外加可汗学院的全套教育课程。
+  url: https://x.com/mubeitech/status/2034898478854275423
