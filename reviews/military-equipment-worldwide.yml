@@ -478,6 +478,16 @@ data:
   date: '2026-03-21T10:26:33.000Z'
   text: 据突防防务报道，从今年秋季开始，交付给美军方的所有新生产F-35隐形战机将不配备雷达，这一问题可能会持续一段时间，并限制这些战机参与作战行动的能力。新型的APG-85雷达由于研发延误，这些飞机将先于APG-85完成生产。由于结构不同，旧型号APG-81雷达无法安装到为APG-85设计的机体位置中。
   url: https://x.com/Aurora107E/status/2035302033721549175
+- author: Twitter@Colby Badhwar
+  date: '2026-03-21T18:25:53.000Z'
+  tags: [美国,空军,战斗机,五代机,F-22]
+  text: I think this is the first time we're getting a high res picture of the F-22 with its new low observable external fuel tanks. Last month Lockheed Martin had a model of "Raptor 2.0" with them on display at AFA. 📸 via @thewarzonewire
+  url: https://x.com/ColbyBadhwar/status/2035422663569481799
+- author: Twitter@Keane Rara
+  date: '2026-03-22T12:15:16.000Z'
+  tags: [美国,空军,隐身加油机,波音]
+  text: Boeing stealth air tanker proposal looks more like a bomber than its docile and benign role. It goes back to a question whether there's a neef for tankers to fly near high risk areas?
+  url: https://x.com/GardaAramis/status/2035691781103439967
 #
 - author: Twitter@Colby Badhwar 🇨🇦🇬🇧
   date: '2025-12-15T16:44:24.000Z'
@@ -798,3 +808,9 @@ data:
   text: DRDO Prepares HSTDV Phase-2 Tests to Achieve Sustained Hypersonic Flight
   url: https://x.com/idrwalerts/status/2032664026036187405
   tags: [印度,导弹,高超音速]
+#
+- author: Twitter@DW 中文- 德国之声
+  date: '2026-03-22T07:02:42.000Z'
+  tags: [挪威,官兵]
+  text: 挪威政府希望吸引更多年轻女性参军。自2015年实行全民征兵制以来，女性参军人数一直在稳步增长。刚刚高中毕业的卡娅和卡琳在挪威武装部队正式报道服役。军营中的生活让她们感到又新鲜又兴奋。不久之后她们可能就要在与俄罗斯接壤的200公里长的北部边境巡逻了。#dwcurrentaffairs
+  url: https://x.com/dw_chinese/status/2035613119834152997
