@@ -527,7 +527,7 @@ data:
   url: https://www.zaobao.com.sg/news/china/story20260317-8746651
 #
 - author: 美国之音
-  date: '2026-03-18 17:06:52Z'
+  date: '2026-03-18T17:06:52Z'
   tags: [美国,川普MAGA,生物技术]
   text: 一名中国癌症研究人员因试图将研究数据带回中国被判监禁
   url: https://www.voachinese.com/a/former-cancer-researcher-sentenced-for-attempting-to-transfer-data-to-china-20260318/8127449.html
