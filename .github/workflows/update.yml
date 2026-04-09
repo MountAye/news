@@ -1,8 +1,8 @@
-name: Data Update
+name: Data Update for Myself
 on:
   push:
     branches: [main]
-    paths: ['reviews/**/*.yml']
+    paths: ['reviews/**/*.yml', 'cache/**/*.yml']
 jobs:
   validate:
     runs-on: ubuntu-latest

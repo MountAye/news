@@ -1,12 +1,9 @@
-name: Validate YAML Format
+name: Validate YAML Format for Others
 on: 
-  push:
-    branches: [main]
-    paths: ['reviews/**/*.yml']
   pull_request:
     types: [opened, reopened]
     branches: [main]
-    paths: ['reviews/**/*.yml']
+    paths: ['reviews/**/*.yml', 'cache/**/*.yml']
 jobs:
   validate:
     runs-on: ubuntu-latest
