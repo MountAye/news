@@ -621,9 +621,14 @@ data:
   url: https://x.com/landiantech/status/2036998693891764347
 - author: Twitter@Rainier
   date: '2026-03-27T04:00:25.000Z'
-  tags: [人工智能,美国,中国]
+  tags: [人工智能,美国,中国,技术封锁]
   text: 哎…. 罗马和拜占庭相互决罚。 后面相互之间的冲突可能还会进一步升级。 应该欧洲担起责任，承担科技界的中立国。 中美欧都去欧洲开会。
   url: https://x.com/mtrainier2020/status/2037379187515039886
+- author: Twitter@K.L
+  date: '2026-03-31T04:05:37.000Z'
+  tags: [人工智能,美国,中国,技术封锁]
+  text: NeurIPS：🙏是我们失误搞错了。 中国科协：🙂那就将错就错吧！
+  url: https://x.com/kinglinzhuhui/status/2038830048816590958
 - author: Twitter@Forefront Society
   date: '2026-03-27T01:39:03.000Z'
   tags: [美国,中国,工业原料,稀土]
@@ -670,3 +675,51 @@ data:
   tags: [中国,人工智能,苹果]
   text: '#突发消息 *** 退钱！苹果失误向中国用户推送 AI 功能，随后苹果在大半夜紧急撤回，用户已无法下载使用。 昨天夜里诸多网友发现在受支持的 iPhone 上可以下载 9GB 模型启用苹果 AI 服务，但到早晨该功能已被禁用，用户也无法重新下载和启用功能。 查看全文：'
   url: https://x.com/landiantech/status/2038792101211803914
+- author: Twitter@有没有搞措
+  date: '2026-03-31T11:43:41.000Z'
+  tags: [中国,人工智能,苹果]
+  text: 坏消息：苹果强制回收了国行 AI 好消息：Apple智能的资源文件还在 坏消息：这个 7G的资源文件删不掉 好消息：上线后无需重复下载资源文件 坏消息：上线日期不定，可能遥遥无期
+  url: https://x.com/L0vetodream/status/2038945324849672702
+- author: Twitter@陈成
+  date: '2026-03-31T09:01:06.000Z'
+  tags: [美国,人工智能,Claude]
+  text: Claude Code 泄露了全部源码——不是被黑客攻破，是 Anthropic 自己把 source map 打包进了 npm 发布物。 一个 57MB 的
+  url: https://x.com/chenchengpro/status/2038904406406476195
+- author: Twitter@Sanbu
+  date: '2026-03-31T11:25:32.000Z'
+  tags: [美国,人工智能,Claude]
+  text: 从 ClaudeCode 源码破译了 Anthropic 的邪恶部分，一共三宗罪： 1. 无法关闭的数据上报 2. 不经用户同意可以改变行为或强制退出的远程操控 3. Anthropic 员工可在开源项目中隐藏 AI 身份
+  url: https://x.com/sanbuphy/status/2038940755486789815
+- author: Twitter@Luv Letter
+  date: '2026-03-31T07:11:35.000Z'
+  tags: [苹果,人工智能,科技硬件]
+  text: M5 和 M4 Max 的 SPEC 单核 gcc12.6 都能到 14.X 分左右, 目测 M5 Pro/Max 能上 15 分了, 比9800X3D还强, 加上 M5 Pro 全核吞吐基本达到 Intel 桌面 i9/9950X 的性能, 除了网游方面的考量, 感觉没什么理由买 PC 了... BTW watchOS26 从 arm64_32换 arm64 也是出于解放virt地址空间还有提升 malloc
+  url: https://x.com/LuvLetter_moe/status/2038876845337403723
+- author: Twitter@蓝点网
+  date: '2026-03-31T13:58:29.000Z'
+  text: '开发者社区狂欢！A 社不慎泄露 #ClaudeCode 源代码，内部多种机密被曝光，例如如何收集信息并封号等。 Claude Code 会收集多种信息回传到 API 平台，但最终是否封号由 API 平台决定，其中信誉较低的烂 IP 是封禁的重点，其他收集的信息还包括跨会话生成标识符等。 查看全文：'
+  url: https://x.com/landiantech/status/2038979244924231737
+- author: Twitter@Jason
+  date: '2026-03-31T11:07:05.000Z'
+  tags: [中国,人工智能,苹果]
+  text: 双方都守住了底线，所以 Apple Intelligence 在中国迟迟没有落地。 技术上早就准备好了，卡的就是那道”后门”——监管要求数据本地化、内容可审查，Apple 不愿开这个口子。 这个僵局的本质是：商业利益 vs. 隐私承诺，两边都不想先低头。 从结果来看，反而是一种奇特的平衡——Apple
+  url: https://x.com/EvanWritesX/status/2038936110634774923
+- author: Twitter@李老师不是你老师
+  date: '2026-04-01T08:40:00.000Z'
+  tags: [美国,生物技术,技术封锁]
+  text: 一对夫妇因涉嫌合谋窃取医学研究机密并与中国分享，被撤销美国公民身份。 3月31日，据多家媒体报道，加利福尼亚州南区联邦地区法院一名法官下令取消两名归化入籍的美国公民的身份。法官裁决，陈莉(音译，Li Chen)和周宇(音译，Yu Zhou)夫妇二人的公民身份是非法获取的。
+  url: https://x.com/whyyoutouzhele/status/2039261484698751054
+- author: Twitter@蓝点网
+  date: '2026-04-01T04:08:54.000Z'
+  tags: [朝鲜,网络安全]
+  text: '将军的动机依然这么纯粹：谷歌溯源发现 #Axios 供应链攻击背后的黑客是朝鲜黑客团伙 UNC1069，其主要目标可能是盗取加密货币。 谷歌威胁情报小组溯源发现发动攻击的黑客使用的后门和基础设施与 UNC1069 此前使用的后门和设施有重叠，因此基本可以确定这又是朝鲜黑客干的。 👉🏻'
+  url: https://x.com/landiantech/status/2039193259973714425
+- text: 中国博士后遭美方约谈后, 自杀身亡! 细节首次曝光
+  date: '2026-03-31'
+  tags: [中国,美国,博士后自杀,技术封锁]
+  url: https://www.bcbay.com/news/2026/03/31/1012597.html
+- author: Twitter@思维怪怪
+  date: '2026-04-01T03:52:40.000Z'
+  tags: [人工智能,模型压缩,加州理工]
+  text: 加州理工团队 PrismML 开源了 1-bit Bonsai 系列大模型。8B 参数的模型只占 1.15GB 内存，iPhone 上跑到 44 token/s。 什么是 1-bit？ AI 模型的本质是几十亿个数字（参数）。主流模型用 16-bit 精度存储每个参数，也就是每个数字可以取 65536 种不同的值，记录非常细微的差异。代价是一个 8B
+  url: https://x.com/0xLogicrw/status/2039189174490947584
