@@ -723,3 +723,28 @@ data:
   tags: [人工智能,模型压缩,加州理工]
   text: 加州理工团队 PrismML 开源了 1-bit Bonsai 系列大模型。8B 参数的模型只占 1.15GB 内存，iPhone 上跑到 44 token/s。 什么是 1-bit？ AI 模型的本质是几十亿个数字（参数）。主流模型用 16-bit 精度存储每个参数，也就是每个数字可以取 65536 种不同的值，记录非常细微的差异。代价是一个 8B
   url: https://x.com/0xLogicrw/status/2039189174490947584
+- author: Twitter@多伦多方脸
+  date: '2026-04-01T22:53:50.000Z'
+  text: NASA于今日发射了 Artemis（阿耳忒弥斯） II号火箭 该火箭搭载了三名美国宇航员和一名加拿大宇航员，前往月球上空 此次计划飞行累计时间10天，主要任务为飞越月球并观测 Artemis计划是美国重返月球的计划 计划在2028年初，Artemis 4号火箭发射时完成登月 到时相关人员将在月球南极停留一周时间
+  url: https://x.com/torontobigface/status/2039476360993763840
+  tags: [太空竞赛,月球探索,美国,加拿大,Artemis2]
+- author: Twitter@Space Intelligence
+  date: '2026-04-01T22:50:00.000Z'
+  text: Nice view of the core stage separation!
+  url: https://x.com/SpaceIntel101/status/2039475395343294963
+  tags: [太空竞赛,月球探索,Artemis2]
+- author: Twitter@LIN WEI
+  date: '2026-04-01T15:05:25.000Z'
+  text: 这次 nasa 月球任务用的火箭不但性能只有土星五号的一半，成本还比土星五号高很多，所以这六十多年技术到底发展了没？
+  url: https://x.com/skywind3000/status/2039358477412536365
+  tags: [太空竞赛,月球探索,美国,Artemis2]
+- author: Twitter@海伦子Hellen
+  date: '2026-04-02T01:05:27.000Z'
+  text: Artemis II任务的运行轨道很有意思，飞船是不会进入到月球轨道的，而是会飞往距离月球7400km的高度， 然后返回地球。
+  url: https://x.com/peng_hellen/status/2039509481613365522
+  tags: [太空竞赛,月球探索,美国,Artemis2]
+- author: Twitter@土拨鼠札记
+  date: '2026-04-02T15:00:40.000Z'
+  text: 固体（大分子）发动机燃气的浓烈与氢氧发动机（小分子）燃气的清澈差别一目了然。
+  url: https://x.com/FrankLSG/status/2039719670513852852
+  tags: [太空竞赛,月球探索,美国,Artemis2]
