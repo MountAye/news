@@ -224,7 +224,12 @@ data:
 #
 - author: 联合早报
   date: '2026-01-13'
-  tags: [越南内政]
+  tags: [越南,内政,共产主义]
   text: 越共总书记苏林或兼任国家主席独揽大权
   url: https://www.zaobao.com.sg/news/sea/story20260113-8090625
-
+#
+- author: Twitter@艾布拉姆斯🇺🇸💙💛
+  date: '2026-04-09T17:27:19.000Z'
+  text: "看来克钦独立军从缅甸军队手中缴获了一辆中国制造的WZ-551 (ZSL-92)"
+  url: https://x.com/SuTNkwfrFkMhHsG/status/2042293290742268407
+  tags: [缅甸,军阀混战]

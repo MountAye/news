@@ -716,7 +716,7 @@ data:
   url: https://x.com/landiantech/status/2039193259973714425
 - text: 中国博士后遭美方约谈后, 自杀身亡! 细节首次曝光
   date: '2026-03-31'
-  tags: [中国,美国,博士后自杀,技术封锁]
+  tags: [中国,美国,密歇根博士后自杀,技术封锁]
   url: https://www.bcbay.com/news/2026/03/31/1012597.html
 - author: Twitter@思维怪怪
   date: '2026-04-01T03:52:40.000Z'
@@ -748,3 +748,40 @@ data:
   text: 固体（大分子）发动机燃气的浓烈与氢氧发动机（小分子）燃气的清澈差别一目了然。
   url: https://x.com/FrankLSG/status/2039719670513852852
   tags: [太空竞赛,月球探索,美国,Artemis2]
+- author: BBCNews中文
+  text: "我們為什麼要重返月球？新一輪太空競賽的利害關係是什麼？ - BBC News 中文"
+  url: https://www.bbc.com/zhongwen/articles/cx2lx71ylplo/trad
+  tags: [太空竞赛,月球探索,Artemis2]
+- author: 美国之音
+  date: '2026-04-03T19:47:23Z'
+  text: "美国会两院两党推出新法案限制对华出口关键芯片制造设备"
+  url: https://www.voachinese.com/a/bipartisan-us-lawmakers-introduce-bill-to-ban-key-ai-chipmaking-equipment-sales-to-china-20260403/8134095.html
+  tags: [先进半导体,技术封锁,美国]
+- author: Twitter@entropy🇮🇸
+  date: '2026-04-06T10:51:23.000Z'
+  text: "2017年，东京大学物理工学专业渡边悠树发推，自己正申请用科研费买一支笔，却被学校告知，他应该“避免用研究经费买笔和其他物品，因为即使是用于计算，这支笔是否真的用于研究值得怀疑。” 随后的推特中，渡边再次抱怨经费紧张，还讽刺地表示“发推特用的是自己的手机和流量，不是学校发的电脑和wifi。”"
+  url: https://x.com/entropy_01/status/2041106489075732693
+  tags: [科研机构,东京大学]
+- author: 美国之音
+  date: '2026-04-08T18:25:08Z'
+  text: "密歇根大学中国籍研究人员坠亡和美国对中国在美国大学校园间谍活动的担忧"
+  url: https://www.voachinese.com/a/chinese-researcher-found-dead-at-university-of-michigan-amid-rising-espionage-concerns-20260408/8135733.html
+  tags: [中国,美国,密歇根博士后自杀,技术封锁]
+- author: Twitter@李老师不是你老师
+  date: '2026-04-09T07:40:00.000Z'
+  text: "4月9日，多名博主曝光同济大学王平教授花费上百万经费写的nature论文，出现多处明显的造假。"
+  url: https://x.com/whyyoutouzhele/status/2042145488053662129
+  tags: [科研机构,同济大学]
+- author: BBCNews中文
+  text: "阿提米丝二号绕月任务取得巨大成功，真正的挑战尚在前面 - BBC News 中文"
+  url: https://www.bbc.com/zhongwen/articles/cm2rx7le123o/simp
+  tags: [太空竞赛,月球探索,Artemis2]
+- author: 美国之音
+  date: '2026-04-11T02:27:20Z'
+  text: "“阿尔忒弥斯二号”探月任务宇航员返回地球"
+  url: https://www.voachinese.com/a/artemis-ii-mission-astronauts-return-to-earth-20260410/8136718.html
+  tags: [太空竞赛,月球探索,Artemis2]
+- author: BBCNews中文
+  text: "美國「阿提米絲2號」火箭成功發射——接下來會發生什麼？ - BBC News 中文"
+  url: https://www.bbc.com/zhongwen/articles/cqj8q94v5ezo/trad
+  tags: [太空竞赛,月球探索,Artemis2]
