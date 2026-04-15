@@ -741,9 +741,14 @@ data:
   tags: [中国,美国,密歇根博士后自杀,技术封锁]
 - author: Twitter@李老师不是你老师
   date: '2026-04-09T07:40:00.000Z'
+  tags: [中国,科研机构,同济大学,学术不端]
   text: "4月9日，多名博主曝光同济大学王平教授花费上百万经费写的nature论文，出现多处明显的造假。"
   url: https://x.com/whyyoutouzhele/status/2042145488053662129
-  tags: [科研机构,同济大学]
+- author: Twitter@Franklin🇮🇷🇵🇸🇺🇦🇷🇺🇮🇱🇹🇼 🇨🇳
+  date: '2026-04-14T04:12:29.000Z'
+  tags: [中国,科研机构,同济大学,学术不端]
+  text: 同济一生命科学正教授nature论文由于没有使用随机数加扰，导致造假数据特征太明显被抓包 不会傅立叶的缺点暴露无遗
+  url: https://x.com/franklinHaHaHa/status/2043905203691553018
 - author: BBCNews中文
   text: "阿提米丝二号绕月任务取得巨大成功，真正的挑战尚在前面 - BBC News 中文"
   url: https://www.bbc.com/zhongwen/articles/cm2rx7le123o/simp
@@ -757,3 +762,18 @@ data:
   text: "美國「阿提米絲2號」火箭成功發射——接下來會發生什麼？ - BBC News 中文"
   url: https://www.bbc.com/zhongwen/articles/cqj8q94v5ezo/trad
   tags: [太空竞赛,月球探索,Artemis2]
+- author: Twitter@Franklin🇮🇷🇵🇸🇺🇦🇷🇺🇮🇱🇹🇼 🇨🇳
+  date: '2026-04-13T14:33:33.000Z'
+  tags: [太空竞赛,中国]
+  text: 再多说两句，中国航天现在都完全没玩明白上面级，只能在二级上面叠三级，三级上面叠四级，通过消耗有效载荷的重量来搞远征上面级。人家半人马座、蓝色起源二级，重型猎鹰二级多次点火把上面级都玩出花了。
+  url: https://x.com/franklinHaHaHa/status/2043699114161185242
+- author: Twitter@Max Lv
+  date: '2026-04-14T23:18:29.000Z'
+  tags: [中国,人工智能,技术封锁]
+  text: 众所周知， OpenRouter 上按token消耗量排名，全球前六大模型均为中国产品，中国模型整体占全球用量近半。但更值得关注的是支撑它的物理基础设施——顺着资金流和算力部署路径追踪，指向的是同一个地理坐标：新柔巴（SIJORI）走廊。
+  url: https://x.com/m0d8ye/status/2044193606521761882
+- author: Twitter@小互
+  date: '2026-04-15T07:24:28.000Z'
+  tags: [美国,人工智能,Claude]
+  text: 完蛋了 中国用户彻底要被封杀了 Claude 推出了全新的用身份验证 要验证的身份证和护照了... 要求你必须： 用有效的政府签发带照片身份证件：需持有实体原件 而且复印件、屏幕截图、扫描件或翻拍的照片通通不行 一部带有摄像头的手机或电脑：要求使用手机或网络摄像头拍摄一张实时自拍照 😂
+  url: https://x.com/xiaohu/status/2044315906462150814
