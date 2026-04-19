@@ -200,8 +200,8 @@ if __name__ == "__main__":
             info = read_b23tv(url, soup)
         # elif url.startswith("https://www.bilibili.com/"):
         #     info = read_bilibili(url, soup)
-        elif url.startswith("https://www.reddit.com/"):
-            info = read_reddit(url,soup)
+        # elif url.startswith("https://www.reddit.com/"):
+        #     info = read_reddit(url,soup)
         elif url.startswith("https://x.com"):
             info = read_x(url, soup)
         elif url.startswith("https://www.zaobao.com.sg/"):
