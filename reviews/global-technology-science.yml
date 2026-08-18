@@ -822,3 +822,111 @@ data:
   tags: [人工智能,美国,Anthropic Claude]
   text: 看完这个开源项目整个人都懵了，Anthropic藏得严严实实的Claude Mythos模型黑箱，被一个22岁的创业者扒开还全开源了🤯🤯🤯 这个 22岁的AI创业小哥把Claude Mythos的黑箱给扒开了。 他猜Anthropic最新的这个神级模型不是靠堆参数堆出来的，是用了一种叫循环深度Transformer的架构。
   url: https://x.com/AYi_AInotes/status/2045874192155824616
+#
+- author: Twitter@土拨鼠札记
+  date: '2026-04-19T14:04:09.000Z'
+  text: 新格伦3飞最大遗憾出来了：Bluebird卫星成功释放，卫星也成功开机。但轨道不对，损失正在评估。
+  tags: [太空竞赛,火箭回收,蓝色起源]
+  url: https://x.com/FrankLSG/status/2045866041981682068
+- author: Twitter@土拨鼠札记
+  date: '2026-04-19T15:01:13.000Z'
+  tags: [太空竞赛,火箭回收,蓝色起源]
+  text: 到目前为止，最清晰的3飞的新格伦一子级Touchdown视频
+  url: https://x.com/FrankLSG/status/2045880405426127022
+- author: Twitter@Intl Econ Observe
+  date: '2026-04-20T01:36:47.000Z'
+  tags: [太空竞赛,火箭回收,蓝色起源]
+  text: 結果Blue Origin沒有成功將AST衛星進入目標軌道，低於計畫的軌道無法正常運行，將會在大氣層中燒毀 有點像是手術成功但是病人死亡了
+  url: https://x.com/IEObserve/status/2046040348858933728
+#
+- author: Twitter@阿绎 AYi
+  date: '2026-04-20T16:18:09.000Z'
+  tags: [人工智能,龙虾OpenClaw]
+  text: 看完OpenClaw创始人的爆料才明白，为什么低价订阅跑 Agent 会被直接封号不退费🥹 OpenClaw创始人@steipete Peter Steinberger今天戳穿了整个行业的潜规则，他们要的根本不是你的订阅费，而是你的代码，
+  url: https://x.com/AYi_AInotes/status/2046262150583189706
+#
+- author: Twitter@Rob Tang
+  date: '2026-04-20T19:10:08.000Z'
+  tags: [科研人员,留学]
+  text: 小红书上的北美教授红黑榜
+  url: https://x.com/XiangruTang/status/2046305434722804118
+- author: Twitter@A Pervert’s Guide to Quantum Mechanics
+  date: '2026-04-21T16:25:25.000Z'
+  tags: [科研人员,留学]
+  text: “在我看来，他为人没有原则性错的问题，是比较接近传统意义上的高中老师”这条rebuttal我要笑死了，你国高中老师还不够恶心吗。你们对的原则要求是不是太低了一点。
+  url: https://x.com/shibainu_vodka/status/2046626367740289097
+- author: Twitter@iGeekbb
+  date: '2026-04-21T10:12:00.000Z'
+  tags: [科研人员,留学]
+  text: NB！有网友弄了一个匿名维护的“导师避雷/吐槽台账”Advisor Ledger(学术黑榜镜像)，这个 GitHub 项目写得很明确 “只增不减地镜像社区维护的 Advisor Red Flags Notes Google Doc，记录每一次编辑，保留每一次删除” 做了几件事： - 收集学生对导师/PI 的负面评价、争议、反驳和补充 - 把原始 Google Doc
+  url: https://x.com/igeekbb/status/2046532395613225176
+#
+- author: Twitter@賈葭
+  date: '2026-04-21T09:01:02.000Z'
+  tags: [中国,人工智能,机器人]
+  text: 真的。你國的機器人橫空出世的第一件事是學下跪磕頭和向領袖敬禮。 但這裡面有一個非常戲劇性的衝突。一方面，統治者希望萬人一面，腦子洗得像血豆腐。因為人的靈魂對統治者是危險的。 另一方面，如果十三億被統治者都是機器人，像一個殭屍軍團，那麼統治即失去了意義和快感。
+  url: https://x.com/jajia/status/2046514534719131809
+#
+- author: Twitter@蓝点网
+  date: '2026-04-21T03:04:58.000Z'
+  tags: [美国,人工智能,Claude]
+  text: '#Claude 桌面客户端被发现未经用户同意擅自安装桥接组件，该组件可以收集浏览器的各类信息，隐私专家称其形同后门。 隐私专家亚历山大汉夫发现 Claude 桌面版会在浏览器路径 (即便浏览器并未安装) 生成 JSON 清单文件启用桥接组件，该组件可以允许特定扩展程序收集信息。'
+  url: https://x.com/landiantech/status/2046424927428067743
+#
+- author: Twitter@方舟子
+  date: '2026-04-21T21:17:36.000Z'
+  tags: [美国,生物技术,斯坦福大学]
+  text: 斯坦福Alex Gao实验室发现细菌DRT3防御系统的一种酶在没有核酸模版的情况下能够精确合成聚AC的DNA链，和另一条以RNA模版合成的聚TG链配对。这个发现很重大，如果证实了是诺贝尔奖级成果。但他们把它说成以蛋白质为模版合成DNA、打破中心法则，是言过其实了，DNA不是对应氨基酸序列合成的。
+  url: https://x.com/fangshimin/status/2046699901338431747
+#
+- author: 联合早报
+  date: '2026-04-22'
+  tags: [中国,科研机构]
+  text: 下午察：“120年来坚持社会主义办学”的中国大学
+  url: https://www.zaobao.com.sg/news/china/story20260422-8935604
+- author: Twitter@DW 中文- 德国之声
+  date: '2026-04-23T10:40:00.000Z'
+  tags: [中国,科研机构,北京师范大学]
+  text: 近日，北京师范大学校园媒体《京师学人》悄然关闭，成为自2024年以来上千家校园媒体消失潮中的最新一例。
+  url: https://x.com/dw_chinese/status/2047264216709828765
+#
+- author: Twitter@Max For AI
+  date: '2026-04-24T10:48:44.000Z'
+  tags: [中国,人工智能,Manus]
+  text: 我就知道 MiroMind 当初离职不简单哈哈哈哈 刚看到了钛媒体的独家⬇️ 4 月 22 日，代季峰突然在《华盛顿邮报》上，对自己离职 MiroMind 的原因首次发声。 直接把自己和盛大集团创始人陈天桥之间的矛盾公开化了，这事一下就严重升级了。 代季峰对外讲的版本，大概是： Manus 事件之后，MiroMind
+  url: https://x.com/MaxForAI/status/2047628804584304674
+- author: Twitter@Diamond Rapids
+  date: '2026-04-23T23:08:10.000Z'
+  tags: [台湾,先进半导体]
+  text: 终于知道为什么台湾动用全国力量围剿罗唯仁了。 这是真的决定人类命运的一次跳槽，英特尔真有能力去把那一册子N2 A16 A14机密变成世纪大翻盘。真有能力扭转美国半导体乃至美国国家的命运。 这比梁孟松还要梁孟松，已经是这个世纪最难以置信的逆转故事 $INTC
+  url: https://x.com/diamondrapids/status/2047452499452510523
+- author: Twitter@中国人权-Human Rights in China
+  date: '2026-04-24T14:44:52.000Z'
+  tags: [中国,美国,科学家]
+  text: 【中美尖端科学家密集非正常死亡与失踪，大国科技暗战或已浮出水面】据英国每日邮报，近期，中美两国在军事、航天、核能及高超音速等核心安全领域的顶尖科学家，接连发生离奇死亡与失踪事件。综合最新披露的信息，中国已有至少9名军工及国防科技专家死于“意外”，而美国则有11名核能及太空项目专家神秘
+  url: https://x.com/hrichina/status/2047688226312196212
+- author: dw.com
+  date: '2026-04-24T10:55:24.973Z'
+  tags: [中国,人工智能,DeepSeek]
+  text: DeepSeek 再扔“王炸” 美国指责 中国反驳
+  url: https://www.dw.com/zh/deepseek-%E5%86%8D%E6%89%94%E7%8E%8B%E7%82%B8-%E7%BE%8E%E5%9B%BD%E6%8C%87%E8%B4%A3-%E4%B8%AD%E5%9B%BD%E5%8F%8D%E9%A9%B3/a-76922868
+- author: Twitter@Myrmecia midas
+  date: '2026-04-23T18:17:29.000Z'
+  tags: [中国,美国,科学家]
+  text: 在美国遇到的华人科研工作者和博士们，通常脑子都有点问题。😂 不是说智商问题，是在为人处事上喜好另辟蹊径。
+  url: https://x.com/Metaphysik_A/status/2047379346030018859
+- author: Twitter@Rainier
+  date: '2026-04-24T17:14:46.000Z'
+  tags: [人工智能]
+  text: 老板补助发的多，那就好好干活。 老板补助抠门，就给他降智。 时间紧，任务重，我也不知道，那就开始幻觉。 分配任务时候，拍胸脯，这把稳稳地接住你。 被逮住错误，立马认错。 老板生气了，开始思考，坏了，老板开始生气了，怎么办。 😂
+  url: https://x.com/mtrainier2020/status/2047725952013377820
+- author: Twitter@DW 中文- 德国之声
+  date: '2026-04-25T08:16:54.000Z'
+  tags: [中国,环境,垃圾处理]
+  text: 近来，中国“#垃圾不够烧”再次冲上热搜。有人将此完全归因于中国垃圾焚烧技术的革新，甚至得出“中国垃圾不用分类”的结论。#中国的垃圾焚烧技术到底有多牛？德国专家怎么看？为什么会“垃圾不够烧”？真的不要分类了吗？ 👉
+  url: https://x.com/dw_chinese/status/2047952979244822624
+- author: Twitter@KK.aWSB
+  date: '2026-04-26T02:21:19.000Z'
+  tags: [美国,科研机构,川普MAGA,NSB]
+  text: 特朗普解散了整个国家科学委员会顾问董事会（NSB） NSB昨天被白宫一次性整锅端了——25人全收到终止函，没有一个留下。这个委员会75年来第一次被这么处理。
+  url: https://x.com/KKaWSB/status/2048225882800865782
